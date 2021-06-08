@@ -1,0 +1,587 @@
+INTERVENTION_ACCESSION	COMPOUND_NAME_REPORTED	COMPOUND_ROLE	DOSE	DOSE_FREQ_PER_INTERVAL	DOSE_REPORTED	DOSE_UNITS	DURATION	DURATION_UNIT	END_DAY	END_TIME	FORMULATION	IS_ONGOING	NAME_PREFERRED	NAME_REPORTED	REPORTED_INDICATION	ROUTE_OF_ADMIN_PREFERRED	ROUTE_OF_ADMIN_REPORTED	START_DAY	START_TIME	STATUS	STUDY_ACCESSION	SUBJECT_ACCESSION	WORKSPACE_ID
+SM162751	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG									Plaquenil	Rheumatoid Arthritis		PO=By Mouth	-1282		Continuing at end of study participation	SDY824	SUB169156	5300
+SM162752	Tenoretic	Concomitant Medication		QD=Every Day	100/25 MG									Atenolol-chlorthalidone	Hypertension		PO=By Mouth	-722		Continuing at end of study participation	SDY824	SUB169157	5300
+SM162753	Salbutamol	Concomitant Medication		as needed	2 puffs									Albuterol	Lung disease		INH=Inhalant	-114		Continuing at end of study participation	SDY824	SUB169157	5300
+SM162754	Aludrox	Concomitant Medication		QD=Every Day	2 tablespoons									Maalox	Heartburn		PO=By Mouth	-206		Continuing at end of study participation	SDY824	SUB169157	5300
+SM162755	Ceftriaxone	Concomitant Medication		QD=Every Day	0				171					Rocephin	Bronchitis		PO=By Mouth	167		Discontinued	SDY824	SUB169158	5300
+SM162756	Azithromycin	Concomitant Medication		QD=Every Day	250 MG				171					Azithromycin	Bronchitis		PO=By Mouth	167		Discontinued	SDY824	SUB169158	5300
+SM162757	Ocuvite	Concomitant Medication		QD=Every Day	1 TAB									Preservision	Supplement-eyes		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169158	5300
+SM162758	Gabapentin	Concomitant Medication		QID=4 Times Daily	300 MG									Neurontin	Pain		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169158	5300
+SM162759	Vicodin	Concomitant Medication		PRN - As Needed	7.5/500 MG									Lortab	Pain		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169158	5300
+SM162760	Lekovit ca	Concomitant Medication		BID=Twice Daily	600 MG									Calcium plus D	Osteoporosis prevention		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169158	5300
+SM162761	Alendronate sodium	Concomitant Medication		QW=Once a Week	70 MG									Fosamax	Osteoporosis Prevention		PO=By Mouth	-14		Continuing at end of study participation	SDY824	SUB169158	5300
+SM162762	Sertraline	Concomitant Medication		BID=Twice Daily	100 MG									Zoloft	Depression		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169158	5300
+SM162763	Trazodone	Concomitant Medication		QD=Every Day	50 MG									Trazodone	Sleep		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169158	5300
+SM162764	Carisoprodol	Concomitant Medication		PRN-As needed	350 MG									Soma	Muscle Relaxant		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169158	5300
+SM162765	Vicodin	Concomitant Medication		As needed	5 MG									Lortab	Pain		PO=By Mouth	-11		Continuing at end of study participation	SDY824	SUB169159	5300
+SM162766	Omeprazole	Concomitant Medication		QD=Every Day	40 MG									Prilosec	Reflux		PO=By Mouth	156		Continuing at end of study participation	SDY824	SUB169159	5300
+SM162767	Doxycycline	Concomitant Medication		BID=Twice Daily	100 MG				130					Doxycycline	Pneumonia		PO=By Mouth	121		Discontinued	SDY824	SUB169159	5300
+SM162768	Bactrim	Concomitant Medication		BID=Twice Daily	1 TAB				134					Bactrim DS	Pneumonia		PO=By Mouth	121		Discontinued	SDY824	SUB169159	5300
+SM162769	Antibiotics	Concomitant Medication		Every 4 hours as needed	2 Puffs				135					Unknown	Pneumonia		INH=Inhalant	121		Discontinued	SDY824	SUB169159	5300
+SM162770	Hydrochlorothiazide	Concomitant Medication		BID=Twice Daily	12.5 MG									HCTZ	Hypertension		PO=By Mouth	-7		Continuing at end of study participation	SDY824	SUB169159	5300
+SM162771	Pantoprazole	Concomitant Medication		QD=Every Day	40 MG				156					Protonix	Reflux		PO=By Mouth	92		Discontinued	SDY824	SUB169159	5300
+SM162772	Colecalciferol	Concomitant Medication		QD=Every Day	2,000 Units									Vitamin D3	Supplement		PO=By Mouth	-28		Continuing at end of study participation	SDY824	SUB169159	5300
+SM162773	Lorazepam	Concomitant Medication		As needed	.5 MG									Ativan	Depression		PO=By Mouth	91		Continuing at end of study participation	SDY824	SUB169159	5300
+SM162774	Aripiprazole	Concomitant Medication		Every night	2 MG									Abilify	Depression		PO=By Mouth	101		Continuing at end of study participation	SDY824	SUB169159	5300
+SM162775	Ascorbic acid	Concomitant Medication		TID=3 Times Daily	1000 MG									Vitamin C	Supplement		PO=By Mouth	-28		Continuing at end of study participation	SDY824	SUB169159	5300
+SM162776	Ondansetron	Concomitant Medication		As Needed	4 MG									Zofran	Nausea		PO=By Mouth	-87		Continuing at end of study participation	SDY824	SUB169159	5300
+SM162777	Paracetamol	Concomitant Medication		As Needed	500 MG									Tylenol	Pain		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169159	5300
+SM162778	Tramadol	Concomitant Medication		As Needed	50 MG				64					Tramadol	Pain		PO=By Mouth	-87		Discontinued	SDY824	SUB169159	5300
+SM162779	Omeprazole	Concomitant Medication		QD=Every Day	40 MG				91					Prilosec	Reflux		PO=By Mouth			Discontinued	SDY824	SUB169159	5300
+SM162780	Multivitamins	Concomitant Medication		QD=Every Day	1 TAB									Multivitamin	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169159	5300
+SM162781	Allium sativum	Concomitant Medication		QD=Every Day	1 TAB				50					Garlic	Supplement		PO=By Mouth			Discontinued	SDY824	SUB169159	5300
+SM162782	Fish oil	Concomitant Medication		TID=3 Times Daily	1000 MG									Fish Oil	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169159	5300
+SM162783	Enalapril	Concomitant Medication		BID=Twice Daily	20 MG									Enalapril	Hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169159	5300
+SM162784	Duloxetine hydrochloride	Concomitant Medication		BID=Twice Daily	60 MG									Cymbalta	Depression		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169159	5300
+SM162785	Calcium carbonate	Concomitant Medication		QD=Every Day	600 MG									Caltrate	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169159	5300
+SM162786	Salbutamol	Concomitant Medication		As Needed	90 MG									Albuterol MDI	Asthma		INH=Inhalant			Continuing at end of study participation	SDY824	SUB169159	5300
+SM162787	Fish oil	Concomitant Medication		QD=Every Day	2400 MG									Fish Oil	Dry Eyes		PO=By Mouth	-28		Continuing at end of study participation	SDY824	SUB169160	5300
+SM162788	Diuretics	Concomitant Medication		QD=Every Day	1 TAB									Diurex	Diuretic		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169160	5300
+SM162789	Venlafaxine hydrochloride	Concomitant Medication		QD=Every Day	150 MG				155					Effexor XR	Hot flashes		PO=By Mouth			Discontinued	SDY824	SUB169160	5300
+SM162790	Multivitamins	Concomitant Medication		QD=Every Day	1 TAB									Multivitamin	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169160	5300
+SM162791	Lekovit ca	Concomitant Medication		QD=Every Day	1200 MG									Calcium & Vitamin D	Bone health		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169160	5300
+SM162792	Fexofenadine	Concomitant Medication		As needed	180 MG									Allegra	Allergies		PO=By Mouth	-75		Continuing at end of study participation	SDY824	SUB169160	5300
+SM162793	Vicodin	Concomitant Medication		As needed	0									Lortab	Pain		PO=By Mouth	148		Continuing at end of study participation	SDY824	SUB169161	5300
+SM162794	Testosterone	Concomitant Medication		every 5 months	3 0									Testoped	Low Testosterone		INTRA=Intradermal	7		Continuing at end of study participation	SDY824	SUB169161	5300
+SM162795	Lansoprazole	Concomitant Medication		QD=Every Day	30 MG									Prevacid	Acid Reflux		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169161	5300
+SM162796	Linum usitatissimum seed oil	Concomitant Medication		QD=Every Day	1500 MG									Flaxseed Oil	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169161	5300
+SM162797	Fish oil	Concomitant Medication		QD=Every Day	1500 MG									Fish Oil	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169161	5300
+SM162798	Duloxetine hydrochloride	Concomitant Medication		QD=Every Day	60 MG									Cymbalta	Pain		PO=By Mouth	-1125		Continuing at end of study participation	SDY824	SUB169161	5300
+SM162799	Testosterone	Concomitant Medication		QD=Every Day	6 Pumps				6					AndroGel Pump	Low testosterone		TOP=Topical			Discontinued	SDY824	SUB169161	5300
+SM162800	Tramadol hydrochloride	Concomitant Medication		QD=Every Day	150 MG									Ultram	Pain		PO=By Mouth	-1278		Continuing at end of study participation	SDY824	SUB169161	5300
+SM162801	Azithromycin	Concomitant Medication		QD=Every Day	250 MG				75					Azithromycin	Bronchitis		PO=By Mouth	71		Discontinued	SDY824	SUB169162	5300
+SM162802	Doxycycline	Concomitant Medication		BID=Twice Daily	100 MG				77					Doxycycline	Bronchitis		PO=By Mouth	71		Discontinued	SDY824	SUB169162	5300
+SM162803	Terbinafine	Concomitant Medication		QD=Every Day	1 TAB				43					Lamisil	Toe nail fungus		PO=By Mouth	14		Discontinued	SDY824	SUB169162	5300
+SM162804	Artificial tears	Concomitant Medication		As needed	1-2 GTT									Blink Tears	Dry Eyes		OU=Each/both Eyes	-17		Continuing at end of study participation	SDY824	SUB169162	5300
+SM162805	Fluocinonide	Concomitant Medication		As Needed	15 G									Fluocinonide	Mouth Ulcer		TOP=Topical	-14		Continuing at end of study participation	SDY824	SUB169162	5300
+SM162806	Triamcinolone acetonide	Concomitant Medication		TID=3 Times Daily	0									Triamcinolone Acetonide	Rash		TOP=Topical	-17		Continuing at end of study participation	SDY824	SUB169162	5300
+SM162807	Promethazine hydrochloride	Concomitant Medication		As Needed	25 MG									Phenergan	Nausea		PO=By Mouth	-139		Continuing at end of study participation	SDY824	SUB169162	5300
+SM162808	Glimepiride	Concomitant Medication		QD=Every Day	2 MG									Glimepiride	Diabetes		PO=By Mouth	-47		Continuing at end of study participation	SDY824	SUB169162	5300
+SM162809	Lisinopril	Concomitant Medication		QD=Every Day	20 MG									Lisinopril	Hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169162	5300
+SM162810	Metformin hydrochloride	Concomitant Medication		QD=Every Day	1000 MG									Glucophage	Diabetes		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169162	5300
+SM162811	Women's multi	Concomitant Medication		QD=Every Day	1 TAB									Equate Womens	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169162	5300
+SM162812	Medroxyprogesterone acetate	Concomitant Medication		Every 3 months	150 MG									Depo-Provera	Contraceptive		IM=Intramuscular			Continuing at end of study participation	SDY824	SUB169162	5300
+SM162813	Lekovit ca	Concomitant Medication		BID=Twice Daily	600 MG									Calcium + Vitamin D	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169162	5300
+SM162814	Vicodin	Concomitant Medication		PRN-As needed	325/5 MG									Lortab	Pain		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169162	5300
+SM162815	Diazepam	Concomitant Medication		TID=3 Times Daily	5 MG									Valium	Pain		PO=By Mouth	90		Continuing at end of study participation	SDY824	SUB169163	5300
+SM162816	Tylox	Concomitant Medication		As needed	1-2 TAB									Percocet	Pain		PO=By Mouth	90		Continuing at end of study participation	SDY824	SUB169163	5300
+SM162817	Levofloxacin	Concomitant Medication		QD=Every Day	0				88					Levaquin	Pneumonia		PO=By Mouth	82		Discontinued	SDY824	SUB169163	5300
+SM162818	Azithromycin	Concomitant Medication		QD=Every Day	250 MG				84					Azithromycin	Pneumonia		PO=By Mouth	78		Discontinued	SDY824	SUB169163	5300
+SM162819	Promethazine hydrochloride	Concomitant Medication		As needed	12.5 MG				32					Phenergan	Stomach Virus - Nausa, Vomiting, Diarrhea		PR=Rectal	30		Discontinued	SDY824	SUB169163	5300
+SM162820	Lisinopril	Concomitant Medication		QD=Every Day	5 MG									Lisinopril	Hypertension		PO=By Mouth	6		Continuing at end of study participation	SDY824	SUB169163	5300
+SM162821	Erythromycin	Concomitant Medication		One time dose	0				6					Erythromycin	Ear Infection		IM=Intramuscular	6		Discontinued	SDY824	SUB169163	5300
+SM162822	Bactrim	Concomitant Medication		BID=Twice Daily	MG				12					Bactrim	Ear Infection		PO=By Mouth	6		Discontinued	SDY824	SUB169163	5300
+SM162823	Paracetamol	Concomitant Medication		As needed	650 MG									Tylenol	Pain		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169163	5300
+SM162824	Tramadol hydrochloride	Concomitant Medication		QD=Every Day	50 MG									Ultram	Pain		PO=By Mouth	-33		Continuing at end of study participation	SDY824	SUB169163	5300
+SM162825	Duloxetine hydrochloride	Concomitant Medication		BID=Twice Daily	30 MG				58					Cymbalta	Pain		PO=By Mouth	-94		Discontinued	SDY824	SUB169163	5300
+SM162826	Metformin	Concomitant Medication		QD=Every Day	500 MG									Metformin	Diabetes		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169164	5300
+SM162827	Cyclobenzaprine hydrochloride	Concomitant Medication		QID=4 Times Daily	10 MG									Flexeril	Muscle Spasms		PO=By Mouth	48		Continuing at end of study participation	SDY824	SUB169164	5300
+SM162828	Hydrochlorothiazide	Concomitant Medication		QD=Every Day	12.5 MG				90					Hydrochlorothiazide	Hypertension		PO=By Mouth			Discontinued	SDY824	SUB169164	5300
+SM162829	Pravastatin sodium	Concomitant Medication		QOD=Every Other Day	10 MG									Pravachol	High Cholesterol		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169164	5300
+SM162830	Tylox	Concomitant Medication		As Needed	5/325 MG									Percocet	Pain		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169164	5300
+SM162831	Lisinopril	Concomitant Medication		QD=Every Day	20 MG				90					Lisinopril	Hypertension		PO=By Mouth			Discontinued	SDY824	SUB169164	5300
+SM162832	Colesevelam hydrochloride	Concomitant Medication		QD=Every Day	625 MG									Welchol	IBS		PO=By Mouth	-245		Continuing at end of study participation	SDY824	SUB169165	5300
+SM162833	Atorvastatin calcium	Concomitant Medication		QD=Every Day	10 MG									Lipitor	Cholesterol		PO=By Mouth	-245		Continuing at end of study participation	SDY824	SUB169165	5300
+SM162834	Librax	Concomitant Medication		As needed	2 TAB									Librax	IBS		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169165	5300
+SM162835	Cetirizine hydrochloride	Concomitant Medication		As needed	10 MG									Zyrtec	Allergies		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169165	5300
+SM162836	Diclofenac	Concomitant Medication		As needed	100 MG									Voltaren Gel	Pain		TOP=Topical	-245		Continuing at end of study participation	SDY824	SUB169165	5300
+SM162837	Zoledronic acid	Concomitant Medication		Yearly	5 MG									Reclast	Osteoporosis		IV=Intravenous			Continuing at end of study participation	SDY824	SUB169165	5300
+SM162838	Clopidogrel	Concomitant Medication		QD=Every Day	75 MG									Plavix	Stroke Prevention		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169165	5300
+SM162839	Insulin aspart	Concomitant Medication		Continuous pump	100 units ML									Novo Log	Diabetes		SC=Subcutaneous			Continuing at end of study participation	SDY824	SUB169165	5300
+SM162840	Esomeprazole magnesium	Concomitant Medication		As needed	40 MG									Nexium	Reflux		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169165	5300
+SM162841	Lidocaine	Concomitant Medication		As needed	0									Lidoderm Patch	Pain		TOP=Topical			Continuing at end of study participation	SDY824	SUB169165	5300
+SM162842	Metformin hydrochloride	Concomitant Medication		QD=Every Day	500 MG									Glucophage	Diabetes		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169165	5300
+SM162843	Karvea hct	Concomitant Medication		QD=Every Day	10 MG									Avalide	Hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169165	5300
+SM162844	Hydroxyzine	Concomitant Medication		QD=Every Day	20 MG									Atarax	Hives/itching		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169165	5300
+SM162845	Acetylsalicylic acid	Concomitant Medication		QD=Every Day	325 MG									Aspirin	Stroke Prevention		PO=By Mouth	-2389		Continuing at end of study participation	SDY824	SUB169165	5300
+SM162846	Levofloxacin	Concomitant Medication		QD=Every Day	500 MG				38					Levaquin	Sinus Infection		PO=By Mouth	29		Discontinued	SDY824	SUB169165	5300
+SM162847	Atenolol	Concomitant Medication		QD=Every Day	50 MG									Atenolol	Hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169166	5300
+SM162848	Pravastatin	Concomitant Medication		QD=Every Day	40 MG									Pravastatin	High Cholesterol		PO=By Mouth	-95		Continuing at end of study participation	SDY824	SUB169166	5300
+SM162849	Amlodipine	Concomitant Medication		QD=Every Day	10 MG									Amlodipine	Hypertension		PO=By Mouth	-95		Continuing at end of study participation	SDY824	SUB169166	5300
+SM162850	Acetylsalicylic acid	Concomitant Medication		QD=Every Day	81 MG									Aspirin	Stroke prevention		PO=By Mouth	-95		Continuing at end of study participation	SDY824	SUB169166	5300
+SM162851	Hydrochlorothiazide	Concomitant Medication		QD=Every Day	25 MG									Hydrochlorothiazide	Hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169166	5300
+SM162852	Phenylephrine hydrochloride	Concomitant Medication		BID=Twice Daily	1 TAB				133					Sudafed PE	headache, sinus pressure,fatigue		PO=By Mouth	129		Discontinued	SDY824	SUB169167	5300
+SM162853	Isoniazid	Concomitant Medication		QD=Every Day	300 MG									Isoniazid	anti-tuberculosis prevention and treatment		PO=By Mouth	-46		Continuing at end of study participation	SDY824	SUB169167	5300
+SM162854	Pyridoxine	Concomitant Medication		QD=Every Day	25 MG									Pyridoxine	Prophylactic use, required supplement during INH therapy		PO=By Mouth	-46		Continuing at end of study participation	SDY824	SUB169167	5300
+SM162855	Oxycocet	Concomitant Medication		prn, as needed	325 MG									Oxycodone/Acetominophen	RA pain		PO=By Mouth	-232		Continuing at end of study participation	SDY824	SUB169167	5300
+SM162856	Levonorgestrel	Concomitant Medication		QD=Every Day	1 TAB									Levonorgestrel	birth control, pregnancy prevention		PO=By Mouth	-232		Continuing at end of study participation	SDY824	SUB169167	5300
+SM162857	Tamsulosin hydrochloride	Concomitant Medication		PRN	.24 MG									Flomax (tamsulosin)	BENIGN PROSTATIC HYPERTROPHY		PO=By Mouth	56		Continuing at end of study participation	SDY824	SUB169168	5300
+SM162858	Artificial tears	Concomitant Medication		5 times per week	1% percent									Methylcellulose (Artificial tears)	Cataracts		OU=Each/both Eyes	-258		Continuing at end of study participation	SDY824	SUB169168	5300
+SM162859	Vicodin	Concomitant Medication		prn	5-500 MG									Hydrocodone-acetominophen (VICODIN)	Arthritis pain		PO=By Mouth	-2018		Continuing at end of study participation	SDY824	SUB169168	5300
+SM162860	Hydrochlorothiazide	Concomitant Medication		QD=Every Day	25 MG									Hydrochlorothiazide (HYDRODIURIL)	Hypertension		PO=By Mouth	-503		Continuing at end of study participation	SDY824	SUB169168	5300
+SM162861	Seretide	Concomitant Medication		prn	250-50 MCG									Fluticasone-salmeterol (ADVAIR DISKUS)	Asthma, seasonal allergies		INH=Inhalant	-1941		Continuing at end of study participation	SDY824	SUB169168	5300
+SM162862	Salbutamol	Concomitant Medication		prn	90 MCG									Albuterol (PROAIR HFA)	Asthma, seasonal allergies		INH=Inhalant	-1941		Continuing at end of study participation	SDY824	SUB169168	5300
+SM162863	Colecalciferol	Concomitant Medication		QD=Every Day	1000 units									Cholecalciferol (VITAMIN D3)	Prophylactic use		PO=By Mouth	-258		Continuing at end of study participation	SDY824	SUB169168	5300
+SM162864	Ezetimibe	Concomitant Medication		QD=Every Day	10 MG									Ezetimibe (ZETIA)	Hypercholesterolemia		PO=By Mouth	-1835		Continuing at end of study participation	SDY824	SUB169168	5300
+SM162865	Sodium chloride	Concomitant Medication		once	1000 ML				64					0.9 % Sodium Chloride	Dehydration secondary to vomiting due to Viral Bronchitis		IV=Intravenous	64		Discontinued	SDY824	SUB169169	5300
+SM162866	Vicodin	Concomitant Medication		Once	5-325 MG				64					Hydrocodone-Acetominophen (NORCO)	Generalized Body Pain		PO=By Mouth	64		Discontinued	SDY824	SUB169169	5300
+SM162867	Ipratropium bromide	Concomitant Medication		once	0.5 MG				64					Ipratropium (ATROVENT)	Viral Bronchitis		INH=Inhalant	64		Discontinued	SDY824	SUB169169	5300
+SM162868	Salbutamol	Concomitant Medication		once	2.5 MG				64					Albuterol (PROVENTIL)	Viral Bronchitis		INH=Inhalant	64		Discontinued	SDY824	SUB169169	5300
+SM162869	Ondansetron	Concomitant Medication		Once	4 MG				64					Ondansetron (ZOFRAN)	Nausea/Vomiting secondary to Viral Bronchitis		IV=Intravenous	64		Discontinued	SDY824	SUB169169	5300
+SM162870	Venlafaxine hydrochloride	Concomitant Medication		BID=Twice Daily	37.5 MG									Venlafaxine (EFFEXOR XR)	Obesity-weightloss		PO=By Mouth	-889		Continuing at end of study participation	SDY824	SUB169169	5300
+SM162871	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG									Hydroxychloroquine (PLAQUENIL)	Rheumatoid Arthritis		PO=By Mouth	-1845		Continuing at end of study participation	SDY824	SUB169169	5300
+SM162872	Seretide	Concomitant Medication		BID=Twice Daily	500/50 MCG									Fluticasone-Salmeterol (ADVAIR DISKUS)	Asthma		PO=By Mouth	-697		Continuing at end of study participation	SDY824	SUB169169	5300
+SM162873	Ferrous sulfate	Concomitant Medication		TID=3 Times Daily	325 MG									Ferrous Sulfate	Anemia		PO=By Mouth	-1845		Continuing at end of study participation	SDY824	SUB169169	5300
+SM162874	Esomeprazole magnesium	Concomitant Medication		QD=Every Day	20 MG									Esomeprazole (Nexium)	Prohylactic preventative for upset stomach secondary to meds taken		PO=By Mouth	-700		Continuing at end of study participation	SDY824	SUB169169	5300
+SM162875	Lekovit ca	Concomitant Medication		TID=3 Times Daily	500/200 500 mg Calcium, 200 IU Vit. D									Calcium Carbonate with Vitamin D (OYSCO 500/200)	Prophylactic Use		PO=By Mouth	-1858		Continuing at end of study participation	SDY824	SUB169169	5300
+SM162876	Beclometasone dipropionate	Concomitant Medication		2 puffs into lungs BID	40 MCG									Beclomethasone (QVAR)	Asthma		PO=By Mouth	-15		Continuing at end of study participation	SDY824	SUB169169	5300
+SM162877	Alendronate sodium	Concomitant Medication		QW=Once a Week	70 MG									Alendronate (Fosamax)	Osteoporosis preventative		PO=By Mouth	-1138		Continuing at end of study participation	SDY824	SUB169169	5300
+SM162878	Salbutamol	Concomitant Medication		2 puffs every 6 hrs as needed	90 MCG									Albuterol	Asthma		PO=By Mouth	-162		Continuing at end of study participation	SDY824	SUB169169	5300
+SM162879	Zolpidem tartrate	Concomitant Medication		at night as needed	10 MG									Ambien (Zolpidem)	Insomnia		PO=By Mouth	-1858		Continuing at end of study participation	SDY824	SUB169169	5300
+SM162880	Otosporin	Concomitant Medication		TID=3 Times Daily	3.5-10000-1 4 drops into affected ear				41					Cortisporin Solution	Otitis Media		into affected ear	34		Discontinued	SDY824	SUB169170	5300
+SM162881	Augmentin	Concomitant Medication		BID=Twice Daily	500-125 MG				43					Augmentin	Otitis media		PO=By Mouth	34		Discontinued	SDY824	SUB169170	5300
+SM162882	Salbutamol sulfate	Concomitant Medication		2 puffs as needed every 6 hrs	108 (90 base) mcg/act									Albuterol Sulfate HFA	Asthma		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169170	5300
+SM162883	Pilocarpine hydrochloride	Concomitant Medication		TID PRN	5 MG									Salagen	Dry Mouth		PO=By Mouth	-321		Continuing at end of study participation	SDY824	SUB169170	5300
+SM162884	Pantoprazole	Concomitant Medication		1 pill every evening	40 MG									Pantoprazole	GERD		PO=By Mouth	-757		Continuing at end of study participation	SDY824	SUB169170	5300
+SM162885	Ocular lubricant	Concomitant Medication		everyday at bedtime	1 GTT									Ophthalmic Lubricant	Dry Eyes		OU=Each/both Eyes	-422		Continuing at end of study participation	SDY824	SUB169170	5300
+SM162886	Lisinopril	Concomitant Medication		QD=Every Day	20 MG									Lisinopril	Hypertension		PO=By Mouth	-729		Continuing at end of study participation	SDY824	SUB169170	5300
+SM162887	Fluorometholone	Concomitant Medication		QID=4 Times Daily	1 GTT									Fluoromethalone	Dry Eyes		OU=Each/both Eyes	-427		Continuing at end of study participation	SDY824	SUB169170	5300
+SM162888	Enalapril	Concomitant Medication		QD=Every Day	20 MG									Enalapril	Hypertension		PO=By Mouth	-211		Continuing at end of study participation	SDY824	SUB169170	5300
+SM162889	Doxepin	Concomitant Medication		1 pill at bedtime as needed	10 MG									Doxepin	Pruritus		PO=By Mouth	-364		Continuing at end of study participation	SDY824	SUB169170	5300
+SM162890	Lekovit ca	Concomitant Medication		TID=3 Times Daily	500/200 mg/IU									Calcium with Vitamin D	Bone health prophylactic use		PO=By Mouth	-1086		Continuing at end of study participation	SDY824	SUB169170	5300
+SM162891	Artificial tears	Concomitant Medication		every 2 hrs as needed	1 GTT									Artificial tears	Dry Eyes		OU=Each/both Eyes	-422		Continuing at end of study participation	SDY824	SUB169170	5300
+SM162892	Alendronate sodium	Concomitant Medication		QW=Once a Week	70 MG									Alendronate	Bone health-prophylactic use due to prednisone use		PO=By Mouth	-562		Continuing at end of study participation	SDY824	SUB169170	5300
+SM162893	Vicodin	Concomitant Medication		every 6 hrs as needed	500/5 MG									Acetominophen/Hydrocodone	RA pain		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169170	5300
+SM162894	Pantoprazole	Concomitant Medication		QD=Every Day	1 TAB									pantaprozole	acid reflux/heartburn		PO=By Mouth	-5469		Continuing at end of study participation	SDY824	SUB169171	5300
+SM162895	Paroxetine	Concomitant Medication		QD=Every Day	2 TAB									paroxentine	depression		PO=By Mouth	-263		Continuing at end of study participation	SDY824	SUB169171	5300
+SM162896	Hydrochlorothiazide	Concomitant Medication		QD=Every Day	25 MG									hydrochlorothiazide	hypertension		PO=By Mouth	-232		Continuing at end of study participation	SDY824	SUB169171	5300
+SM162897	Pyridoxine	Concomitant Medication		QD=Every Day	1 TAB				193					pyridoxine	required supplement to INH (isoniazid)		PO=By Mouth	-140		Discontinued	SDY824	SUB169171	5300
+SM162898	Isoniazid	Concomitant Medication		QD=Every Day	300 MG				193					isoniazid	anti-tuberculosis prevention and treatment		PO=By Mouth	-140		Discontinued	SDY824	SUB169171	5300
+SM162899	Paracetamol	Concomitant Medication		PRN	2 TAB				164					TYLENOL	HEADACHE		PO=By Mouth	164		Discontinued	SDY824	SUB169171	5300
+SM162900	Ibuprofen	Concomitant Medication		PRN	200 MG				174					ADVIL (IBUPROFEN)	HEADACHE		PO=By Mouth	174		Discontinued	SDY824	SUB169171	5300
+SM162901	Nifedipine	Concomitant Medication		QD=Every Day	60 MG									Nifedepine XL	Hypertension		PO=By Mouth	36		Continuing at end of study participation	SDY824	SUB169172	5300
+SM162902	Nifedipine	Concomitant Medication		QD=Every Day	30 MG				35					Nifedepine XL	Hypertension		PO=By Mouth	-3		Modified Dose, Frequency, or Route	SDY824	SUB169172	5300
+SM162903	Hydroxychloroquine	Concomitant Medication		QD=Every Day	400 MG									Plaquenil	RA		PO=By Mouth	-245		Continuing at end of study participation	SDY824	SUB169172	5300
+SM162904	Ciprofloxacin	Concomitant Medication		QID=4 Times Daily	250 MG				110					Cipro	Right distal forearm infection		PO=By Mouth	96		Discontinued	SDY824	SUB169173	5300
+SM162905	Clindamycin	Concomitant Medication		QID=4 Times Daily	150 MG				110					Clindamycin	Right distal forearm infection		PO=By Mouth	96		Discontinued	SDY824	SUB169173	5300
+SM162906	Cefalexin	Concomitant Medication		QID=4 Times Daily	500 MG				95					Keflex	Right distal forearm infection		PO=By Mouth	89		Discontinued	SDY824	SUB169173	5300
+SM162907	Lekovit ca	Concomitant Medication		BID=Twice Daily	800 MG									CaCo3/ Vit D	Nutritional Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169173	5300
+SM162908	Alendronate sodium	Concomitant Medication		QW=Once a Week	70 MG									Fosamax	osteopenia		PO=By Mouth	-226		Continuing at end of study participation	SDY824	SUB169173	5300
+SM162909	Calcium carbonate	Concomitant Medication		BID=Twice Daily	600 MG									CaCO3	nutritional supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169174	5300
+SM162910	Pyridoxine hydrochloride	Concomitant Medication		QD=Every Day	50 MG				90					Vitamin B6	nutritional supplement		PO=By Mouth	-251		Discontinued	SDY824	SUB169174	5300
+SM162911	Isoniazid	Concomitant Medication		QD=Every Day	300 MG				90					Isoniazid	Tuberculosis prophylaxis		PO=By Mouth	-251		Discontinued	SDY824	SUB169174	5300
+SM162912	Azithromycin	Concomitant Medication		QD=Every Day	250 MG				183					Azithromycin	Bronchitis		PO=By Mouth	179		Discontinued	SDY824	SUB169175	5300
+SM162913	Azithromycin	Concomitant Medication		QD=Every Day	500 MG				178					Azithromycin	Bronchitis		PO=By Mouth	178		Modified Dose, Frequency, or Route	SDY824	SUB169175	5300
+SM162914	Ergocalciferol	Concomitant Medication		QD=Every Day	1.25 MG				177					Ergocalciferol	low vitamin D		PO=By Mouth	109		Discontinued	SDY824	SUB169175	5300
+SM162915	Varenicline	Concomitant Medication		BID=Twice Daily	1 MG									Chantix	smoking cessation		PO=By Mouth	112		Continuing at end of study participation	SDY824	SUB169175	5300
+SM162916	Tylox	Concomitant Medication		prn	5/325 MG									Percocet	Arthritic pain		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169175	5300
+SM162917	Omeprazole	Concomitant Medication		QAM	20 MG									Omerprazole	GERD		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169175	5300
+SM162918	Amoxicillin	Concomitant Medication		QID=4 Times Daily	500 MG				93					Amoxicillin	tooth extraction		PO=By Mouth	85		Discontinued	SDY824	SUB169175	5300
+SM162919	Hydroxychloroquine	Concomitant Medication		QD=Every Day	400 MG									Plaquenil	Rheumatoid Arthritis		PO=By Mouth	-214		Continuing at end of study participation	SDY824	SUB169176	5300
+SM162920	Loratadine	Concomitant Medication		QD=Every Day	10 MG									Loratadine	Bronchitis		PO=By Mouth	176		Continuing at end of study participation	SDY824	SUB169176	5300
+SM162921	Moxifloxacin hydrochloride	Concomitant Medication		QD=Every Day	400 MG									Avelox	Bronchitis		PO=By Mouth	176		Continuing at end of study participation	SDY824	SUB169176	5300
+SM162922	Nicotine	Concomitant Medication		QD=Every Day	unknown patch									Nicotin Patch	smoking cessation		IA=Intra-articular	140		Continuing at end of study participation	SDY824	SUB169176	5300
+SM162923	Centrum	Concomitant Medication		QD=Every Day	1 TAB									Centrum	Nutritional Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169176	5300
+SM162924	Salbutamol	Concomitant Medication		PRN	90 MG									Ventolin	COPD		INH=Inhalant			Continuing at end of study participation	SDY824	SUB169176	5300
+SM162925	Tiotropium bromide	Concomitant Medication		QD=Every Day	18 MCG									Spireva	COPD		INH=Inhalant			Continuing at end of study participation	SDY824	SUB169176	5300
+SM162926	Valsartan	Concomitant Medication		QD=Every Day	80 MG									Diovan	Hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169176	5300
+SM162927	Pioglitazone	Concomitant Medication		QD=Every Day	30 MG									Actos	diabetes		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169176	5300
+SM162928	Metformin	Concomitant Medication		QD=Every Day	500 MG									Metformin	diabetes		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169176	5300
+SM162929	Omeprazole	Concomitant Medication		QD=Every Day	20 MG									Prilosec	Gerd		PO=By Mouth	62		Continuing at end of study participation	SDY824	SUB169177	5300
+SM162930	Salbutamol	Concomitant Medication		QID=4 Times Daily	0				99					Proventil	Bronchitis		INH=Inhalant	92		Discontinued	SDY824	SUB169177	5300
+SM162931	Hydrocodone w/homatropine	Concomitant Medication		QID=4 Times Daily	0				159					Hydrocodone Homatropine syrup	Bronchitis		PO=By Mouth	93		Discontinued	SDY824	SUB169177	5300
+SM162932	Azithromycin	Concomitant Medication		QD=Every Day	500 MG				93					Azithromycin	Bronchitis		PO=By Mouth	88		Discontinued	SDY824	SUB169177	5300
+SM162933	Azithromycin	Concomitant Medication		QD=Every Day	1000 MG				87					Azithromycin	Bronchitis		PO=By Mouth	87		Discontinued	SDY824	SUB169177	5300
+SM162934	Colecalciferol	Concomitant Medication		QD=Every Day	1000 unit									Vitamin D3	Nutritional Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169177	5300
+SM162935	Cyanocobalamin	Concomitant Medication		QD=Every Day	1 TAB									Vitamin B-12	nutritional supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169177	5300
+SM162936	Vitamin b-complex, plain	Concomitant Medication		QD=Every Day	1 TAB									Vitamin B-Complex	Nutritional supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169177	5300
+SM162937	Os-cal	Concomitant Medication		BID=Twice Daily	500/200 MG									Oscal	Nutritional supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169177	5300
+SM162938	Hydrochlorothiazide	Concomitant Medication		QD=Every Day	25 MG									HCTZ	hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169177	5300
+SM162939	Hydroxychloroquine	Concomitant Medication		QD=Every Day	400 MG									Plaquenil	rheumatoid arthritis		PO=By Mouth	-609		Continuing at end of study participation	SDY824	SUB169177	5300
+SM162940	Cortisone	Concomitant Medication		once	0				93					Cortisone	low back pain		IM=Intramuscular	93		Discontinued	SDY824	SUB169178	5300
+SM162941	Cortisone	Concomitant Medication		other	0				75					cortisone	low back pain		IM=Intramuscular	75		Discontinued	SDY824	SUB169178	5300
+SM162942	Esomeprazole magnesium	Concomitant Medication		QD=Every Day	40 MG									Nexium	reflux		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169178	5300
+SM162943	Phenobarbital	Concomitant Medication		BID=Twice Daily	60 MG									Phenobarbital	Seizure		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169178	5300
+SM162944	Hydroxychloroquine	Concomitant Medication		QD=Every Day	400 MG									Plaquenil	Rheumatoid Arthritis		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169178	5300
+SM162945	Tylox	Concomitant Medication		BID=Twice Daily	10/650 MG				91					percocet	Pain		PO=By Mouth	91		Discontinued	SDY824	SUB169179	5300
+SM162946	Morphine	Concomitant Medication		once	10 MG				91					morphine	pain		PO=By Mouth	91		Discontinued	SDY824	SUB169179	5300
+SM162947	Morphine	Concomitant Medication		once	5 MG				91					morphine	pain		IV=Intravenous	91		Discontinued	SDY824	SUB169179	5300
+SM162948	Morphine	Concomitant Medication		BID=Twice Daily	4 MG				91					morphine	pain		IV=Intravenous	91		Discontinued	SDY824	SUB169179	5300
+SM162949	Ferrous sulfate	Concomitant Medication		TID=3 Times Daily	325 MG									FeSO4	Iron Deficiency anemia		PO=By Mouth	153		Continuing at end of study participation	SDY824	SUB169179	5300
+SM162950	Tylox	Concomitant Medication		QD=Every Day	5/325 MG				153					Percocet	Pain		PO=By Mouth	-7		Discontinued	SDY824	SUB169179	5300
+SM162951	Esomeprazole magnesium	Concomitant Medication		QD=Every Day	40 MG									Nexium DR	Peptic ulcer Disease		PO=By Mouth	-123		Continuing at end of study participation	SDY824	SUB169179	5300
+SM162952	Oxycodone hydrochloride	Concomitant Medication		QD=Every Day	2.5 MG				149					Oxycontin	Fractured Wrist		PO=By Mouth	143		Discontinued	SDY824	SUB169180	5300
+SM162953	Influenza virus vaccine polyvalent	Concomitant Medication		once	0.5 ML				110					influenza vaccine	prophylaxis		IM=Intramuscular	110		Discontinued	SDY824	SUB169180	5300
+SM162954	Citalopram hydrobromide	Concomitant Medication		QD=Every Day	40 MG				6					Citalopram HBr	GERD		PO=By Mouth	-156		Discontinued	SDY824	SUB169181	5300
+SM162955	Citalopram hydrobromide	Concomitant Medication		QD=Every Day	MG				36					Citalopram HBr	depression		PO=By Mouth	-187		Discontinued	SDY824	SUB169181	5300
+SM162956	Ferrous sulfate	Concomitant Medication		QD=Every Day	325 MG									Fe sulfate	prophlaxis		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169181	5300
+SM162957	Metformin	Concomitant Medication		BID=Twice Daily	500 MG									metformin	diabetes		PO=By Mouth	-354		Continuing at end of study participation	SDY824	SUB169182	5300
+SM162958	Clopidogrel	Concomitant Medication		QD=Every Day	75 MG									clopidogrel	myocardial infarction		PO=By Mouth	-109		Continuing at end of study participation	SDY824	SUB169182	5300
+SM162959	Atorvastatin calcium	Concomitant Medication		QD=Every Day	40 MG									lipitor	hypercholesterolemia		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169182	5300
+SM162960	Ramipril	Concomitant Medication		BID=Twice Daily	MG									Ramipril	Myocardial Infarction		PO=By Mouth	-109		Continuing at end of study participation	SDY824	SUB169182	5300
+SM162961	Gabapentin	Concomitant Medication		TID=3 Times Daily	600 MG									Gabapentin	fibromyalgia		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169182	5300
+SM162962	Influenza virus vaccine monovalent	Concomitant Medication		once	0.5 ML				122					H1N1 vaccine	prophylactic		IM=Intramuscular	122		Discontinued	SDY824	SUB169152	5300
+SM162963	Trazodone	Concomitant Medication		PRN	50mg 1/2-1 tab qd @ HS				-16					Trazadone	sleep aid		PO=By Mouth	-98		Discontinued	SDY824	SUB169152	5300
+SM162964	Tramadol	Concomitant Medication		PRN	50mg 1-4 tabs a day									Tramadol	Fibromyalgia		PO=By Mouth	-219		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162965	Omeprazole	Concomitant Medication		QD=Every Day	1 tab TAB									Prilosec	acid reflux		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169152	5300
+SM162966	Pseudoephedrine	Concomitant Medication		PRN	30 MG				111					pseudophedrine	post nasal drip		PO=By Mouth	88		Discontinued	SDY824	SUB169152	5300
+SM162967	Pseudoephedrine	Concomitant Medication		PRN	30 MG				78					pseudoephedrine	post nasal drip		PO=By Mouth	76		Discontinued	SDY824	SUB169152	5300
+SM162968	Methyl salicylate	Concomitant Medication		PRN	generously there are one specified									Icy Hot	pain reliever		SC=Subcutaneous	41		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162969	Melatonin	Concomitant Medication		1 tab PRN @ HS	300 MCG									Melatonin	sleep aid		PO=By Mouth	-98		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162970	Aludrox	Concomitant Medication		4x a day PRN	10-20 ML									Maalox	acid reflux		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169152	5300
+SM162971	Loratadine	Concomitant Medication		PRN	1 tab TAB									Claritin	allergies		PO=By Mouth	-738		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162972	Tussin dm	Concomitant Medication		PRN	10 ML									Robitussin D	cough suppresant		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169152	5300
+SM162973	Paracetamol	Concomitant Medication		PRN	500mg 1-2 tabs									Tylenol Arthritis	RA pain		PO=By Mouth	-341		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162974	Salbutamol	Concomitant Medication		PRN	1-2 puffs puffs									Albuterol	Asthma		INH=Inhalant	-3660		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162975	Budesonide	Concomitant Medication		PRN	1-2 puffs puffs									Pulmicort	Asthma		INH=Inhalant	-738		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162976	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG									plaquenil	RA		PO=By Mouth	-433		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162977	Fibre, dietary	Concomitant Medication		QD=Every Day	1 tab TAB									Fiber	regularity		PO=By Mouth	-372		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162978	Fish oil	Concomitant Medication		BID=Twice Daily	1,000 IU softgel									Omega III	hypercholesterol		PO=By Mouth	-554		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162979	Cimicifuga racemosa root	Concomitant Medication		QD=Every Day	2 tabs TAB									Black Cohash	menopause, hot flash prophylactic		PO=By Mouth	-738		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162980	Lekovit ca	Concomitant Medication		QD=Every Day	1000/400 IU TAB									Calcium with Vitamin D	osteoprosis prophylaxis		PO=By Mouth	-372		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162981	Ergocalciferol	Concomitant Medication		QD=Every Day	1000 IU TAB									Vitamin D	osteoporosis prophylactic		PO=By Mouth	-372		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162982	Capsaicin	Concomitant Medication		PRN	0.1 %				48					capzasin HP	pain reliever		TOP=Topical	-328		Discontinued	SDY824	SUB169152	5300
+SM162983	Hydrocortisone	Concomitant Medication		PRN	2.5 %				49					hydrocortisone cream	antipruritic/anti-inflammatory		TOP=Topical	29		Discontinued	SDY824	SUB169152	5300
+SM162984	Multivitamins	Concomitant Medication		QD=Every Day	1 tab TAB									Multivitamin	dietary supplement		PO=By Mouth	-494		Continuing at end of study participation	SDY824	SUB169152	5300
+SM162985	Pneumococcal vaccine	Concomitant Medication		once	0.5 ML				97					Pneumovax	prophylactic		IM=Intramuscular	97		Discontinued	SDY824	SUB169152	5300
+SM162986	Influenza virus vaccine polyvalent	Concomitant Medication		once	0.5 ML				92					Seasonal Flu Vaccine	prophylactic		IM=Intramuscular	92		Discontinued	SDY824	SUB169152	5300
+SM162987	Vicodin	Concomitant Medication		1 tab every 6 hours PRN	5/500 MG				142					vicodin	pain reliever		PO=By Mouth	123		Discontinued	SDY824	SUB169153	5300
+SM162988	Tussin dm	Concomitant Medication		BID=Twice Daily	1200 MG				112					mucinex DM	expectorant and cough suppressant		PO=By Mouth	109		Discontinued	SDY824	SUB169153	5300
+SM162989	Vicodin	Concomitant Medication		1 tab every 6 hours PRN	5/500 MG				17					vicodin	pain		PO=By Mouth	15		Discontinued	SDY824	SUB169153	5300
+SM162990	Vicodin	Concomitant Medication		1 tab every 6 hours PRN	5/500 MG				45					vicodin	pain		PO=By Mouth	42		Discontinued	SDY824	SUB169153	5300
+SM162991	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG				150					Hydroxychloroquine	RA		PO=By Mouth	-161		Discontinued	SDY824	SUB169153	5300
+SM162992	Epinephrine	Concomitant Medication		PRN	0.3 MG									epi pen (epinephrine)	allergic reaction (sulfa drugs)		IM=Intramuscular	-225		Continuing at end of study participation	SDY824	SUB169153	5300
+SM162993	Calcium carbonate	Concomitant Medication		PRN	2-4 TAB									Tums	heartburn		PO=By Mouth	-151		Continuing at end of study participation	SDY824	SUB169153	5300
+SM162994	Paracetamol	Concomitant Medication		1-2 caps every 4-6 hours PRN	500 MG									Tylenol	headaches		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169153	5300
+SM162995	Paracetamol	Concomitant Medication		1-2 caps every 8 hours PRN	650 MG									Tylenol Arthritis	RA pain		PO=By Mouth	-151		Continuing at end of study participation	SDY824	SUB169153	5300
+SM162996	Calcium	Concomitant Medication		3 times weekly	2 chews				48					Calcium Chew	osteoporosis prophylaxis		PO=By Mouth	-151		Modified Dose, Frequency, or Route	SDY824	SUB169153	5300
+SM162997	Vicodin	Concomitant Medication		PRN q 6 hours	5/500 MG				100					Vicodin	Pain		PO=By Mouth	100		Discontinued	SDY824	SUB169153	5300
+SM162998	Calcium	Concomitant Medication		PRN	2 chews									Calcium Chew	Osteoporosis Prophylaxis		PO=By Mouth	49		Continuing at end of study participation	SDY824	SUB169153	5300
+SM162999	Fluticasone propionate	Concomitant Medication		BID=Twice Daily	50 MCG				112					Flonase	congestion		intra-nasal	109		Discontinued	SDY824	SUB169153	5300
+SM163000	Hydromorphone	Concomitant Medication		PRN	2 MG									hydromorphone	pain		PO=By Mouth	179		Continuing at end of study participation	SDY824	SUB169153	5300
+SM163001	Cyclobenzaprine hydrochloride	Concomitant Medication		PRN	5 MG									Flexeril	back pain/spasm		PO=By Mouth	179		Continuing at end of study participation	SDY824	SUB169153	5300
+SM163002	Influenza virus vaccine polyvalent	Concomitant Medication		once	0.5 ML				48					Seasonal Flu Vaccine	prophylactic		IM=Intramuscular	48		Discontinued	SDY824	SUB169153	5300
+SM163003	Diphenhydra. hcl w/paracetamol/pseudoeph. hcl	Concomitant Medication		PRN	325/2/10/5 MG				69					Tylenol Cold Head Congestion Nighttime	sinus congestion		PO=By Mouth	63		Discontinued	SDY824	SUB169153	5300
+SM163004	Benadryl cold and flu	Concomitant Medication		PRN	325/10/5 MG				69					Tylenol Cold Head Congestion Daytime	congestion		PO=By Mouth	63		Discontinued	SDY824	SUB169153	5300
+SM163005	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG									hydroxychloroquine	RA		PO=By Mouth	153		Continuing at end of study participation	SDY824	SUB169153	5300
+SM163006	Hydrocodone	Concomitant Medication		1 tab every 4-6 hours PRN	5/325 MG									hydrocodone	pain reliever		PO=By Mouth	165		Continuing at end of study participation	SDY824	SUB169153	5300
+SM163007	Vicodin	Concomitant Medication		1 tab every 6 hours PRN	5/500 MG				165					vicodin	pain reliever		PO=By Mouth	162		Discontinued	SDY824	SUB169153	5300
+SM163008	Azithromycin	Concomitant Medication		2 tabs day one 1 tab days 2-5	250 MG				17					azithromycin	URI AE		PO=By Mouth	13		Discontinued	SDY824	SUB169154	5300
+SM163009	Azithromycin	Concomitant Medication		2 tabs day 1, 1 tab days 2-5	250 MG				97					azithromycin	URI AE		PO=By Mouth	91		Discontinued	SDY824	SUB169154	5300
+SM163010	Panadeine co	Concomitant Medication		1 tab q6h PRN	30/300 MG				120					tylenol 3	pain		PO=By Mouth	112		Discontinued	SDY824	SUB169154	5300
+SM163011	Azithromycin	Concomitant Medication		QD=Every Day	500 MG				119					azithromycin	infection with unknown ANC - wound AE		PO=By Mouth	110		Discontinued	SDY824	SUB169154	5300
+SM163012	Paracetamol	Concomitant Medication		PRN	500 MG									extra-strength tylenol	pain reliever		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169154	5300
+SM163013	Tenoretic	Concomitant Medication		QD=Every Day	100-25 MG									atenolol-chlorthal	hypertension		PO=By Mouth	-3898		Continuing at end of study participation	SDY824	SUB169154	5300
+SM163014	Levothyroxine	Concomitant Medication		QD=Every Day	88 MCG									levothyroxine	hypothyroid		PO=By Mouth	-1098		Continuing at end of study participation	SDY824	SUB169154	5300
+SM163015	Lekovit ca	Concomitant Medication		QD=Every Day	600 MG				8					calcium with vitamin D	supplement		PO=By Mouth	-976		Discontinued	SDY824	SUB169154	5300
+SM163016	Influenza virus vaccine polyvalent	Concomitant Medication		once	0.05 ML				50					Seasonal Flu Vaccine	prophylactic		IM=Intramuscular	50		Discontinued	SDY824	SUB169154	5300
+SM163017	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG									hydroxychloroquine	RA		PO=By Mouth	-220		Continuing at end of study participation	SDY824	SUB169154	5300
+SM163018	Diphenhydramine hydrochloride	Concomitant Medication		PRN	25 MG									benadryl	nasal congestion/sinus pressure		PO=By Mouth	-367		Continuing at end of study participation	SDY824	SUB169154	5300
+SM163019	Norlestrin fe	Concomitant Medication		QD=Every Day	20 MCG									loestrin 24 fe	prevent ovulation		PO=By Mouth	-214		Continuing at end of study participation	SDY824	SUB169154	5300
+SM163020	Clonidine hydrochloride	Concomitant Medication		QD=Every Day	0.1 MCG									clonidine HCL	hypertension		PO=By Mouth	-367		Continuing at end of study participation	SDY824	SUB169154	5300
+SM163021	Pravastatin sodium	Concomitant Medication		QD=Every Day	40 MG				8					prevastatin sodium	cholesterol		PO=By Mouth			Discontinued	SDY824	SUB169154	5300
+SM163022	Topiramate	Concomitant Medication		BID=Twice Daily	50 MG				105					topamax	weightloss (off label)		PO=By Mouth	104		Discontinued	SDY824	SUB169154	5300
+SM163023	Sodium bicarbonate	Concomitant Medication		BID=Twice Daily	apply thin film thin film				127					baking soda (sodium bicarbonate)	cleanser/antiseptic		TOP=Topical	120		Discontinued	SDY824	SUB169154	5300
+SM163024	Iron	Concomitant Medication		QD=Every Day	65 MG									Iron	anemia prophylaxis		PO=By Mouth	168		Continuing at end of study participation	SDY824	SUB169155	5300
+SM163025	Lekovit ca	Concomitant Medication		QD=Every Day	600 MG									Calcium D3	supplement		PO=By Mouth	168		Continuing at end of study participation	SDY824	SUB169155	5300
+SM163026	Zinc	Concomitant Medication		QD=Every Day	25 MG				167					zinc	supplement		PO=By Mouth	114		Discontinued	SDY824	SUB169155	5300
+SM163027	Calcium	Concomitant Medication		QD=Every Day	1000 MG				167					calcium	supplement		PO=By Mouth	114		Discontinued	SDY824	SUB169155	5300
+SM163028	Ferrous gluconate	Concomitant Medication		QD=Every Day	240 MG				157					ferrous gluconate	anemia prophylaxis		PO=By Mouth	114		Discontinued	SDY824	SUB169155	5300
+SM163029	Multivitamins	Concomitant Medication		QD=Every Day	1 TAB									senior multivitamin	supplement		PO=By Mouth	114		Continuing at end of study participation	SDY824	SUB169155	5300
+SM163030	Magnesium aspartate	Concomitant Medication		QD=Every Day	400 MG				167					magnesium	supplement		PO=By Mouth	114		Discontinued	SDY824	SUB169155	5300
+SM163031	Zinc	Concomitant Medication		QD=Every Day	25 MG				86					zinc	supplement		PO=By Mouth	-713		Discontinued	SDY824	SUB169155	5300
+SM163032	Calcium	Concomitant Medication		QD=Every Day	1000 MG				86					calcium	supplement		PO=By Mouth	-713		Discontinued	SDY824	SUB169155	5300
+SM163033	Levothyroxine	Concomitant Medication		QD=Every Day	100 MCG									levithyroxine	hypothyroid		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169155	5300
+SM163034	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG									hydroxychloroquine	RA		PO=By Mouth	-86		Continuing at end of study participation	SDY824	SUB169155	5300
+SM163035	Oxycodone	Concomitant Medication		4-6 hours prn	5-325 MG				109					oxycodone	pain		PO=By Mouth	99		Discontinued	SDY824	SUB169155	5300
+SM163036	Vancomycin hydrochloride	Concomitant Medication		once	1 G				98					vancomycin HCL	prophylaxis postop		IV=Intravenous	98		Discontinued	SDY824	SUB169155	5300
+SM163037	Paracetamol	Concomitant Medication		q 8 hours	1000 MG				99					acetaminophen	pain		PO=By Mouth	98		Discontinued	SDY824	SUB169155	5300
+SM163038	Oxycodone hydrochloride	Concomitant Medication		q 2hr PRN	5 MG				99					Oxycodone IR	pain		PO=By Mouth	99		Discontinued	SDY824	SUB169155	5300
+SM163039	Morphine sulfate	Concomitant Medication		q10min can't exceed 24mg in 4h	1 MG				99					morphine sulfate (PCA)	pain		IV=Intravenous	98		Discontinued	SDY824	SUB169155	5300
+SM163040	Multivitamins	Concomitant Medication		QD=Every Day	1 TAB				99					senior multivitamin	supplement		PO=By Mouth	99		Discontinued	SDY824	SUB169155	5300
+SM163041	Paracetamol	Concomitant Medication		PRN	500 MG									Tylenol Rapid Release	pain		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169155	5300
+SM163042	Ferrous gluconate	Concomitant Medication		QD=Every Day	240 MG				86					ferrous gluconate	anemia		PO=By Mouth	-2		Discontinued	SDY824	SUB169155	5300
+SM163043	Multivitamins	Concomitant Medication		QD=Every Day	1 TAB				86					senior multivitamin	supplement		PO=By Mouth	-378		Discontinued	SDY824	SUB169155	5300
+SM163044	Magnesium aspartate	Concomitant Medication		QD=Every Day	400 MG				86					magnesium	supplement		PO=By Mouth	-713		Discontinued	SDY824	SUB169155	5300
+SM163045	Cyclobenzaprine hydrochloride	Concomitant Medication		QD=Every Day	20 MG									cyclobenzaprine HCL	fibromyalgia		PO=By Mouth	-1443		Continuing at end of study participation	SDY824	SUB169155	5300
+SM163046	Metoprolol succinate	Concomitant Medication		QD=Every Day	25 MG									metroprolol succinate ER	hypertension		PO=By Mouth	-43		Continuing at end of study participation	SDY824	SUB169155	5300
+SM163047	Lekovit ca	Concomitant Medication		QD=Every Day	1200/500 MG									Calcium with Vitamin D	Osteoporosis		PO=By Mouth	-180		Continuing at end of study participation	SDY824	SUB169183	5300
+SM163048	Hydroxychloroquine sulfate	Concomitant Medication		BID=Twice Daily	200 MG									Hydroxychloroquine sulfate	RA		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169183	5300
+SM163049	Diphenhydramine hydrochloride	Concomitant Medication		PRN	25 MG									diphenhydramine HCL	allergies		PO=By Mouth	11		Continuing at end of study participation	SDY824	SUB169184	5300
+SM163050	Rhinaris	Concomitant Medication		PRN @ HS	thin coat thin coat									systane eye lubricant	dry eyes		OU=Each/both Eyes	112		Continuing at end of study participation	SDY824	SUB169184	5300
+SM163051	Duloxetine hydrochloride	Concomitant Medication		QD=Every Day	60 MG									cymbalta	fibromyalgia		PO=By Mouth	149		Continuing at end of study participation	SDY824	SUB169184	5300
+SM163052	Cyanocobalamin	Concomitant Medication		BID=Twice Daily	500 MG									B12	supplement		PO=By Mouth	149		Continuing at end of study participation	SDY824	SUB169184	5300
+SM163053	Iron	Concomitant Medication		BID=Twice Daily	325 MG									Iron	supplement		PO=By Mouth	149		Continuing at end of study participation	SDY824	SUB169184	5300
+SM163054	Carmellose	Concomitant Medication		PRN	1-2 GTT									refresh eye drops	dry eyes		OU=Each/both Eyes	112		Continuing at end of study participation	SDY824	SUB169184	5300
+SM163055	Fish oil	Concomitant Medication		QD=Every Day	2,000 MG									fish oil	supplement		PO=By Mouth	113		Continuing at end of study participation	SDY824	SUB169184	5300
+SM163056	Ergocalciferol	Concomitant Medication		2x weekly	50000 IU				93					vitamin D	supplement		PO=By Mouth	10		Discontinued	SDY824	SUB169184	5300
+SM163057	Amitriptyline hydrochloride	Concomitant Medication		QD=Every Day	10 MG									amitriptyline HCL	fibromyalgia		PO=By Mouth	-183		Continuing at end of study participation	SDY824	SUB169184	5300
+SM163058	Inegy	Concomitant Medication		QD=Every Day	10-40 MG									vytorin	high cholesterol		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169184	5300
+SM163059	Duloxetine hydrochloride	Concomitant Medication		QD=Every Day	30 MG				148					cymbalta	fibromyalgia		PO=By Mouth	-92		Modified Dose, Frequency, or Route	SDY824	SUB169184	5300
+SM163060	Hydroxychloroquine	Concomitant Medication		QD=Every Day	200 MG									hydroxychloroquine	RA		PO=By Mouth	-275		Continuing at end of study participation	SDY824	SUB169184	5300
+SM163061	Lekovit ca	Concomitant Medication		QD=Every Day	600 MG									Calcium with Vit D	supplement		PO=By Mouth	105		Continuing at end of study participation	SDY824	SUB169185	5300
+SM163062	Fish oil	Concomitant Medication		QD=Every Day	1200 MG									fish oil	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169185	5300
+SM163063	Lekovit ca	Concomitant Medication		2 tabs daily	600 MG				104					calcium + vit D	supplement		PO=By Mouth	-70		Modified Dose, Frequency, or Route	SDY824	SUB169185	5300
+SM163064	Multivitamins	Concomitant Medication		QD=Every Day	1 TAB									multivitamin	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169185	5300
+SM163065	Omeprazole	Concomitant Medication		QD=Every Day	20 MG				13					omeprazole	esophageal reflux		PO=By Mouth	-497		Modified Dose, Frequency, or Route	SDY824	SUB169185	5300
+SM163066	Levothyroxine	Concomitant Medication		QD=Every Day	88 MCG									levothyroxine	hypothyroid		PO=By Mouth	-94		Continuing at end of study participation	SDY824	SUB169185	5300
+SM163067	Polysporin	Concomitant Medication		PRN	500/10000 units									polysporin	post biopsy for rash AE		TOP=Topical	177		Continuing at end of study participation	SDY824	SUB169185	5300
+SM163068	Diphenhydramine	Concomitant Medication		PRN	25 MG									diphenhydramine	anti-itch		PO=By Mouth	176		Continuing at end of study participation	SDY824	SUB169185	5300
+SM163069	Hydrocortisone	Concomitant Medication		PRN	1% percent									hydrocortisone cream	anti-itch		TOP=Topical	172		Continuing at end of study participation	SDY824	SUB169185	5300
+SM163070	Paracetamol	Concomitant Medication		PRN	325 MG									acetaminophen	headache/pain reliever		PO=By Mouth	150		Continuing at end of study participation	SDY824	SUB169185	5300
+SM163071	Omeprazole	Concomitant Medication		QD=Every Day	40 MG									Omeprazole	esophageal reflux		PO=By Mouth	14		Continuing at end of study participation	SDY824	SUB169185	5300
+SM163072	Anesthetics, general	Concomitant Medication		one time	unknown unknown				133					General Anesthesia	pre-procedure		IV=Intravenous	133		Discontinued	SDY824	SUB169186	5300
+SM163073	Diphenhydramine	Concomitant Medication		PRN	50 MG									Dyphenhydramine	sleep aid		PO=By Mouth	54		Continuing at end of study participation	SDY824	SUB169186	5300
+SM163074	Pneumococcal vaccine	Concomitant Medication		Single Dose	0.5 ML				119					pneumococcal immunization	prophylactic for streptococcus pneumoniae		IM=Intramuscular	119		Discontinued	SDY824	SUB169186	5300
+SM163075	Influenza virus vaccine polyvalent	Concomitant Medication		Single Dose	0.5 ML				119					seasonal flu immunization	prophylactic for flu virus		IM=Intramuscular	119		Discontinued	SDY824	SUB169186	5300
+SM163076	Paracetamol	Concomitant Medication		PRN	650 MG									acetaminophen	pain/headache		PO=By Mouth	62		Continuing at end of study participation	SDY824	SUB169186	5300
+SM163077	Fluticasone propionate	Concomitant Medication		PRN	50 MCG									Fluticasone Propionate	Seasonal Allergies		intranasal			Continuing at end of study participation	SDY824	SUB169186	5300
+SM163078	Tylox	Concomitant Medication		PRN	10/325 MG									Percocet	Pain		PO=By Mouth	-588		Continuing at end of study participation	SDY824	SUB169186	5300
+SM163079	Diphenhydramine	Concomitant Medication		PRN	25 MG				53					Diphenhydramine	Sleep Aid		PO=By Mouth	-162		Modified Dose, Frequency, or Route	SDY824	SUB169186	5300
+SM163080	Pravastatin sodium	Concomitant Medication		QD=Every Day	20 MG									Prevastatin Sodium	Hypercholesterol		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169186	5300
+SM163081	Lisinopril	Concomitant Medication		QD=Every Day	20 MG									Lisinopril	Hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169186	5300
+SM163082	Tadalafil	Concomitant Medication		PRN	20 MG									Cialis	Erectile Dysfunction		PO=By Mouth	-588		Continuing at end of study participation	SDY824	SUB169186	5300
+SM163083	Fentanyl	Concomitant Medication		every 3 days	75 MCG									Fentanyl	Pain		transdermal	-618		Continuing at end of study participation	SDY824	SUB169186	5300
+SM163084	Cyclobenzaprine hydrochloride	Concomitant Medication		PRN	10 MG									Cyclobenzaprine HCL	pain		PO=By Mouth	-148		Continuing at end of study participation	SDY824	SUB169186	5300
+SM163085	Amitriptyline hydrochloride	Concomitant Medication		QD=Every Day	75 MG									Amitriptyline HCL	Seep Aid		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169186	5300
+SM163086	Atenolol	Concomitant Medication		QD=Every Day	50 MG									Atenolol	Hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169186	5300
+SM163087	Cortisone	Concomitant Medication		PRN	1% USP									cortisone cream	Rash AE		TOP=Topical	147		Continuing at end of study participation	SDY824	SUB169187	5300
+SM163088	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG									hydroxychloroquine	RA		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169187	5300
+SM163089	Oxycocet	Concomitant Medication		PRN	10-325 MG									oxycodone/acetaminophen	pain		PO=By Mouth	-705		Continuing at end of study participation	SDY824	SUB169187	5300
+SM163090	Metformin	Concomitant Medication		BID=Twice Daily	500 MG									metformin	DM		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169187	5300
+SM163091	Lovastatin	Concomitant Medication		BID=Twice Daily	20 MG				26					lovastatin	hyperlipidemia		PO=By Mouth	-340		Discontinued	SDY824	SUB169187	5300
+SM163092	Lisinopril	Concomitant Medication		BID=Twice Daily	20 MG									lisinopril	hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169187	5300
+SM163093	Hydrochlorothiazide	Concomitant Medication		QD=Every Day	12.5 MG									hydrochlorothiazide	hypertension		PO=By Mouth	-67		Continuing at end of study participation	SDY824	SUB169187	5300
+SM163094	Acetylsalicylic acid	Concomitant Medication		QD=Every Day	81 MG									Aspirin	anticoagulant		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169187	5300
+SM163095	Simvastatin	Concomitant Medication		QD=Every Day	40 MG									simvastatin	hyperlipidemia		PO=By Mouth	27		Continuing at end of study participation	SDY824	SUB169187	5300
+SM163096	Clindamycin	Concomitant Medication		TID=3 Times Daily	150 MG				170					clindamycin	antibiotic/tooth abscess		PO=By Mouth	160		Discontinued	SDY824	SUB169188	5300
+SM163097	Benzocaine	Concomitant Medication		PRN	10 percent				160					orajel (benzocaine)	tooth pain		TOP=Topical	155		Discontinued	SDY824	SUB169188	5300
+SM163098	Clindamycin	Concomitant Medication		TID=3 Times Daily	150 MG				187					clindamycin	abscess tooth		PO=By Mouth	181		Discontinued	SDY824	SUB169188	5300
+SM163099	Salbutamol sulfate	Concomitant Medication		PRN	1-2 sprays									ventolin HFA	allergies, asthma		INH=Inhalant	-155		Continuing at end of study participation	SDY824	SUB169188	5300
+SM163100	Omeprazole	Concomitant Medication		QD=Every Day	20 MG									omeprazole	esophageal reflux		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169188	5300
+SM163101	Lisinopril	Concomitant Medication		QD=Every Day	10 MG									lisinopril	hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169188	5300
+SM163102	Hydrochlorothiazide	Concomitant Medication		QD=Every Day	12.5 MG									hydrochlorothiazide	hypertension		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169188	5300
+SM163103	Zicam	Concomitant Medication		PRN	1 lozenge				36					Zicam	allergy and nasal congestion		PO=By Mouth	31		Discontinued	SDY824	SUB169188	5300
+SM163104	Paracetamol	Concomitant Medication		PRN	2 TAB									extrastrength tylenol	pain, HA		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169188	5300
+SM163105	Lekovit ca	Concomitant Medication		QD=Every Day	1200 MG									sm calcium + D	supplement		PO=By Mouth	-374		Continuing at end of study participation	SDY824	SUB169188	5300
+SM163106	Multivitamins	Concomitant Medication		QD=Every Day	1 TAB									multivitamin	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169188	5300
+SM163107	Levothyroxine sodium	Concomitant Medication		QD=Every Day	100 MCG									levothyroxine sodium	hypothyroid		PO=By Mouth	-205		Continuing at end of study participation	SDY824	SUB169188	5300
+SM163108	Diphenhydramine	Concomitant Medication		PRN	25 MG				70					diphenhydramine	allergy		PO=By Mouth	69		Discontinued	SDY824	SUB169189	5300
+SM163109	Diphenhydramine hydrochloride	Concomitant Medication		PRN	25 MG				70					diphenhydramine HCL	itching/irritation		PO=By Mouth	69		Discontinued	SDY824	SUB169189	5300
+SM163110	Cyclobenzaprine	Concomitant Medication		PRN	10 MG				29					cyclobenzaprine	muscle relaxer		PO=By Mouth	-16		Discontinued	SDY824	SUB169189	5300
+SM163111	Cetirizine hydrochloride	Concomitant Medication		PRN	10 MG									zytec	allergies		PO=By Mouth	-235		Continuing at end of study participation	SDY824	SUB169189	5300
+SM163112	Fluticasone propionate	Concomitant Medication		PRN	50 MCG									fluticasone propionate	allergies		intranasal	-478		Continuing at end of study participation	SDY824	SUB169189	5300
+SM163113	Levonorgestrel	Concomitant Medication		once-lasts 5 years	52 MG									mirena (levonorgestrel)	birth control		IUD	-508		Continuing at end of study participation	SDY824	SUB169189	5300
+SM163114	Fluoxetine hydrochloride	Concomitant Medication		QD=Every Day	10 MG									fluoxetine HCL	Anxiety		PO=By Mouth	-1665		Continuing at end of study participation	SDY824	SUB169189	5300
+SM163115	Ergocalciferol	Concomitant Medication		QW=Once a Week	50000 units				-14					Vitamin D	supplement		PO=By Mouth	-91		Discontinued	SDY824	SUB169190	5300
+SM163116	Amoxicillin	Concomitant Medication		BID=Twice Daily	875 MG									amoxicillin	sinusitis		PO=By Mouth	2		Continuing at end of study participation	SDY824	SUB169190	5300
+SM163117	Cetirizine hydrochloride	Concomitant Medication		PRN	10 MG									zyrtec OTC	allergies		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169190	5300
+SM163118	Hydroxychloroquine sulfate	Concomitant Medication		BID=Twice Daily	200 MG									hydroxychloroquine sulfate	RA		PO=By Mouth	-115		Continuing at end of study participation	SDY824	SUB169190	5300
+SM163119	Influenza virus vaccine polyvalent	Concomitant Medication		once	1 injection				123					influenza vaccine	prophylactic		IM=Intramuscular	123		Discontinued	SDY824	SUB169191	5300
+SM163120	Paracetamol	Concomitant Medication		PRN	500 MG									tylenol	pain/ HA		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169191	5300
+SM163121	Docusate sodium	Concomitant Medication		PRN	1 TAB									colace	prevent constipation		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169191	5300
+SM163122	Ascorbic acid	Concomitant Medication		QD=Every Day	500 MG									vitamin C	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169191	5300
+SM163123	Ergocalciferol	Concomitant Medication		QD=Every Day	1000 units									vitamin D	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169191	5300
+SM163124	Lekovit ca	Concomitant Medication		QD=Every Day	1 TAB									calcium 600 with D	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169191	5300
+SM163125	Multivitamins	Concomitant Medication		QD=Every Day	1 TAB									multivitamin	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169191	5300
+SM163126	Zolpidem tartrate	Concomitant Medication		PRN	10 MG									zolpidem tartarate	trouble falling asleep		PO=By Mouth	-820		Continuing at end of study participation	SDY824	SUB169191	5300
+SM163127	Sertraline	Concomitant Medication		QD=Every Day	100 MG									sertraline	hot flashes		PO=By Mouth	-2191		Continuing at end of study participation	SDY824	SUB169191	5300
+SM163128	Estrogens conjugated	Concomitant Medication		PRN	0.625 MG									premarin	vaginal dryness		TOP=Topical			Continuing at end of study participation	SDY824	SUB169191	5300
+SM163129	Amlodipine besilate	Concomitant Medication		QD=Every Day	5 MG									norvasc	HBP		PO=By Mouth	-1179		Continuing at end of study participation	SDY824	SUB169191	5300
+SM163130	Atorvastatin calcium	Concomitant Medication		QD=Every Day	40 MG									lipitor	hyperlipidemia		PO=By Mouth	-554		Continuing at end of study participation	SDY824	SUB169191	5300
+SM163131	Hydrochlorothiazide	Concomitant Medication		QD=Every Day	25 MG									hydrochlorothiazide	HBP		PO=By Mouth	-1461		Continuing at end of study participation	SDY824	SUB169191	5300
+SM163132	Alendronate sodium	Concomitant Medication		QW=Once a Week	70 MG									fosamax	osteopenia		PO=By Mouth	-1126		Continuing at end of study participation	SDY824	SUB169191	5300
+SM163133	Acetylsalicylic acid	Concomitant Medication		QD=Every Day	81 MG									aspirin	blood thinner		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169191	5300
+SM163134	Influenza virus vaccine polyvalent	Concomitant Medication		once	0.5 ML				169					influenza vaccine	prophylactic		IM=Intramuscular	169		Discontinued	SDY824	SUB169192	5300
+SM163135	Alka-seltzer plus	Concomitant Medication		PRN	2 TAB									alkaseltzer plus cold	cold ae		PO=By Mouth	181		Continuing at end of study participation	SDY824	SUB169192	5300
+SM163136	Other ophthalmologicals	Concomitant Medication		0	0				65					eye drops	blurry vision AE		OS=Left Eye	65		Discontinued	SDY824	SUB169192	5300
+SM163137	Hydroxychloroquine sulfate	Concomitant Medication		BID=Twice Daily	200 MG									hydroxychoroquine sulfate	RA		PO=By Mouth	-586		Continuing at end of study participation	SDY824	SUB169192	5300
+SM163138	Acetylsalicylic acid	Concomitant Medication		QD=Every Day	81 MG									baby aspirin	blood thinner		PO=By Mouth	-142		Continuing at end of study participation	SDY824	SUB169192	5300
+SM163139	Tramadol hydrochloride	Concomitant Medication		PRN	50 MG									Tramadol HCL	pain		PO=By Mouth	-160		Continuing at end of study participation	SDY824	SUB169192	5300
+SM163140	Lovastatin	Concomitant Medication		QD=Every Day	40 MG									lovastatin	hyperlipidemia		PO=By Mouth	-1483		Continuing at end of study participation	SDY824	SUB169192	5300
+SM163141	Prinzide	Concomitant Medication		QD=Every Day	10-12.5 MG									lisinopril-hydrochlorothiazide	hypertension		PO=By Mouth	-586		Continuing at end of study participation	SDY824	SUB169192	5300
+SM163142	Azithromycin	Concomitant Medication		2 tabs day 1, 1 tab days 2-5	250 MG				173					Azithromycin	URI AE		PO=By Mouth	169		Discontinued	SDY824	SUB169193	5300
+SM163143	Phrenilin	Concomitant Medication		TID=3 Times Daily	1 TAB									Butalbital-Acetaminophen	Worsening HA AE		PO=By Mouth	147		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163144	Cheratussin	Concomitant Medication		4-6 hours PRN	10 ML									Cheratussin	URI AE		PO=By Mouth	147		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163145	Coricidin	Concomitant Medication		PRN	1 TAB				144					Coricidin	URI AE		PO=By Mouth	144		Discontinued	SDY824	SUB169193	5300
+SM163146	Prochlorperazine	Concomitant Medication		PRN	10 MG				144					Prochlorperazine	Nausea AE		PO=By Mouth	144		Discontinued	SDY824	SUB169193	5300
+SM163147	Prochlorperazine	Concomitant Medication		x1	10 MG				143					Prochlorperazine	nausea AE		IV=Intravenous	143		Modified Dose, Frequency, or Route	SDY824	SUB169193	5300
+SM163148	Diphenhydramine hydrochloride	Concomitant Medication		x1	0				143					Benadryl	worsening HA AE		IV=Intravenous	143		Discontinued	SDY824	SUB169193	5300
+SM163149	Sulfamethoxazole	Concomitant Medication		BID=Twice Daily	800/160 MG				146					Sulfamethoxazole	UTI AE		PO=By Mouth	143		Discontinued	SDY824	SUB169193	5300
+SM163150	Robitussin	Concomitant Medication		x2	200 MG				129					Robitussin	URI AE		PO=By Mouth	128		Discontinued	SDY824	SUB169193	5300
+SM163151	Panadeine co	Concomitant Medication		x1	120-12mg/5mL mg/mL				128					Tylenol with Codeine	URI AE		PO=By Mouth	128		Discontinued	SDY824	SUB169193	5300
+SM163152	Pantoprazole	Concomitant Medication		x1	40 MG				128					Protonix	GERD		PO=By Mouth	128		Discontinued	SDY824	SUB169193	5300
+SM163153	Enoxaparin sodium	Concomitant Medication		x1	40 MG				128					Lovenox	prevent DVT		SC=Subcutaneous	128		Discontinued	SDY824	SUB169193	5300
+SM163154	Moxifloxacin hydrochloride	Concomitant Medication		x1	400 MG				128					Avelox	URI AE		IV=Intravenous	128		Modified Dose, Frequency, or Route	SDY824	SUB169193	5300
+SM163155	Vicodin	Concomitant Medication		x1	2 TAB				128					Narco	URI AE (pain)		PO=By Mouth	128		Discontinued	SDY824	SUB169193	5300
+SM163156	Benzonatate	Concomitant Medication		x1	100 MG				128					Tessalon	URI AE		PO=By Mouth	128		Discontinued	SDY824	SUB169193	5300
+SM163157	Combivent	Concomitant Medication		4-6 hours PRN	0				129					Albuterol Nebulizer with Atrovent	URI AE		INH=Inhalant	128		Discontinued	SDY824	SUB169193	5300
+SM163158	Moxifloxacin hydrochloride	Concomitant Medication		QD=Every Day	400 MG				141					Avelox	URI AE		PO=By Mouth	130		Discontinued	SDY824	SUB169193	5300
+SM163159	Salbutamol	Concomitant Medication		PRN	2 puffs									albuterol inhaler	URI AE		INH=Inhalant	137		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163160	Levothyroxine	Concomitant Medication		QD=Every Day	150 MCG									levothyroxine	hypothyroid		PO=By Mouth	122		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163161	Salbutamol	Concomitant Medication		QID=4 Times Daily	2 puffs				136					Albuterol inhaler	URI AE		INH=Inhalant	125		Modified Dose, Frequency, or Route	SDY824	SUB169193	5300
+SM163162	Paracetamol	Concomitant Medication		PRN	500 MG									Tylenol	pain		PO=By Mouth	119		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163163	Colecalciferol	Concomitant Medication		QD=Every Day	2000 IU									vitamin D3	supplement		PO=By Mouth	94		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163164	Diphtheria, tetanus and acellular pertussis	Concomitant Medication		once	0.5 ML				90					Tdap	vaccine		IM=Intramuscular	90		Discontinued	SDY824	SUB169193	5300
+SM163165	Antibiotics for topical use	Concomitant Medication		PRN	0									antibiotic ointment	laceration AE		TOP=Topical	90		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163166	Lidocaine	Concomitant Medication		once	4 ML				90					Lidocaine 1%	local anesthetic		INTRA=Intradermal	90		Discontinued	SDY824	SUB169193	5300
+SM163167	Diphenhydramine hydrochloride	Concomitant Medication		as needed	25 MG									benadryl	allergies		PO=By Mouth	-62		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163168	Fluticasone propionate	Concomitant Medication		as needed	1 spray									fluticasone nasal spray	allergies		INH=Inhalant	-75		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163169	Betamethasone valerate	Concomitant Medication		TID=3 Times Daily	15 G				-21					betamethasone val 0.1%	eczema on hands		TOP=Topical	-75		Discontinued	SDY824	SUB169193	5300
+SM163170	Cyclobenzaprine	Concomitant Medication		as needed	10 MG									cyclobenzaprine	muscle relaxer		PO=By Mouth	-536		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163171	Meclozine	Concomitant Medication		as needed	12.5 MG									meclizine	dizziness		PO=By Mouth	-112		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163172	Bisacodyl	Concomitant Medication		QD=Every Day	1 TAB									dulcolax	stool softener/constipation		PO=By Mouth	-139		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163173	Ergocalciferol	Concomitant Medication		QD=Every Day	1000 IU				93					Vitamin D	supplement		PO=By Mouth	-154		Modified Dose, Frequency, or Route	SDY824	SUB169193	5300
+SM163174	Esomeprazole magnesium	Concomitant Medication		BID=Twice Daily	40 MG									Nexium	Gastroesophagal reflux disease		PO=By Mouth	-102		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163175	Levothyroxine sodium	Concomitant Medication		QD=Every Day	100 MCG				121					synthroid	hyperthyroidism		PO=By Mouth			Modified Dose, Frequency, or Route	SDY824	SUB169193	5300
+SM163176	Salbutamol	Concomitant Medication		as needed	2 puffs									proventil HFA 108 mcg/ACT	fatigue, shortness of breath		INH=Inhalant	-519		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163177	Lidocaine	Concomitant Medication		as needed	1 application									lidocaine 5%	hemorrhoids		TOP=Topical	-152		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163178	Vicodin	Concomitant Medication		as needed	5-325 MG									Hydrocodone-acetaminophen	pain		PO=By Mouth	-536		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163179	Furosemide	Concomitant Medication		as needed	10-20 MG									furosemide	leg swelling		PO=By Mouth	-305		Continuing at end of study participation	SDY824	SUB169193	5300
+SM163180	Calcium carbonate	Concomitant Medication		As needed	500 MG									Calcium carbonate	antacid supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169193	5300
+SM163181	Valaciclovir	Concomitant Medication		QD=Every Day	500 MG				83					valacyclovir	genital sores		PO=By Mouth	79		Discontinued	SDY824	SUB169194	5300
+SM163182	Valaciclovir hydrochloride	Concomitant Medication		QD=Every Day	500 MG									valacyclovir HCL	genital sores		PO=By Mouth	87		Continuing at end of study participation	SDY824	SUB169194	5300
+SM163183	Nystatin	Concomitant Medication		as needed	100000 units									nystatin rinse	oral ulcers		TOP=Topical	-521		Continuing at end of study participation	SDY824	SUB169194	5300
+SM163184	Iron	Concomitant Medication		QD=Every Day	1 TAB				158					Iron	supplement		PO=By Mouth	-66		Discontinued	SDY824	SUB169194	5300
+SM163185	Lekovit ca	Concomitant Medication		QD=Every Day	2 chews									calcium with vit D chews	supplement		PO=By Mouth	-36		Continuing at end of study participation	SDY824	SUB169194	5300
+SM163186	Simvastatin	Concomitant Medication		QD=Every Day	40 MG									simvastatin	hyperlipidemia		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169194	5300
+SM163187	Sertraline	Concomitant Medication		QD=Every Day	200 MG									sertraline	depression		PO=By Mouth	-370		Continuing at end of study participation	SDY824	SUB169194	5300
+SM163188	Levothyroxine sodium	Concomitant Medication		QD=Every Day	50 MCG									levothyroxine sodium	hypothyroid		PO=By Mouth	-97		Continuing at end of study participation	SDY824	SUB169194	5300
+SM163189	Lansoprazole	Concomitant Medication		QD=Every Day	30 MG									lansoprazole	acid reflux		PO=By Mouth	-125		Continuing at end of study participation	SDY824	SUB169194	5300
+SM163190	Alendronate sodium	Concomitant Medication		QW=Once a Week	70 MG									alendronate sodium	osteopenia		PO=By Mouth	-462		Continuing at end of study participation	SDY824	SUB169194	5300
+SM163191	Azithromycin	Concomitant Medication		2 tabs day 1 then 1 tab daily	250 MG				122					zithromax z-pak	URI AE		PO=By Mouth	118		Discontinued	SDY824	SUB169195	5300
+SM163192	Influenza virus vaccine polyvalent	Concomitant Medication		once	0.5 ML				73					Seasonal Flu Vaccine	Prophylactic		IM=Intramuscular	73		Discontinued	SDY824	SUB169195	5300
+SM163193	Paracetamol	Concomitant Medication		As needed	650 MG									acetaminophen	Intermittent Leg Cramps AE		PO=By Mouth	60		Continuing at end of study participation	SDY824	SUB169195	5300
+SM163194	Augmentin	Concomitant Medication		BID=Twice Daily	875 MG				140					Augmentin	URI AE		PO=By Mouth	130		Discontinued	SDY824	SUB169195	5300
+SM163195	Loratadine	Concomitant Medication		PRN	10 MG									loratadine	seasonal allergies		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169195	5300
+SM163196	Doxazosin mesilate	Concomitant Medication		QD=Every Day	2 MG									doxyzosin mesylate	urinary frequency		PO=By Mouth	-37		Continuing at end of study participation	SDY824	SUB169195	5300
+SM163197	Salbutamol sulfate	Concomitant Medication		PRN	108 (90 base) MCG									ventolin HFA	asthma		INH=Inhalant			Continuing at end of study participation	SDY824	SUB169195	5300
+SM163198	Ciclosporin	Concomitant Medication		BID=Twice Daily	0.05% 1 gtts									restasis	sjogren's syndrome (dry eye)		OU=Each/both Eyes	-584		Continuing at end of study participation	SDY824	SUB169195	5300
+SM163199	Beclometasone dipropionate	Concomitant Medication		BID=Twice Daily	80 MCG									qvar	asthma		INH=Inhalant			Continuing at end of study participation	SDY824	SUB169195	5300
+SM163200	Levothyroxine sodium	Concomitant Medication		QD=Every Day	175 MCG									levothyroxine sodium	hypothyroid		PO=By Mouth	-402		Continuing at end of study participation	SDY824	SUB169195	5300
+SM163201	Amitriptyline hydrochloride	Concomitant Medication		PRN	10 MG									amitriptyline HCL	sleep aid		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169195	5300
+SM163202	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG				184					hydroxychloroquine	RA		PO=By Mouth	-219		Discontinued	SDY824	SUB169195	5300
+SM163203	Phenylephrine hydrochloride	Concomitant Medication		q 4H PRN	1 TAB				143					Sudafed PE	sinus congestion		PO=By Mouth	135		Discontinued	SDY824	SUB169196	5300
+SM163204	Oxymetazoline hydrochloride	Concomitant Medication		q 12H PRN	2-3 sprays									oxymetazoline hydrochloride 0.05%	sinus congestion		intranasal	136		Continuing at end of study participation	SDY824	SUB169196	5300
+SM163205	Ricinus communis oil	Concomitant Medication		QD=Every Day	0									castor oil	knee pain		TOP=Topical	-76		Continuing at end of study participation	SDY824	SUB169196	5300
+SM163206	Calcium	Concomitant Medication		QD=Every Day	2 chews									calcium	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169196	5300
+SM163207	Hydroxychloroquine sulfate	Concomitant Medication		BID=Twice Daily	200 MG									hydroxychloroquine sulfate	RA		PO=By Mouth	-319		Continuing at end of study participation	SDY824	SUB169196	5300
+SM163208	Tramadol	Concomitant Medication		PRN	50 MG									tramadol	pain		PO=By Mouth	-46		Continuing at end of study participation	SDY824	SUB169196	5300
+SM163209	Multivitamins	Concomitant Medication		QD=Every Day	1 TAB									multivitamin	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169196	5300
+SM163210	Theraflu	Concomitant Medication		PRN	1 packet				133					Theraflu	Cold Symptoms AE		PO=By Mouth	121		Discontinued	SDY824	SUB169197	5300
+SM163211	Novalucol novum	Concomitant Medication		PRN	1-2 TAB									chewable antacid	occasional heartburn		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169197	5300
+SM163212	Influenza virus vaccine polyvalent	Concomitant Medication		once	0.5 ML				71					influenza vaccine	prophylactic		IM=Intramuscular	71		Discontinued	SDY824	SUB169197	5300
+SM163213	Vicodin	Concomitant Medication		PRN	10-500 MG									Hydrocodone-Acetaminophen	pain		PO=By Mouth	-251		Continuing at end of study participation	SDY824	SUB169198	5300
+SM163214	Sertraline hydrochloride	Concomitant Medication		QD=Every Day	100 MG									Sertraline HCL	depression		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169198	5300
+SM163215	Levothyroxine sodium	Concomitant Medication		QD=Every Day	200 MCG									Levothyroxine Sodium	Hypothyroid		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169198	5300
+SM163216	Cyanocobalamin	Concomitant Medication		QD=Every Day	200 MG									Vitamin B12	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169198	5300
+SM163217	Ascorbic acid	Concomitant Medication		QD=Every Day	1000 IU									Vitamin C	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169198	5300
+SM163218	Colecalciferol	Concomitant Medication		QD=Every Day	5000 IU									Vitamin D3	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169198	5300
+SM163219	Tocopherol	Concomitant Medication		QD=Every Day	1 CAP									Vitamin E	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169198	5300
+SM163220	Cannabis sativa	Concomitant Medication		QOD=Every Other Day	1 joint									marijuana	pain (back)		INH=Inhalant	37		Continuing at end of study participation	SDY824	SUB169199	5300
+SM163221	Cannabis sativa	Concomitant Medication		QD=Every Day	1 joint				36					Marijuana	pain (back)		INH=Inhalant	-341		Modified Dose, Frequency, or Route	SDY824	SUB169199	5300
+SM163222	Atorvastatin calcium	Concomitant Medication		QD=Every Day	40 MG				42					Lipitor	hypercholesterol		PO=By Mouth	-497		Discontinued	SDY824	SUB169199	5300
+SM163223	Hydroxychloroquine sulfate	Concomitant Medication		QD=Every Day	400 MG									hydroxychoroquine sulfate	RA		PO=By Mouth	-251		Continuing at end of study participation	SDY824	SUB169199	5300
+SM163224	Paracetamol	Concomitant Medication		PRN	325 MG									tylenol	headache		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169200	5300
+SM163225	Multivitamins	Concomitant Medication		3 times weekly	1 TAB									multivitamin	supplement		PO=By Mouth	-693		Continuing at end of study participation	SDY824	SUB169200	5300
+SM163226	Escitalopram oxalate	Concomitant Medication		QD=Every Day	20 MG									Lexapro	depression		PO=By Mouth	-1303		Continuing at end of study participation	SDY824	SUB169200	5300
+SM163227	Cefalexin	Concomitant Medication		BID=Twice Daily	500 MG				174					Keflex	infected ingrown hair AE		PO=By Mouth	16		Discontinued	SDY824	SUB169201	5300
+SM163228	Triamcinolone acetonide	Concomitant Medication		TID=3 Times Daily	5 Percent				155					Priaminolone Acetonide	poison ivy AE		TOP=Topical	149		Discontinued	SDY824	SUB169201	5300
+SM163229	Calamine	Concomitant Medication		PRN	8 percent				149					Calamine OTC	poison ive AE		TOP=Topical	129		Discontinued	SDY824	SUB169201	5300
+SM163230	Azithromycin	Concomitant Medication		BID=Twice Daily	250 MG				9					Azithromycin	ear infection		PO=By Mouth	7		Discontinued	SDY824	SUB169201	5300
+SM163231	Fluticasone Furoate	Concomitant Medication		BID PRN	1 spray									Veramyst	Allergies		intranasal	-908		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163232	Olopatadine hydrochloride	Concomitant Medication		PRN	1 GTT									Pataday	Allergies		OU=Each/both Eyes	-665		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163233	Seretide	Concomitant Medication		PRN	100-50 MCG									Advair diskus	Asthma		INH=Inhalant	-908		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163234	Ergocalciferol	Concomitant Medication		QD=Every Day	2000 units									Vitamin D	Supplement		PO=By Mouth	-178		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163235	Pioglitazone	Concomitant Medication		QD=Every Day	15 MG									Actos	DM II		PO=By Mouth	-55		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163236	Metformin hydrochloride	Concomitant Medication		QD=Every Day	1000 MG									Metformin HCL	DM II		PO=By Mouth	-178		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163237	Levocetirizine dihydrochloride	Concomitant Medication		QD=Every Day	5 MG									Xyzal	seasonal allergies		PO=By Mouth	-665		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163238	Fenofibrate	Concomitant Medication		QD=Every Day	145 MG									Tricor	Hyperlipidemia		PO=By Mouth	-300		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163239	Montelukast	Concomitant Medication		QD=Every Day	10 MG									Singulair	allergies/asthma		PO=By Mouth	-665		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163240	Esomeprazole magnesium	Concomitant Medication		QD=Every Day	40 MG									Nexium	GERD		PO=By Mouth	-55		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163241	Cyclobenzaprine hydrochloride	Concomitant Medication		QD=Every Day	10 MG									Flexeril	back pain		PO=By Mouth	-55		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163242	Duloxetine hydrochloride	Concomitant Medication		QD=Every Day	30 MG									Cymbalta	depression-anxiety		PO=By Mouth	-55		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163243	Acetylsalicylic acid	Concomitant Medication		QD=Every Day	81 MG									Aspirin	preventative		PO=By Mouth	-178		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163244	Salbutamol	Concomitant Medication		PRN	1 puff									Proventil HFA	Asthma		INH=Inhalant	-573		Continuing at end of study participation	SDY824	SUB169201	5300
+SM163245	Dorcol	Concomitant Medication		PRN	10 ML				56					Tussin CF	Cold AE		PO=By Mouth	55		Discontinued	SDY824	SUB169202	5300
+SM163246	Paroxetine	Concomitant Medication		QD=Every Day	20 MG									Paroxetine	depression		PO=By Mouth	100		Continuing at end of study participation	SDY824	SUB169202	5300
+SM163247	Paroxetine	Concomitant Medication		QD=Every Day	10 MG				99					Paroxetine	depression		PO=By Mouth	83		Modified Dose, Frequency, or Route	SDY824	SUB169202	5300
+SM163248	Omeprazole	Concomitant Medication		PRN	1 TAB									Prilosec OTC	Heartburn		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169202	5300
+SM163249	Colecalciferol	Concomitant Medication		QD=Every Day	5,000 IU									Vitamin D3	supplement		PO=By Mouth	-14		Continuing at end of study participation	SDY824	SUB169202	5300
+SM163250	Paroxetine hydrochloride	Concomitant Medication		QD=Every Day	20 MG				82					Paroxetine HCL	depression		PO=By Mouth	-571		Modified Dose, Frequency, or Route	SDY824	SUB169202	5300
+SM163251	Clarithromycin	Concomitant Medication		q 12 H	500 MG				-21					Clarithromycin	URI prior to study entry		PO=By Mouth	-27		Discontinued	SDY824	SUB169202	5300
+SM163252	Guaifenesin	Concomitant Medication		PRN	1-2 TAB									Mucinex	cold symptoms: cough, nasal congestion		PO=By Mouth	181		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163253	Medinite	Concomitant Medication		PRN	30 ML									Nyquil	cough, nasal congestion, sore throat		PO=By Mouth	180		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163254	Vicodin	Concomitant Medication		PRN	5-500 MG				151					Vicodin	pain - left ear (r/t surgery)		PO=By Mouth	140		Discontinued	SDY824	SUB169203	5300
+SM163255	Ciprodex	Concomitant Medication		BID=Twice Daily	4 GTT				151					Ciprodex	left ear surgery		left ear	140		Discontinued	SDY824	SUB169203	5300
+SM163256	Anesthetics, general	Concomitant Medication		once	1200 units				140					General Anesthesia	left ear surgery		IV=Intravenous	140		Discontinued	SDY824	SUB169203	5300
+SM163257	Alka-seltzer	Concomitant Medication		PRN	2 TAB									Alkaseltzer	Heartburn AE		PO=By Mouth	47		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163258	Calcium carbonate	Concomitant Medication		PRN	2-4 TAB									Tums	antacid (heartburn AE)		PO=By Mouth	46		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163259	Lekovit ca	Concomitant Medication		BID=Twice Daily	600/1000 IU									Calcium with vitamin D	osteoporosis		PO=By Mouth	29		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163260	Influenza virus vaccine polyvalent	Concomitant Medication		once	0.5 ML				6					Influenza	vaccine		IM=Intramuscular	6		Discontinued	SDY824	SUB169203	5300
+SM163261	Pneumococcal vaccine	Concomitant Medication		once	0.5 ML				6					Pneumovax	vaccine		IM=Intramuscular	6		Discontinued	SDY824	SUB169203	5300
+SM163262	Diphtheria, tetanus and acellular pertussis	Concomitant Medication		once	0.5 ML				6					Tdap (adacell)	vaccine		IM=Intramuscular	6		Discontinued	SDY824	SUB169203	5300
+SM163263	Cilest	Concomitant Medication		QD=Every Day	0.25-35 mg - mcg									Sprintec	Birth Control		PO=By Mouth	6		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163264	Antidiarrhoeal microorganisms	Concomitant Medication		QD=Every Day	1 CAP									Colon Health Probiotic	supplement		PO=By Mouth	-270		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163265	Cyanocobalamin	Concomitant Medication		QD=Every Day	500 MCG									Vitamin B12	supplement		PO=By Mouth	-25		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163266	Silybum marianum	Concomitant Medication		QD=Every Day	250 MG									Milk Thistle	supplement		PO=By Mouth	-147		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163267	Ergocalciferol	Concomitant Medication		QD=Every Day	1000 units									Vitamin D	supplement		PO=By Mouth	-696		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163268	Selenium	Concomitant Medication		QD=Every Day	200 MCG									Selenium	supplement		PO=By Mouth	-147		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163269	Fish oil	Concomitant Medication		QD=Every Day	1200 MG									Omega 3	supplement		PO=By Mouth	-147		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163270	Hydroxychloroquine sulfate	Concomitant Medication		QD=Every Day	400 MG									Hydroxychloroquine Sulfate	RA		PO=By Mouth	-188		Continuing at end of study participation	SDY824	SUB169203	5300
+SM163271	Influenza virus vaccine polyvalent	Concomitant Medication		once	0.5 ML				57					Flu Vaccine	Prophylactic		IM=Intramuscular	57		Discontinued	SDY824	SUB169205	5300
+SM163272	Calcium carbonate	Concomitant Medication		PRN	1-2 TAB									Tums	Indigestion/heartburn		PO=By Mouth	-45		Continuing at end of study participation	SDY824	SUB169205	5300
+SM163273	Tylenol pm	Concomitant Medication		PRN	2 TAB									Tylenol PM	sleep aid		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169205	5300
+SM163274	Paracetamol	Concomitant Medication		PRN	650 MG									Tylenol	Pain		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169205	5300
+SM163275	Melatonin	Concomitant Medication		PRN	5 MG									Melatonin	sleep aid		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169205	5300
+SM163276	Lisinopril	Concomitant Medication		QD=Every Day	20 MG									Lisinopril	Hypertension		PO=By Mouth	-381		Continuing at end of study participation	SDY824	SUB169205	5300
+SM163277	Lekovit ca	Concomitant Medication		QD=Every Day	1 TAB									Calcium + D	Osteoporosis		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169205	5300
+SM163278	Alendronate sodium	Concomitant Medication		QD=Every Day	70 MG									Alendronate Sodium	Osteoporosis		PO=By Mouth	-137		Continuing at end of study participation	SDY824	SUB169205	5300
+SM163279	Multivitamins	Concomitant Medication		QD=Every Day	1 TAB									Multivitamins	Supplements		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169206	5300
+SM163280	Magnesium aspartate	Concomitant Medication		QD=Every Day	500 MG									Magnesium	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169206	5300
+SM163281	Omeprazole	Concomitant Medication		As needed	20 MG									Omeprazole (Prilosec)	GERD		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169206	5300
+SM163282	Lisinopril	Concomitant Medication		QD=Every Day	10 MG									Lisinopril	High blood pressure		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169206	5300
+SM163283	Diclofenac	Concomitant Medication		As needed	1 %									Diclofenac (Voltaren)	RA		TOP=Topical			Continuing at end of study participation	SDY824	SUB169206	5300
+SM163284	Nicotinic acid	Concomitant Medication		QID=4 Times Daily	500 MG									Niacin (Niaspan)	Cholesterol		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169206	5300
+SM163285	Ascorbic acid	Concomitant Medication		QD=Every Day	500 MG									Ascorbic acid( Vitamin C)	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169206	5300
+SM163286	Lekovit ca	Concomitant Medication		QD=Every Day	600-200 MG									Calcium Carbonate -Vitamin D	Supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169206	5300
+SM163287	Coricidin	Concomitant Medication		BID=Twice Daily	1 TAB				11					Coricidin	Common cold		PO=By Mouth	5		Discontinued	SDY824	SUB169206	5300
+SM163288	Cefalexin	Concomitant Medication		QID=4 Times Daily	500 MG				-22					Cephalexin (Keflex)	To treat infected elbow		PO=By Mouth	-32		Discontinued	SDY824	SUB169206	5300
+SM163289	Ascorbic acid	Concomitant Medication		QD=Every Day	1 TAB				105					Vitamin C	Common COld Symptoms		PO=By Mouth	86		Discontinued	SDY824	SUB169206	5300
+SM163290	Coricidin	Concomitant Medication		BID=Twice Daily	1 TAB				92					Coricidin HBP	Common Cold Symptoms		OU=Each/both Eyes	89		Discontinued	SDY824	SUB169206	5300
+SM163291	Ciprofloxacin	Concomitant Medication		BID=Twice Daily	500 MG				178					Ciprofloxacin	Bronchitis		PO=By Mouth	168		Discontinued	SDY824	SUB169207	5300
+SM163292	Vicks formula 44m	Concomitant Medication		QD=Every Day	30 ML				71					Dayquil	Cold symptoms/runny nose		PO=By Mouth	71		Discontinued	SDY824	SUB169207	5300
+SM163293	Citalopram hydrobromide	Concomitant Medication		QD=Every Day	40 MG									Celexa	Depression/Anxiety		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169207	5300
+SM163294	Levothyroxine	Concomitant Medication		QD=Every Day	300 MCG									Levothyroxine	Hypothyroid		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169207	5300
+SM163295	Metaxalone	Concomitant Medication		As needed	800 MG									Metaxalone (SKELAXIN)	Muscle relaxer		PO=By Mouth	-218		Continuing at end of study participation	SDY824	SUB169208	5300
+SM163296	Tramadol hydrochloride	Concomitant Medication		As needed	50 MG									traMADol (UTRAM)	pain		PO=By Mouth	-279		Continuing at end of study participation	SDY824	SUB169208	5300
+SM163297	Thomapyrin n	Concomitant Medication		As needed	565-1130 MG									Excederin migrane	Headache (not migranes)		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169208	5300
+SM163298	Advil pm	Concomitant Medication		As needed	200-400 MG									Advil PM	Sleeping aid		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169208	5300
+SM163299	Cetirizine hydrochloride	Concomitant Medication		As needed	1 TAB									Zyrtec	Seasonal Allergies		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169208	5300
+SM163300	Ranitidine	Concomitant Medication		As needed	150 MG									Ranitidine	Heartburn		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169208	5300
+SM163301	Ergocalciferol	Concomitant Medication		QD=Every Day	1000 IU									Vitamin D	Supplement		PO=By Mouth	-157		Continuing at end of study participation	SDY824	SUB169208	5300
+SM163302	Cilest	Concomitant Medication		QD=Every Day	1 TAB									Mono-Linyah 28 tablet	Birth Control		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169208	5300
+SM163303	Iron	Concomitant Medication		QD=Every Day	65 MG									Iron	Supplement		PO=By Mouth	-98		Continuing at end of study participation	SDY824	SUB169208	5300
+SM163304	Multiple vitamins	Concomitant Medication		QD=Every Day	1 TAB									Multiple vitamin	Supplement		PO=By Mouth	-157		Continuing at end of study participation	SDY824	SUB169208	5300
+SM163305	Calcium	Concomitant Medication		QD=Every Day	1250 MG									Calcium	Supplement		PO=By Mouth	-157		Continuing at end of study participation	SDY824	SUB169208	5300
+SM163306	Hydroxychloroquine	Concomitant Medication		QD=Every Day	400 MG									Hydroxychloroquine (Plaquenil)	Arthritis pain		PO=By Mouth	-157		Continuing at end of study participation	SDY824	SUB169208	5300
+SM163307	Biotin	Concomitant Medication		QD=Every Day	1000 MG									Biotin	Supplement		PO=By Mouth	164		Continuing at end of study participation	SDY824	SUB169208	5300
+SM163308	Acetylsalicylic acid	Concomitant Medication		QD=Every Day	81 MG									Aspirin	Blood Clotting Prophylaxis		PO=By Mouth	133		Continuing at end of study participation	SDY824	SUB169209	5300
+SM163309	Prinzide	Concomitant Medication		QD=Every Day	20-12.5 MG									Lisinopril-Hydrochlorothiazide	Exacerbation of Hypertension		PO=By Mouth	59		Continuing at end of study participation	SDY824	SUB169209	5300
+SM163310	Ketoconazole	Concomitant Medication		prn	2 %									ketoconazole 2% topical shampoo	dry skin		TOP=Topical	-1236		Continuing at end of study participation	SDY824	SUB169209	5300
+SM163311	Ketoconazole	Concomitant Medication		as needed	2 %									ketaconazole 2% topical cream	dry skin		TOP=Topical	-1236		Continuing at end of study participation	SDY824	SUB169209	5300
+SM163312	Prinzide	Concomitant Medication		QD=Every Day	10-12.5 MG				58					lisinopril-hydrochlorothiazide	hypertension		PO=By Mouth	-2737		Modified Dose, Frequency, or Route	SDY824	SUB169209	5300
+SM163313	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG									hydroxychloroquine	RA		PO=By Mouth	-4535		Continuing at end of study participation	SDY824	SUB169209	5300
+SM163314	Metformin hydrochloride	Concomitant Medication		BID=Twice Daily	500 MG									Metformin ER	diabetes mellitus		PO=By Mouth	30		Continuing at end of study participation	SDY824	SUB169209	5300
+SM163315	Potassium chloride	Concomitant Medication		QD=Every Day	20 mEq									Potassium Chloride	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169210	5300
+SM163316	Hydroxychloroquine	Concomitant Medication		QD=Every Day	400 MG									Hydroxychloroquine	for RA		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169210	5300
+SM163317	Calcium	Concomitant Medication		QD=Every Day	600 MG									Calcium	supplement		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169210	5300
+SM163318	Bacitracin	Concomitant Medication		TID=3 Times Daily	0				100					Bacitracian	blister		TOP=Topical	94		Discontinued	SDY824	SUB169211	5300
+SM163319	Cefuroxime	Concomitant Medication		QD=Every Day	250 MG				84					Cefuroxime	ear infection		PO=By Mouth	79		Discontinued	SDY824	SUB169211	5300
+SM163320	Augmentin	Concomitant Medication		QD=Every Day	250 MG				78					Augmentin	ear infection		PO=By Mouth	73		Discontinued	SDY824	SUB169211	5300
+SM163321	Vicks formula 44m	Concomitant Medication		QD=Every Day	2 TAB				73					Dayquil	URI		PO=By Mouth	68		Discontinued	SDY824	SUB169211	5300
+SM163322	Medinite	Concomitant Medication		QD=Every Day	2 TAB				73					Nyquil	URI		PO=By Mouth	68		Discontinued	SDY824	SUB169211	5300
+SM163323	Seretide	Concomitant Medication		PRN	100 MCG									Advair	Asthma		INH=Inhalant			Continuing at end of study participation	SDY824	SUB169211	5300
+SM163324	Loteprednol etabonate	Concomitant Medication		PRN	1 GTT									Lotemax	dry eyes		OU=Each/both Eyes	-762		Continuing at end of study participation	SDY824	SUB169211	5300
+SM163325	Ciclosporin	Concomitant Medication		QD=Every Day	1 GTT									Restasis	dry eyes		OU=Each/both Eyes	-762		Continuing at end of study participation	SDY824	SUB169211	5300
+SM163326	Calcium carbonate	Concomitant Medication		QD=Every Day	1 TAB									Caltrate	Bone Health		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169211	5300
+SM163327	Ergocalciferol	Concomitant Medication		QD=Every Day	400 IU									Vitamin D	Bone Health		PO=By Mouth			Continuing at end of study participation	SDY824	SUB169211	5300
+SM163328	Folic acid	Concomitant Medication		QD=Every Day	1 MG				-346					Folate	Oral ulcer		PO=By Mouth	-349		Discontinued	SDY824	SUB169212	5300
+SM163329	Ergocalciferol	Concomitant Medication		QD=Every Day	2000 IU									Vitamin D	Bone Health		PO=By Mouth	-388		Continuing at end of study participation	SDY824	SUB169212	5300
+SM163330	Calcium carbonate	Concomitant Medication		QD=Every Day	800 MG									Tums	Calcium/Bone Health		PO=By Mouth	-312		Continuing at end of study participation	SDY824	SUB169212	5300
+SM163331	Neotracin	Concomitant Medication		PRN	as directed ointment				45					Neosporin	Blister		TOP=Topical	-15		Discontinued	SDY824	SUB169214	5300
+SM163332	Eugynon	Concomitant Medication		QD=Every Day	.15 MG									Portia 28	Birth Control		PO=By Mouth	44		Continuing at end of study participation	SDY824	SUB169214	5300
+SM163333	Hydroxychloroquine	Concomitant Medication		BID=Twice Daily	200 MG									Plaquenil	RA		PO=By Mouth	-35		Continuing at end of study participation	SDY824	SUB169214	5300
+SM163334	Phentermine	Concomitant Medication		QD=Every Day	30 MG									Phentermine	Obesity		PO=By Mouth	-35		Continuing at end of study participation	SDY824	SUB169214	5300
+SM163335	Salicylic acid	Concomitant Medication		PRN	a small amount ointment				73					Compound W	Wart		TOP=Topical	45		Discontinued	SDY824	SUB169214	5300
+SM163336	Guaifenesin	Concomitant Medication		QD=Every Day	600 MG				-11					Mucinex	sinus headache		PO=By Mouth	-11		Discontinued	SDY824	SUB169214	5300

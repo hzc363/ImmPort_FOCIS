@@ -1,0 +1,2 @@
+PERSON_ACCESSION	EMAIL	FIRST_NAME	HONORIFIC	LAST_NAME	ORCID	ORGANIZATION	ROLE_IN_STUDY	SITE_NAME	STUDY_ACCESSION	SUFFIXES	TITLE_IN_STUDY	WORKSPACE_ID
+PSN1190	Jennifer_Anolik@urmc.rochester.edu	Jennifer	MD	Anolik		University of Rochester School of Medicine	Principal Investigator	University of Rochester School of Medicine	SDY824		Protocol Chair	5300

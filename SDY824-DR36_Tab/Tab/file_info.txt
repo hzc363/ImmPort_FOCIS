@@ -1,0 +1,722 @@
+FILE_INFO_ID	DETAIL	FILESIZE_BYTES	NAME	ORIGINAL_FILE_NAME	WORKSPACE_ID
+613889	Flow cytometry result	144344415	Specimen_001_052049 DAY 0.613889.fcs	Specimen_001_052049 DAY 0.fcs	5300
+613890	Flow cytometry compensation or control	115143	Compensation Controls_Blue A 780,2f,60 Stained Control.613890.fcs	Compensation Controls_Blue A 780,2f,60 Stained Control.fcs	5300
+613891	Flow cytometry compensation or control	115145	Compensation Controls_Blue B 710,2f,50 Stained Control.613891.fcs	Compensation Controls_Blue B 710,2f,50 Stained Control.fcs	5300
+613892	Flow cytometry compensation or control	115147	Compensation Controls_Blue C 660,2f,20 Stained Control.613892.fcs	Compensation Controls_Blue C 660,2f,20 Stained Control.fcs	5300
+613893	Flow cytometry compensation or control	115151	Compensation Controls_Blue D 610,2f,20 Stained Control.613893.fcs	Compensation Controls_Blue D 610,2f,20 Stained Control.fcs	5300
+613894	Flow cytometry compensation or control	115150	Compensation Controls_Blue E 576,2f,26 Stained Control.613894.fcs	Compensation Controls_Blue E 576,2f,26 Stained Control.fcs	5300
+613895	Flow cytometry compensation or control	115144	Compensation Controls_Blue F 525,2f,50 Stained Control.613895.fcs	Compensation Controls_Blue F 525,2f,50 Stained Control.fcs	5300
+613896	Flow cytometry compensation or control	115141	Compensation Controls_Red A 780,2f,60 Stained Control.613896.fcs	Compensation Controls_Red A 780,2f,60 Stained Control.fcs	5300
+613897	Flow cytometry compensation or control	115141	Compensation Controls_Red C 660,2f,20 Stained Control.613897.fcs	Compensation Controls_Red C 660,2f,20 Stained Control.fcs	5300
+613898	Flow cytometry compensation or control	115116	Compensation Controls_Unstained Control.613898.fcs	Compensation Controls_Unstained Control.fcs	5300
+613899	Flow cytometry compensation or control	115146	Compensation Controls_Violet A 610,2f,20 Stained Control.613899.fcs	Compensation Controls_Violet A 610,2f,20 Stained Control.fcs	5300
+613900	Flow cytometry compensation or control	115148	Compensation Controls_Violet B 525,2f,50 Stained Control.613900.fcs	Compensation Controls_Violet B 525,2f,50 Stained Control.fcs	5300
+613901	Flow cytometry compensation or control	115147	Compensation Controls_Violet C 450,2f,50 Stained Control.613901.fcs	Compensation Controls_Violet C 450,2f,50 Stained Control.fcs	5300
+613902	Flow cytometry result	78739052	TRAN_052064 DAY 0.613902.fcs	TRAN_052064 DAY 0.fcs	5300
+613903	Flow cytometry compensation or control	66567691	TRAN_33286-4 IC.613903.fcs	TRAN_33286-4 IC.fcs	5300
+613904	Flow cytometry result	52854287	TCOMBO_052049 DAY 0.613904.fcs	TCOMBO_052049 DAY 0.fcs	5300
+613905	Flow cytometry compensation or control	138170	Compensation Controls_Blue A 710,2f,50 Stained Control.613905.fcs	Compensation Controls_Blue A 710,2f,50 Stained Control.fcs	5300
+613906	Flow cytometry compensation or control	101720	Compensation Controls_Blue B 515,2f,20 Stained Control.613906.fcs	Compensation Controls_Blue B 515,2f,20 Stained Control.fcs	5300
+613907	Flow cytometry compensation or control	133547	Compensation Controls_Green A 780,2f,40 Stained Control.613907.fcs	Compensation Controls_Green A 780,2f,40 Stained Control.fcs	5300
+613908	Flow cytometry compensation or control	100498	Compensation Controls_Green C 660,2f,40 Stained Control.613908.fcs	Compensation Controls_Green C 660,2f,40 Stained Control.fcs	5300
+613909	Flow cytometry compensation or control	115121	Compensation Controls_Green D 610,2f,20 Stained Control.613909.fcs	Compensation Controls_Green D 610,2f,20 Stained Control.fcs	5300
+613910	Flow cytometry compensation or control	343734	Compensation Controls_Green E 575,2f,25 Stained Control.613910.fcs	Compensation Controls_Green E 575,2f,25 Stained Control.fcs	5300
+613911	Flow cytometry compensation or control	118657	Compensation Controls_Violet A 780,2f,60 Stained Control.613911.fcs	Compensation Controls_Violet A 780,2f,60 Stained Control.fcs	5300
+613912	Flow cytometry compensation or control	129402	Compensation Controls_Violet C 660,2f,40 Stained Control.613912.fcs	Compensation Controls_Violet C 660,2f,40 Stained Control.fcs	5300
+613913	Flow cytometry compensation or control	106418	Compensation Controls_Violet D 605,2f,40 Stained Control.613913.fcs	Compensation Controls_Violet D 605,2f,40 Stained Control.fcs	5300
+613914	Flow cytometry compensation or control	298314	Compensation Controls_Violet G 550,2f,40 Stained Control.613914.fcs	Compensation Controls_Violet G 550,2f,40 Stained Control.fcs	5300
+613915	Flow cytometry compensation or control	123825	Compensation Controls_Violet H 450,2f,50 Stained Control.613915.fcs	Compensation Controls_Violet H 450,2f,50 Stained Control.fcs	5300
+613916	Flow cytometry compensation or control	49113392	TCOMBO_33286-4 IC.613916.fcs	TCOMBO_33286-4 IC.fcs	5300
+613917	Flow cytometry compensation or control	54304415	TCOMBO_TONSIL.613917.fcs	TCOMBO_TONSIL.fcs	5300
+613918	Flow cytometry result	145453789	Specimen_001_052049 WK12.613918.fcs	Specimen_001_052049 WK12.fcs	5300
+613919	Flow cytometry result	69217916	TRAN_052049 WK 12.613919.fcs	TRAN_052049 WK 12.fcs	5300
+613920	Flow cytometry result	65599439	TCOMBO_052049 WK 12.613920.fcs	TCOMBO_052049 WK 12.fcs	5300
+613921	Flow cytometry result	113684940	Specimen_001_052049 WK24.613921.fcs	Specimen_001_052049 WK24.fcs	5300
+613922	Flow cytometry result	68088455	TRAN_052049 WK 24.613922.fcs	TRAN_052049 WK 24.fcs	5300
+613923	Flow cytometry result	90087571	TCOMBO_052049 WK 24.613923.fcs	TCOMBO_052049 WK 24.fcs	5300
+613924	Flow cytometry result	50550380	Specimen_001_052053 day0.613924.fcs	Specimen_001_052053 day0.fcs	5300
+613925	Flow cytometry compensation or control	45101699	Specimen_001_24888-1146 IC.613925.fcs	Specimen_001_24888-1146 IC.fcs	5300
+613926	Flow cytometry result	64991108	Transitional_052053A Day 0.613926.fcs	Transitional_052053A Day 0.fcs	5300
+613927	Flow cytometry compensation or control	283159	Compensation Controls_CD3 Violet C 450,2f,50 Stained Control.613927.fcs	Compensation Controls_CD3 Violet C 450,2f,50 Stained Control.fcs	5300
+613928	Flow cytometry compensation or control	283153	Compensation Controls_CD10 Red C 660,2f,20 Stained Control.613928.fcs	Compensation Controls_CD10 Red C 660,2f,20 Stained Control.fcs	5300
+613929	Flow cytometry compensation or control	283153	Compensation Controls_CD19 Red A 780,2f,60 Stained Control.613929.fcs	Compensation Controls_CD19 Red A 780,2f,60 Stained Control.fcs	5300
+613930	Flow cytometry compensation or control	283158	Compensation Controls_CD23 Blue A 780,2f,60 Stained Control.613930.fcs	Compensation Controls_CD23 Blue A 780,2f,60 Stained Control.fcs	5300
+613931	Flow cytometry compensation or control	283160	Compensation Controls_CD24 Blue D 610,2f,20 Stained Control.613931.fcs	Compensation Controls_CD24 Blue D 610,2f,20 Stained Control.fcs	5300
+613932	Flow cytometry compensation or control	283162	Compensation Controls_CD27 Violet A 610,2f,20 Stained Control.613932.fcs	Compensation Controls_CD27 Violet A 610,2f,20 Stained Control.fcs	5300
+613933	Flow cytometry compensation or control	283156	Compensation Controls_CD38 Blue B 710,2f,50 Stained Control.613933.fcs	Compensation Controls_CD38 Blue B 710,2f,50 Stained Control.fcs	5300
+613934	Flow cytometry compensation or control	283154	Compensation Controls_IgD Blue E 576,2f,26 Stained Control.613934.fcs	Compensation Controls_IgD Blue E 576,2f,26 Stained Control.fcs	5300
+613935	Flow cytometry compensation or control	283153	Compensation Controls_IgM Blue C 660,2f,20 Stained Control.613935.fcs	Compensation Controls_IgM Blue C 660,2f,20 Stained Control.fcs	5300
+613936	Flow cytometry compensation or control	283159	Compensation Controls_L,2f,D Violet B 525,2f,50 Stained Control.613936.fcs	Compensation Controls_L,2f,D Violet B 525,2f,50 Stained Control.fcs	5300
+613937	Flow cytometry compensation or control	563149	Compensation Controls_MTG Blue F 525,2f,50 Stained Control.613937.fcs	Compensation Controls_MTG Blue F 525,2f,50 Stained Control.fcs	5300
+613938	Flow cytometry compensation or control	30603225	Transitional_24888 1146IC.613938.fcs	Transitional_24888 1146IC.fcs	5300
+613939	Flow cytometry result	25893057	T-helper_052053A Day0.613939.fcs	T-helper_052053A Day0.fcs	5300
+613940	Flow cytometry compensation or control	363515	Compensation Controls_CCR4 Blue F 525,2f,50 Stained Control.613940.fcs	Compensation Controls_CCR4 Blue F 525,2f,50 Stained Control.fcs	5300
+613941	Flow cytometry compensation or control	363515	Compensation Controls_CCR6 Blue B 710,2f,50 Stained Control.613941.fcs	Compensation Controls_CCR6 Blue B 710,2f,50 Stained Control.fcs	5300
+613942	Flow cytometry compensation or control	363515	Compensation Controls_CCR7 Blue A 780,2f,60 Stained Control.613942.fcs	Compensation Controls_CCR7 Blue A 780,2f,60 Stained Control.fcs	5300
+613943	Flow cytometry compensation or control	363508	Compensation Controls_CD3 Red B 710,2f,50 Stained Control.613943.fcs	Compensation Controls_CD3 Red B 710,2f,50 Stained Control.fcs	5300
+613944	Flow cytometry compensation or control	363516	Compensation Controls_CD4 Violet C 450,2f,50 Stained Control.613944.fcs	Compensation Controls_CD4 Violet C 450,2f,50 Stained Control.fcs	5300
+613945	Flow cytometry compensation or control	363512	Compensation Controls_CD25 Red A 780,2f,60 Stained Control.613945.fcs	Compensation Controls_CD25 Red A 780,2f,60 Stained Control.fcs	5300
+613946	Flow cytometry compensation or control	363526	Compensation Controls_CD45RA Violet A 610,2f,20 Stained Control.613946.fcs	Compensation Controls_CD45RA Violet A 610,2f,20 Stained Control.fcs	5300
+613947	Flow cytometry compensation or control	363518	Compensation Controls_CXCR3 Blue E 576,2f,26 Stained Control.613947.fcs	Compensation Controls_CXCR3 Blue E 576,2f,26 Stained Control.fcs	5300
+613948	Flow cytometry compensation or control	363516	Compensation Controls_CXCR5 Red C 660,2f,20 Stained Control.613948.fcs	Compensation Controls_CXCR5 Red C 660,2f,20 Stained Control.fcs	5300
+613949	Flow cytometry compensation or control	363515	Compensation Controls_ICOS Blue C 660,2f,20 Stained Control.613949.fcs	Compensation Controls_ICOS Blue C 660,2f,20 Stained Control.fcs	5300
+613950	Flow cytometry compensation or control	28735082	T-helper_24888 1146IC.613950.fcs	T-helper_24888 1146IC.fcs	5300
+613951	Flow cytometry compensation or control	20645220	T-helper_FMO.613951.fcs	T-helper_FMO.fcs	5300
+613952	Flow cytometry result	36435918	Specimen_001_052053 wk12.613952.fcs	Specimen_001_052053 wk12.fcs	5300
+613953	Flow cytometry result	84128439	Transitional_052053A Wk12.613953.fcs	Transitional_052053A Wk12.fcs	5300
+613954	Flow cytometry result	22853808	T-helper_052053A Wk12.613954.fcs	T-helper_052053A Wk12.fcs	5300
+613955	Flow cytometry result	21971902	Specimen_001_052053 wk 24.613955.fcs	Specimen_001_052053 wk 24.fcs	5300
+613956	Flow cytometry result	56069521	Transitional_052053A Wk24.613956.fcs	Transitional_052053A Wk24.fcs	5300
+613957	Flow cytometry result	18212258	T-helper_052053A Wk24.613957.fcs	T-helper_052053A Wk24.fcs	5300
+613958	Flow cytometry result	113731598	Specimen_001_052064 DAY 0.613958.fcs	Specimen_001_052064 DAY 0.fcs	5300
+613959	Flow cytometry result	57816720	TCOMBO_052064 DAY 0.613959.fcs	TCOMBO_052064 DAY 0.fcs	5300
+613960	Flow cytometry result	180675181	Specimen_001_052064 WK24.613960.fcs	Specimen_001_052064 WK24.fcs	5300
+613961	Flow cytometry result	85701941	TRAN_052064 WK 24.613961.fcs	TRAN_052064 WK 24.fcs	5300
+613962	Flow cytometry result	54419343	TCOMBO_052064 WK 24.613962.fcs	TCOMBO_052064 WK 24.fcs	5300
+613963	Flow cytometry result	95521503	Specimen_001_052070 DAY 0.613963.fcs	Specimen_001_052070 DAY 0.fcs	5300
+613964	Flow cytometry result	39125017	TRAN_052070 DAY 0.613964.fcs	TRAN_052070 DAY 0.fcs	5300
+613965	Flow cytometry result	58269455	TCOMBO_052070 DAY 0.613965.fcs	TCOMBO_052070 DAY 0.fcs	5300
+613966	Flow cytometry result	69443389	Specimen_001_052070 WK12.613966.fcs	Specimen_001_052070 WK12.fcs	5300
+613967	Flow cytometry result	53540209	TRAN_052070 WK 12.613967.fcs	TRAN_052070 WK 12.fcs	5300
+613968	Flow cytometry result	43357967	TCOMBO_052070 WK 12.613968.fcs	TCOMBO_052070 WK 12.fcs	5300
+613969	Flow cytometry result	60238405	Specimen_001_052070 WK 24.613969.fcs	Specimen_001_052070 WK 24.fcs	5300
+613970	Flow cytometry result	41533636	TRAN_052070 WK 24.613970.fcs	TRAN_052070 WK 24.fcs	5300
+613971	Flow cytometry result	52089558	TCOMBO_052070 WK 24.613971.fcs	TCOMBO_052070 WK 24.fcs	5300
+613972	Flow cytometry result	60777380	Specimen_002_052081 DAY 0.613972.fcs	Specimen_002_052081 DAY 0.fcs	5300
+613973	Flow cytometry compensation or control	113689922	Specimen_002_33286-04 NC.613973.fcs	Specimen_002_33286-04 NC.fcs	5300
+613974	Flow cytometry compensation or control	100708243	Specimen_002_B220 FMO.613974.fcs	Specimen_002_B220 FMO.fcs	5300
+613975	Flow cytometry result	47801167	TRAN_052081 DAY 0.613975.fcs	TRAN_052081 DAY 0.fcs	5300
+613976	Flow cytometry result	28341569	T COMBO_052081 DAY 0.613976.fcs	T COMBO_052081 DAY 0.fcs	5300
+613977	Flow cytometry compensation or control	43292323	T COMBO_33286-4 IC.613977.fcs	T COMBO_33286-4 IC.fcs	5300
+613978	Flow cytometry compensation or control	43208402	T COMBO_TONSIL.613978.fcs	T COMBO_TONSIL.fcs	5300
+613979	Flow cytometry compensation or control	643505	Specimen_001_PK6 FOR FOZZIE.613979.fcs	Specimen_001_PK6 FOR FOZZIE.fcs	5300
+613980	Flow cytometry result	70495073	Specimen_002_052081 WK12.613980.fcs	Specimen_002_052081 WK12.fcs	5300
+613981	Flow cytometry result	32122020	TRAN_052081 WK 12.613981.fcs	TRAN_052081 WK 12.fcs	5300
+613982	Flow cytometry result	28395711	T COMBO_052081 WK 12.613982.fcs	T COMBO_052081 WK 12.fcs	5300
+613983	Flow cytometry result	43646778	Specimen_002_052092 DAY 0.613983.fcs	Specimen_002_052092 DAY 0.fcs	5300
+613984	Flow cytometry result	35935425	TRAN_052092 DAY0.613984.fcs	TRAN_052092 DAY0.fcs	5300
+613985	Flow cytometry result	28672192	T COMBO_052092 DAY 0.613985.fcs	T COMBO_052092 DAY 0.fcs	5300
+613986	Flow cytometry result	121300434	Specimen_002_052092 WK12.613986.fcs	Specimen_002_052092 WK12.fcs	5300
+613987	Flow cytometry result	50120288	TRAN_052092 WK 12.613987.fcs	TRAN_052092 WK 12.fcs	5300
+613988	Flow cytometry result	43990343	T COMBO_052092 WK 12.613988.fcs	T COMBO_052092 WK 12.fcs	5300
+613989	Flow cytometry result	49020929	Specimen_002_052092 WK24.613989.fcs	Specimen_002_052092 WK24.fcs	5300
+613990	Flow cytometry result	42288416	TRAN_052092 WK 24.613990.fcs	TRAN_052092 WK 24.fcs	5300
+613991	Flow cytometry result	46046659	T COMBO_052092 WK 24.613991.fcs	T COMBO_052092 WK 24.fcs	5300
+613992	Flow cytometry result	29729033	Specimen_002_052109 DAY 0.613992.fcs	Specimen_002_052109 DAY 0.fcs	5300
+613993	Flow cytometry result	41767144	TRAN_052109 DAY0.613993.fcs	TRAN_052109 DAY0.fcs	5300
+613994	Flow cytometry result	27881349	T COMBO_052109 DAY 0.613994.fcs	T COMBO_052109 DAY 0.fcs	5300
+613995	Flow cytometry result	19033865	Specimen_002_052109 WK12.613995.fcs	Specimen_002_052109 WK12.fcs	5300
+613996	Flow cytometry result	17557000	TRAN_052109 WK 12.613996.fcs	TRAN_052109 WK 12.fcs	5300
+613997	Flow cytometry result	19831819	T COMBO_052109 WK 12.613997.fcs	T COMBO_052109 WK 12.fcs	5300
+613998	Flow cytometry result	72556365	Specimen_002_052115 DAY 0.613998.fcs	Specimen_002_052115 DAY 0.fcs	5300
+613999	Flow cytometry result	49970536	TRAN_052115 DAY 0.613999.fcs	TRAN_052115 DAY 0.fcs	5300
+614000	Flow cytometry result	39951421	T COMBO_052115 DAY 0.614000.fcs	T COMBO_052115 DAY 0.fcs	5300
+614001	Flow cytometry result	79288579	Specimen_002_052115 WK12.614001.fcs	Specimen_002_052115 WK12.fcs	5300
+614002	Flow cytometry result	27675014	TRAN_052115 WK 12.614002.fcs	TRAN_052115 WK 12.fcs	5300
+614003	Flow cytometry result	70397632	T COMBO_052115 WK 12.614003.fcs	T COMBO_052115 WK 12.fcs	5300
+614004	Flow cytometry result	68806961	Specimen_002_052115 WK24.614004.fcs	Specimen_002_052115 WK24.fcs	5300
+614005	Flow cytometry result	44132272	TRAN_052115 WK 24.614005.fcs	TRAN_052115 WK 24.fcs	5300
+614006	Flow cytometry result	51350465	T COMBO_052115 WK 24.614006.fcs	T COMBO_052115 WK 24.fcs	5300
+614007	Flow cytometry result	66866942	Specimen_001_052126 DAY 0.614007.fcs	Specimen_001_052126 DAY 0.fcs	5300
+614008	Flow cytometry result	58389029	TRAN_052126 DAY 0.614008.fcs	TRAN_052126 DAY 0.fcs	5300
+614009	Flow cytometry result	48901655	TCOMBO_052126 DAY 0.614009.fcs	TCOMBO_052126 DAY 0.fcs	5300
+614010	Flow cytometry result	43759190	Specimen_001_052126 WK 12.614010.fcs	Specimen_001_052126 WK 12.fcs	5300
+614011	Flow cytometry result	19893203	TCOMBO_052126 WK 12.614011.fcs	TCOMBO_052126 WK 12.fcs	5300
+614012	Flow cytometry result	84290724	Specimen_001_052126 WK24.614012.fcs	Specimen_001_052126 WK24.fcs	5300
+614013	Flow cytometry result	82482552	TRAN_052126 WK 24.614013.fcs	TRAN_052126 WK 24.fcs	5300
+614014	Flow cytometry result	54444499	TCOMBO_052126 WK 24.614014.fcs	TCOMBO_052126 WK 24.fcs	5300
+614015	Flow cytometry result	145577305	ARA06_B-MEM_060015 DAY 0.614015.fcs	ARA06_B-MEM_060015 DAY 0.fcs	5300
+614016	Flow cytometry compensation or control	108319712	ARA06_B-MEM_33286-04 NC.614016.fcs	ARA06_B-MEM_33286-04 NC.fcs	5300
+614017	Flow cytometry compensation or control	45485537	ARA06_B-MEM_B220 FMO.614017.fcs	ARA06_B-MEM_B220 FMO.fcs	5300
+614018	Flow cytometry result	79033886	TRAN_060015 DAY 0.614018.fcs	TRAN_060015 DAY 0.fcs	5300
+614019	Flow cytometry compensation or control	453978	Peak 6_Tube_001.614019.fcs	Peak 6_Tube_001.fcs	5300
+614020	Flow cytometry result	48731012	T COMBO_060015 DAY 0.614020.fcs	T COMBO_060015 DAY 0.fcs	5300
+614021	Flow cytometry compensation or control	19259476	T COMBO_FMO PD1.614021.fcs	T COMBO_FMO PD1.fcs	5300
+614022	Flow cytometry result	231700103	ARA06_B-MEM_060015 WK12.614022.fcs	ARA06_B-MEM_060015 WK12.fcs	5300
+614023	Flow cytometry result	78134443	TRAN_060015 WK 12.614023.fcs	TRAN_060015 WK 12.fcs	5300
+614024	Flow cytometry result	64747270	T COMBO_060015 WK 12.614024.fcs	T COMBO_060015 WK 12.fcs	5300
+614025	Flow cytometry result	187471008	ARA06_B-MEM_060015 WK24.614025.fcs	ARA06_B-MEM_060015 WK24.fcs	5300
+614026	Flow cytometry result	69954108	TRAN_060015 WK 24.614026.fcs	TRAN_060015 WK 24.fcs	5300
+614027	Flow cytometry result	47331333	T COMBO_060015 WK 24.614027.fcs	T COMBO_060015 WK 24.fcs	5300
+614028	Flow cytometry result	99384985	ARA06_B-MEM_060026 DAY 0.614028.fcs	ARA06_B-MEM_060026 DAY 0.fcs	5300
+614029	Flow cytometry result	48820235	TRAN_060026 DAY 0.614029.fcs	TRAN_060026 DAY 0.fcs	5300
+614030	Flow cytometry result	39156739	T COMBO_060026 DAY  0.614030.fcs	T COMBO_060026 DAY  0.fcs	5300
+614031	Flow cytometry result	87658129	ARA06_B-MEM_060026 WK12.614031.fcs	ARA06_B-MEM_060026 WK12.fcs	5300
+614032	Flow cytometry result	53767216	TRAN_060026 WK 12.614032.fcs	TRAN_060026 WK 12.fcs	5300
+614033	Flow cytometry result	33265411	T COMBO_060026 WK 12.614033.fcs	T COMBO_060026 WK 12.fcs	5300
+614034	Flow cytometry result	94093345	ARA06_B-MEM_060026 WK24.614034.fcs	ARA06_B-MEM_060026 WK24.fcs	5300
+614035	Flow cytometry result	54804666	TRAN_060026 WK 24.614035.fcs	TRAN_060026 WK 24.fcs	5300
+614036	Flow cytometry result	17794051	T COMBO_060026 WK 24.614036.fcs	T COMBO_060026 WK 24.fcs	5300
+614037	Flow cytometry result	78854881	ARA06-B-MEM_060037 DAY 0.614037.fcs	ARA06-B-MEM_060037 DAY 0.fcs	5300
+614038	Flow cytometry compensation or control	131283437	ARA06-B-MEM_22559-182 NC.614038.fcs	ARA06-B-MEM_22559-182 NC.fcs	5300
+614039	Flow cytometry compensation or control	62678371	ARA06-B-MEM_B220 FMO.614039.fcs	ARA06-B-MEM_B220 FMO.fcs	5300
+614040	Flow cytometry result	56386099	TRAN_060037 DAY 0.614040.fcs	TRAN_060037 DAY 0.fcs	5300
+614041	Flow cytometry compensation or control	68819917	TRAN_22559-182 IC.614041.fcs	TRAN_22559-182 IC.fcs	5300
+614042	Flow cytometry result	30872495	TCOMBO_060037 DAY 0.614042.fcs	TCOMBO_060037 DAY 0.fcs	5300
+614043	Flow cytometry compensation or control	44005687	TCOMBO_22559-182 IC.614043.fcs	TCOMBO_22559-182 IC.fcs	5300
+614044	Flow cytometry compensation or control	15292071	TCOMBO_FMO PD1.614044.fcs	TCOMBO_FMO PD1.fcs	5300
+614045	Flow cytometry result	60808223	ARA06-B-MEM_060037 WK12.614045.fcs	ARA06-B-MEM_060037 WK12.fcs	5300
+614046	Flow cytometry result	39645147	TRAN_060037 WK 12.614046.fcs	TRAN_060037 WK 12.fcs	5300
+614047	Flow cytometry result	22143217	TCOMBO_060037 WK 12.614047.fcs	TCOMBO_060037 WK 12.fcs	5300
+614048	Flow cytometry result	60492723	ARA06-B-MEM_060037 WK24.614048.fcs	ARA06-B-MEM_060037 WK24.fcs	5300
+614049	Flow cytometry result	41030723	TRAN_060037 WK 24.614049.fcs	TRAN_060037 WK 24.fcs	5300
+614050	Flow cytometry result	20387313	TCOMBO_060037 WK 24.614050.fcs	TCOMBO_060037 WK 24.fcs	5300
+614051	Flow cytometry result	73316781	ARA06-B-MEM_060048 DAY0.614051.fcs	ARA06-B-MEM_060048 DAY0.fcs	5300
+614052	Flow cytometry result	53671399	TRAN_060048 DAY 0.614052.fcs	TRAN_060048 DAY 0.fcs	5300
+614053	Flow cytometry result	32777709	TCOMBO_060048 DAY 0.614053.fcs	TCOMBO_060048 DAY 0.fcs	5300
+614054	Flow cytometry result	84667581	ARA06-B-MEM_060048 WK12.614054.fcs	ARA06-B-MEM_060048 WK12.fcs	5300
+614055	Flow cytometry result	59121957	TRAN_060048 WK 12.614055.fcs	TRAN_060048 WK 12.fcs	5300
+614056	Flow cytometry result	53329769	TCOMBO_060048 WK 12.614056.fcs	TCOMBO_060048 WK 12.fcs	5300
+614057	Flow cytometry result	83750301	ARA06-B-MEM_060048 WK24.614057.fcs	ARA06-B-MEM_060048 WK24.fcs	5300
+614058	Flow cytometry result	79262876	TRAN_060048 WK 24.614058.fcs	TRAN_060048 WK 24.fcs	5300
+614059	Flow cytometry result	83449962	TCOMBO_060048 WK 24.614059.fcs	TCOMBO_060048 WK 24.fcs	5300
+614060	Flow cytometry result	76745998	ARA06-B-MEM_060054 DAY 0.614060.fcs	ARA06-B-MEM_060054 DAY 0.fcs	5300
+614061	Flow cytometry result	52625894	TRAN_060054 DAY 0.614061.fcs	TRAN_060054 DAY 0.fcs	5300
+614062	Flow cytometry result	46657710	TCOMBO_060054 DAY0.614062.fcs	TCOMBO_060054 DAY0.fcs	5300
+614063	Flow cytometry result	99812564	ARA06-B-MEM_060054 WK12.614063.fcs	ARA06-B-MEM_060054 WK12.fcs	5300
+614064	Flow cytometry result	59669354	TRAN_060054 WK 12.614064.fcs	TRAN_060054 WK 12.fcs	5300
+614065	Flow cytometry result	50820463	TCOMBO_060054 WK 12.614065.fcs	TCOMBO_060054 WK 12.fcs	5300
+614066	Flow cytometry result	55927340	ARA06-B-MEM_060054 WK24.614066.fcs	ARA06-B-MEM_060054 WK24.fcs	5300
+614067	Flow cytometry result	38400751	TCOMBO_060054 WK 24.614067.fcs	TCOMBO_060054 WK 24.fcs	5300
+614068	Flow cytometry result	35146103	20120112_074015 DAY 0.614068.fcs	20120112_074015 DAY 0.fcs	5300
+614069	Flow cytometry compensation or control	38071586	20120112_24888-1149 IC.614069.fcs	20120112_24888-1149 IC.fcs	5300
+614070	Flow cytometry result	21296221	Transitional_074015 Day 0.614070.fcs	Transitional_074015 Day 0.fcs	5300
+614071	Flow cytometry compensation or control	84345208	Transitional_24888 114 IC.614071.fcs	Transitional_24888 114 IC.fcs	5300
+614072	Flow cytometry result	25045262	T-helper_074015 Day 0.614072.fcs	T-helper_074015 Day 0.fcs	5300
+614073	Flow cytometry result	64331672	20120112_074015 WK 12.614073.fcs	20120112_074015 WK 12.fcs	5300
+614074	Flow cytometry result	56120212	Transitional_074015 Wk 12.614074.fcs	Transitional_074015 Wk 12.fcs	5300
+614075	Flow cytometry result	21761087	T-helper_074015 Wk 12.614075.fcs	T-helper_074015 Wk 12.fcs	5300
+614076	Flow cytometry result	90268910	20120112_074015 WK 24.614076.fcs	20120112_074015 WK 24.fcs	5300
+614077	Flow cytometry result	44394032	Transitional_074015 Wk 24.614077.fcs	Transitional_074015 Wk 24.fcs	5300
+614078	Flow cytometry result	11385102	T-helper_074015 Wk 24.614078.fcs	T-helper_074015 Wk 24.fcs	5300
+614079	Flow cytometry result	46689548	ARA06_B-MEM_074026 DAY 0.614079.fcs	ARA06_B-MEM_074026 DAY 0.fcs	5300
+614080	Flow cytometry result	14058712	ARA06_TRAN_074026 DAY 0.614080.fcs	ARA06_TRAN_074026 DAY 0.fcs	5300
+614081	Flow cytometry compensation or control	189722679	ARA06_TRAN_33286-04 NC.614081.fcs	ARA06_TRAN_33286-04 NC.fcs	5300
+614082	Flow cytometry result	30228314	T COMBO_074026 DAY 0.614082.fcs	T COMBO_074026 DAY 0.fcs	5300
+614083	Flow cytometry result	73915917	ARA06_B-MEM_074026 WK12.614083.fcs	ARA06_B-MEM_074026 WK12.fcs	5300
+614084	Flow cytometry result	52918262	ARA06_TRAN_074026 WK 12.614084.fcs	ARA06_TRAN_074026 WK 12.fcs	5300
+614085	Flow cytometry result	40970070	T COMBO_074026 WK 12.614085.fcs	T COMBO_074026 WK 12.fcs	5300
+614086	Flow cytometry result	56109092	ARA06_B-MEM_074026 WK24.614086.fcs	ARA06_B-MEM_074026 WK24.fcs	5300
+614087	Flow cytometry result	17766939	T COMBO_074026 WK 24.614087.fcs	T COMBO_074026 WK 24.fcs	5300
+614088	Flow cytometry result	10388961	Specimen_001_074048 day 0.614088.fcs	Specimen_001_074048 day 0.fcs	5300
+614089	Flow cytometry result	11348713	Transitional_074048F Day 0.614089.fcs	Transitional_074048F Day 0.fcs	5300
+614090	Flow cytometry result	7110079	T helper_074048F Day 0.614090.fcs	T helper_074048F Day 0.fcs	5300
+614091	Flow cytometry compensation or control	30403931	T helper_24888 1146IC.614091.fcs	T helper_24888 1146IC.fcs	5300
+614092	Flow cytometry compensation or control	13019842	T helper_FMO.614092.fcs	T helper_FMO.fcs	5300
+614093	Flow cytometry result	15151256	Specimen_001_074048 wk 12.614093.fcs	Specimen_001_074048 wk 12.fcs	5300
+614094	Flow cytometry result	9923624	Transitional_074048F Wk 12.614094.fcs	Transitional_074048F Wk 12.fcs	5300
+614095	Flow cytometry result	15321851	T helper_074048F Wk12.614095.fcs	T helper_074048F Wk12.fcs	5300
+614096	Flow cytometry result	57815863	Specimen_001_074048 wk 24.614096.fcs	Specimen_001_074048 wk 24.fcs	5300
+614097	Flow cytometry result	73744919	Transitional_074048F Wk24.614097.fcs	Transitional_074048F Wk24.fcs	5300
+614098	Flow cytometry result	33301186	T helper_074048F Wk 24.614098.fcs	T helper_074048F Wk 24.fcs	5300
+614099	Flow cytometry result	161675852	ARA06_B-MEM_074054 DAY 0.614099.fcs	ARA06_B-MEM_074054 DAY 0.fcs	5300
+614100	Flow cytometry result	215355306	ARA06_TRAN_074054 DAY 0.614100.fcs	ARA06_TRAN_074054 DAY 0.fcs	5300
+614101	Flow cytometry result	44155349	T COMBO_074054 DAY 0.614101.fcs	T COMBO_074054 DAY 0.fcs	5300
+614102	Flow cytometry result	164917148	ARA06_B-MEM_074054 WK12.614102.fcs	ARA06_B-MEM_074054 WK12.fcs	5300
+614103	Flow cytometry result	119144798	ARA06_TRAN_074054 WK 12.614103.fcs	ARA06_TRAN_074054 WK 12.fcs	5300
+614104	Flow cytometry result	45664470	T COMBO_074054 WK 12.614104.fcs	T COMBO_074054 WK 12.fcs	5300
+614105	Flow cytometry result	140232235	ARA06_B-MEM_074054 WK24.614105.fcs	ARA06_B-MEM_074054 WK24.fcs	5300
+614106	Flow cytometry result	173438265	ARA06_TRAN_074054 WK 24.614106.fcs	ARA06_TRAN_074054 WK 24.fcs	5300
+614107	Flow cytometry result	36812503	T COMBO_074054 WK 24.614107.fcs	T COMBO_074054 WK 24.fcs	5300
+614108	Flow cytometry result	109325229	ARA06_B-MEM_074060 DAY 0.614108.fcs	ARA06_B-MEM_074060 DAY 0.fcs	5300
+614109	Flow cytometry result	142871027	ARA06_TRAN_074060 DAY 0.614109.fcs	ARA06_TRAN_074060 DAY 0.fcs	5300
+614110	Flow cytometry result	51635286	T COMBO_074060 DAY 0.614110.fcs	T COMBO_074060 DAY 0.fcs	5300
+614111	Flow cytometry result	151211947	ARA06_B-MEM_074060 WK12.614111.fcs	ARA06_B-MEM_074060 WK12.fcs	5300
+614112	Flow cytometry result	251217851	ARA06_TRAN_074060 WK 12.614112.fcs	ARA06_TRAN_074060 WK 12.fcs	5300
+614113	Flow cytometry result	35988822	T COMBO_074060 WK 12.614113.fcs	T COMBO_074060 WK 12.fcs	5300
+614114	Flow cytometry result	134588012	ARA06_B-MEM_074060 WK24.614114.fcs	ARA06_B-MEM_074060 WK24.fcs	5300
+614115	Flow cytometry result	211395729	ARA06_TRAN_074060 WK 24.614115.fcs	ARA06_TRAN_074060 WK 24.fcs	5300
+614116	Flow cytometry result	51374935	T COMBO_074060 WK 24.614116.fcs	T COMBO_074060 WK 24.fcs	5300
+614117	Flow cytometry result	132791364	ARA06_B-MEM_074071 DAY 0.614117.fcs	ARA06_B-MEM_074071 DAY 0.fcs	5300
+614118	Flow cytometry result	68399116	ARA06_TRAN_074071 DAY0.614118.fcs	ARA06_TRAN_074071 DAY0.fcs	5300
+614119	Flow cytometry compensation or control	177529613	ARA06_TRAN_33286-4 IC.614119.fcs	ARA06_TRAN_33286-4 IC.fcs	5300
+614120	Flow cytometry result	59433993	T COMBO_074071 DAY0.614120.fcs	T COMBO_074071 DAY0.fcs	5300
+614121	Flow cytometry result	152520947	ARA06_B-MEM_074071 WK12.614121.fcs	ARA06_B-MEM_074071 WK12.fcs	5300
+614122	Flow cytometry result	77365491	ARA06_TRAN_074071 WK 12.614122.fcs	ARA06_TRAN_074071 WK 12.fcs	5300
+614123	Flow cytometry result	35010442	T COMBO_074071 WK 12.614123.fcs	T COMBO_074071 WK 12.fcs	5300
+614124	Flow cytometry result	170641620	ARA06_B-MEM_074071 WK24.614124.fcs	ARA06_B-MEM_074071 WK24.fcs	5300
+614125	Flow cytometry result	19602841	ARA06_TRAN_074071 WK24.614125.fcs	ARA06_TRAN_074071 WK24.fcs	5300
+614126	Flow cytometry result	60762249	T COMBO_074071 WK24.614126.fcs	T COMBO_074071 WK24.fcs	5300
+614127	Flow cytometry result	133309044	ARA06_B-MEM_074082 DAY 0.614127.fcs	ARA06_B-MEM_074082 DAY 0.fcs	5300
+614128	Flow cytometry result	129731601	ARA06_TRAN_074082 DAY0.614128.fcs	ARA06_TRAN_074082 DAY0.fcs	5300
+614129	Flow cytometry result	53451658	T COMBO_074082 DAY 0.614129.fcs	T COMBO_074082 DAY 0.fcs	5300
+614130	Flow cytometry result	40962997	ARA06_B-MEM_074082 WK24.614130.fcs	ARA06_B-MEM_074082 WK24.fcs	5300
+614131	Flow cytometry result	95683226	ARA06_TRAN_074082 WK 24.614131.fcs	ARA06_TRAN_074082 WK 24.fcs	5300
+614132	Flow cytometry result	67459978	T COMBO_074082 WK 24.614132.fcs	T COMBO_074082 WK 24.fcs	5300
+614133	Flow cytometry result	104583638	ARA06_B-MEM_074093 DAY 0.614133.fcs	ARA06_B-MEM_074093 DAY 0.fcs	5300
+614134	Flow cytometry result	54310873	ARA06_TRAN_074093 DAY0.614134.fcs	ARA06_TRAN_074093 DAY0.fcs	5300
+614135	Flow cytometry result	56685321	T COMBO_074093 DAY0.614135.fcs	T COMBO_074093 DAY0.fcs	5300
+614136	Flow cytometry result	30659866	ARA06_B-MEM_074093 WK12.614136.fcs	ARA06_B-MEM_074093 WK12.fcs	5300
+614137	Flow cytometry result	19545385	ARA06_TRAN_074093 WK 12.614137.fcs	ARA06_TRAN_074093 WK 12.fcs	5300
+614138	Flow cytometry result	27300170	T COMBO_074093 WK 12.614138.fcs	T COMBO_074093 WK 12.fcs	5300
+614139	Flow cytometry result	111717179	ARA06_B-MEM_074093 WK24.614139.fcs	ARA06_B-MEM_074093 WK24.fcs	5300
+614140	Flow cytometry result	72413761	ARA06_TRAN_074093 WK 24.614140.fcs	ARA06_TRAN_074093 WK 24.fcs	5300
+614141	Flow cytometry result	142709770	T COMBO_074093 WK 24.614141.fcs	T COMBO_074093 WK 24.fcs	5300
+614142	Flow cytometry result	106795156	ARA06_B-MEM_074119 DAY 0.614142.fcs	ARA06_B-MEM_074119 DAY 0.fcs	5300
+614143	Flow cytometry result	26814309	TRAN_074119 DAY 0.614143.fcs	TRAN_074119 DAY 0.fcs	5300
+614144	Flow cytometry result	46035273	T COMBO_074119 DAY 0.614144.fcs	T COMBO_074119 DAY 0.fcs	5300
+614145	Flow cytometry result	66422808	ARA06_B-MEM_074119 WK12.614145.fcs	ARA06_B-MEM_074119 WK12.fcs	5300
+614146	Flow cytometry result	45568867	TRAN_074119 WK 12.614146.fcs	TRAN_074119 WK 12.fcs	5300
+614147	Flow cytometry result	41657734	T COMBO_074119 WK 12.614147.fcs	T COMBO_074119 WK 12.fcs	5300
+614148	Flow cytometry result	98251204	ARA06_B-MEM_074119 WK24.614148.fcs	ARA06_B-MEM_074119 WK24.fcs	5300
+614149	Flow cytometry result	25956138	TRAN_074119 WK 24.614149.fcs	TRAN_074119 WK 24.fcs	5300
+614150	Flow cytometry result	12773962	T COMBO_074119 WK 24.614150.fcs	T COMBO_074119 WK 24.fcs	5300
+614151	Flow cytometry result	20373077	20120110_101023 DAY 0.614151.fcs	20120110_101023 DAY 0.fcs	5300
+614152	Flow cytometry compensation or control	29752843	20120110_244888-1149 IC.614152.fcs	20120110_244888-1149 IC.fcs	5300
+614153	Flow cytometry result	27617098	Transitional_101023 Day 0.614153.fcs	Transitional_101023 Day 0.fcs	5300
+614154	Flow cytometry compensation or control	44751354	Transitional_24888 1149 IC.614154.fcs	Transitional_24888 1149 IC.fcs	5300
+614155	Flow cytometry result	37014965	T-helper_101023 Day 0.614155.fcs	T-helper_101023 Day 0.fcs	5300
+614156	Flow cytometry compensation or control	17104617	T-helper_24888 1149 IC.614156.fcs	T-helper_24888 1149 IC.fcs	5300
+614157	Flow cytometry compensation or control	11404799	T-helper_CCR6 FMO.614157.fcs	T-helper_CCR6 FMO.fcs	5300
+614158	Flow cytometry compensation or control	9985678	T-helper_CCR7 FMO.614158.fcs	T-helper_CCR7 FMO.fcs	5300
+614159	Flow cytometry compensation or control	8359202	T-helper_CXCR5 ISO.614159.fcs	T-helper_CXCR5 ISO.fcs	5300
+614160	Flow cytometry compensation or control	7636034	T-helper_ICOS ISO.614160.fcs	T-helper_ICOS ISO.fcs	5300
+614161	Flow cytometry result	30581657	20120110_101023 WK 12.614161.fcs	20120110_101023 WK 12.fcs	5300
+614162	Flow cytometry result	49245540	Transitional_101023 Wk 12.614162.fcs	Transitional_101023 Wk 12.fcs	5300
+614163	Flow cytometry result	22138182	T-helper_101023 Wk 12.614163.fcs	T-helper_101023 Wk 12.fcs	5300
+614164	Flow cytometry result	66109342	20120110_101023 WK 24.614164.fcs	20120110_101023 WK 24.fcs	5300
+614165	Flow cytometry result	105058602	Transitional_101023 Wk 24.614165.fcs	Transitional_101023 Wk 24.fcs	5300
+614166	Flow cytometry result	45173286	T-helper_101023 Wk 24.614166.fcs	T-helper_101023 Wk 24.fcs	5300
+614167	Flow cytometry result	17406984	Specimen_001_101034 DAY 0.614167.fcs	Specimen_001_101034 DAY 0.fcs	5300
+614168	Flow cytometry compensation or control	34861788	Specimen_001_24888-1149 IC.614168.fcs	Specimen_001_24888-1149 IC.fcs	5300
+614169	Flow cytometry result	22127148	Transitional_101034 Day 0.614169.fcs	Transitional_101034 Day 0.fcs	5300
+614170	Flow cytometry compensation or control	40669572	Transitional_24888 1149IC.614170.fcs	Transitional_24888 1149IC.fcs	5300
+614171	Flow cytometry result	13127939	T-helper_101034 day0.614171.fcs	T-helper_101034 day0.fcs	5300
+614172	Flow cytometry compensation or control	5986070	T-helper_FMO CCR6.614172.fcs	T-helper_FMO CCR6.fcs	5300
+614173	Flow cytometry compensation or control	4375783	T-helper_FMO CCR7.614173.fcs	T-helper_FMO CCR7.fcs	5300
+614174	Flow cytometry compensation or control	6354135	T-helper_FMO CXCR5.614174.fcs	T-helper_FMO CXCR5.fcs	5300
+614175	Flow cytometry compensation or control	6446718	T-helper_FMO ICOS.614175.fcs	T-helper_FMO ICOS.fcs	5300
+614176	Flow cytometry compensation or control	14298750	T-helper_IC.614176.fcs	T-helper_IC.fcs	5300
+614177	Flow cytometry result	42328216	Specimen_001_101034 WK 12.614177.fcs	Specimen_001_101034 WK 12.fcs	5300
+614178	Flow cytometry result	72509729	Transitional_101034 Wk 12.614178.fcs	Transitional_101034 Wk 12.fcs	5300
+614179	Flow cytometry result	22494432	T-helper_101034 week 12.614179.fcs	T-helper_101034 week 12.fcs	5300
+614180	Flow cytometry result	60412576	Specimen_001_101034 WK 24.614180.fcs	Specimen_001_101034 WK 24.fcs	5300
+614181	Flow cytometry result	34415556	Transitional_101034 Wk 24.614181.fcs	Transitional_101034 Wk 24.fcs	5300
+614182	Flow cytometry result	11390086	T-helper_101034 week 24.614182.fcs	T-helper_101034 week 24.fcs	5300
+614183	Flow cytometry result	48814067	20110115_101040 day 0.614183.fcs	20110115_101040 day 0.fcs	5300
+614184	Flow cytometry compensation or control	51244628	20110115_24888-1149 IC.614184.fcs	20110115_24888-1149 IC.fcs	5300
+614185	Flow cytometry result	17900431	Transitional_101040 Day 0.614185.fcs	Transitional_101040 Day 0.fcs	5300
+614186	Flow cytometry result	16573239	T-helper_101040 day0.614186.fcs	T-helper_101040 day0.fcs	5300
+614187	Flow cytometry result	67416424	20110115_101040 wk 12.614187.fcs	20110115_101040 wk 12.fcs	5300
+614188	Flow cytometry result	25582236	Transitional_101040 Wk 12.614188.fcs	Transitional_101040 Wk 12.fcs	5300
+614189	Flow cytometry result	25683330	T-helper_101040 wk12.614189.fcs	T-helper_101040 wk12.fcs	5300
+614190	Flow cytometry result	50679311	20110115_101040 wk 24.614190.fcs	20110115_101040 wk 24.fcs	5300
+614191	Flow cytometry result	26895321	Transitional_101040 Wk 24.614191.fcs	Transitional_101040 Wk 24.fcs	5300
+614192	Flow cytometry result	39740040	T-helper_101040 wk24.614192.fcs	T-helper_101040 wk24.fcs	5300
+614193	Flow cytometry result	26520536	20120110_101057 DAY 0.614193.fcs	20120110_101057 DAY 0.fcs	5300
+614194	Flow cytometry result	18968638	Transitional_101057 Day 0.614194.fcs	Transitional_101057 Day 0.fcs	5300
+614195	Flow cytometry result	15339235	T-helper_101057 Day 0.614195.fcs	T-helper_101057 Day 0.fcs	5300
+614196	Flow cytometry result	36725638	20120110_101057 WK 12.614196.fcs	20120110_101057 WK 12.fcs	5300
+614197	Flow cytometry result	56117292	Transitional_101057 Wk 12.614197.fcs	Transitional_101057 Wk 12.fcs	5300
+614198	Flow cytometry result	22024133	T-helper_101057 Wk 12.614198.fcs	T-helper_101057 Wk 12.fcs	5300
+614199	Flow cytometry result	42178189	20120110_101057 WK 24.614199.fcs	20120110_101057 WK 24.fcs	5300
+614200	Flow cytometry result	72009029	Transitional_101057 Wk 24.614200.fcs	Transitional_101057 Wk 24.fcs	5300
+614201	Flow cytometry result	49730024	T-helper_101057 Wk 24.614201.fcs	T-helper_101057 Wk 24.fcs	5300
+614202	Flow cytometry result	105669218	ARA06_B-MEM_101079 DAY 0.614202.fcs	ARA06_B-MEM_101079 DAY 0.fcs	5300
+614203	Flow cytometry compensation or control	74916536	ARA06_B-MEM_22559-182 IC.614203.fcs	ARA06_B-MEM_22559-182 IC.fcs	5300
+614204	Flow cytometry result	41064957	TRAN_101079 DAY 0.614204.fcs	TRAN_101079 DAY 0.fcs	5300
+614205	Flow cytometry result	59043915	TCOMBO_101079 DAY 0.614205.fcs	TCOMBO_101079 DAY 0.fcs	5300
+614206	Flow cytometry result	14389307	KI67_101079 DAY 0.614206.fcs	KI67_101079 DAY 0.fcs	5300
+614207	Flow cytometry compensation or control	172720	Compensation Controls_Violet B 705,2f,70 Stained Control.614207.fcs	Compensation Controls_Violet B 705,2f,70 Stained Control.fcs	5300
+614208	Flow cytometry compensation or control	18156090	KI67_22559-182 IC.614208.fcs	KI67_22559-182 IC.fcs	5300
+614209	Flow cytometry result	131495903	ARA06_B-MEM_101079 WK12.614209.fcs	ARA06_B-MEM_101079 WK12.fcs	5300
+614210	Flow cytometry result	78859792	TRAN_101079 WK 12.614210.fcs	TRAN_101079 WK 12.fcs	5300
+614211	Flow cytometry result	68044362	TCOMBO_101079 WK 12.614211.fcs	TCOMBO_101079 WK 12.fcs	5300
+614212	Flow cytometry result	19244235	KI67_101079 WK 12.614212.fcs	KI67_101079 WK 12.fcs	5300
+614213	Flow cytometry result	106925040	ARA06_B-MEM_101079 WK24.614213.fcs	ARA06_B-MEM_101079 WK24.fcs	5300
+614214	Flow cytometry result	62374801	TRAN_101079 WK 24.614214.fcs	TRAN_101079 WK 24.fcs	5300
+614215	Flow cytometry result	48974157	TCOMBO_101079 WK 24.614215.fcs	TCOMBO_101079 WK 24.fcs	5300
+614216	Flow cytometry result	15031431	KI67_101079 WK 24.614216.fcs	KI67_101079 WK 24.fcs	5300
+614217	Flow cytometry result	27200151	Specimen_001_101085 DAY 0.614217.fcs	Specimen_001_101085 DAY 0.fcs	5300
+614218	Flow cytometry result	28080053	Transitional_101085 Day 0.614218.fcs	Transitional_101085 Day 0.fcs	5300
+614219	Flow cytometry result	18279833	T-helper_101085 day0.614219.fcs	T-helper_101085 day0.fcs	5300
+614220	Flow cytometry result	17712291	Specimen_001_101085 WK 12.614220.fcs	Specimen_001_101085 WK 12.fcs	5300
+614221	Flow cytometry result	27505664	Transitional_101085 Wk 12.614221.fcs	Transitional_101085 Wk 12.fcs	5300
+614222	Flow cytometry result	10395767	T-helper_101085 week12.614222.fcs	T-helper_101085 week12.fcs	5300
+614223	Flow cytometry result	47731147	Specimen_001_101085 WK 24.614223.fcs	Specimen_001_101085 WK 24.fcs	5300
+614224	Flow cytometry result	31185253	Transitional_101085 Wk 24.614224.fcs	Transitional_101085 Wk 24.fcs	5300
+614225	Flow cytometry result	18996742	T-helper_101085 week 24.614225.fcs	T-helper_101085 week 24.fcs	5300
+614226	Flow cytometry result	46204972	20110115_101096 day0.614226.fcs	20110115_101096 day0.fcs	5300
+614227	Flow cytometry result	4342839	Transitional_101096 Day 0.614227.fcs	Transitional_101096 Day 0.fcs	5300
+614228	Flow cytometry result	12939042	T-helper_101096 day0.614228.fcs	T-helper_101096 day0.fcs	5300
+614229	Flow cytometry result	57640060	20110115_101096 wk 12.614229.fcs	20110115_101096 wk 12.fcs	5300
+614230	Flow cytometry result	9938691	Transitional_101096 Wk 12.614230.fcs	Transitional_101096 Wk 12.fcs	5300
+614231	Flow cytometry result	14531532	T-helper_101096 wk12.614231.fcs	T-helper_101096 wk12.fcs	5300
+614232	Flow cytometry result	63660389	20110115_101096 wk 24.614232.fcs	20110115_101096 wk 24.fcs	5300
+614233	Flow cytometry result	9044540	Transitional_101096 Wk 24.614233.fcs	Transitional_101096 Wk 24.fcs	5300
+614234	Flow cytometry result	17035699	T-helper_101096 wk24.614234.fcs	T-helper_101096 wk24.fcs	5300
+614235	Flow cytometry result	80815068	ARA06_B MEM_101100 DAY 0.614235.fcs	ARA06_B MEM_101100 DAY 0.fcs	5300
+614236	Flow cytometry compensation or control	52985652	ARA06_B MEM_B220 FMO.614236.fcs	ARA06_B MEM_B220 FMO.fcs	5300
+614237	Flow cytometry compensation or control	80118717	ARA06_B MEM_22559-182 IC.614237.fcs	ARA06_B MEM_22559-182 IC.fcs	5300
+614238	Flow cytometry result	49213604	TRAN_101100 DAY 0.614238.fcs	TRAN_101100 DAY 0.fcs	5300
+614239	Flow cytometry result	40603389	T COMBO_101100 DAY 0.614239.fcs	T COMBO_101100 DAY 0.fcs	5300
+614240	Flow cytometry compensation or control	37632727	T COMBO_22559-182.614240.fcs	T COMBO_22559-182.fcs	5300
+614241	Flow cytometry result	14220027	KI67_101100 DAY 0.614241.fcs	KI67_101100 DAY 0.fcs	5300
+614242	Flow cytometry result	75929289	ARA06_B MEM_101100 WK12.614242.fcs	ARA06_B MEM_101100 WK12.fcs	5300
+614243	Flow cytometry result	65121196	TRAN_101100 WK 12.614243.fcs	TRAN_101100 WK 12.fcs	5300
+614244	Flow cytometry result	51900608	T COMBO_101100 WK 12.614244.fcs	T COMBO_101100 WK 12.fcs	5300
+614245	Flow cytometry result	25385964	KI67_101100 WK 12.614245.fcs	KI67_101100 WK 12.fcs	5300
+614246	Flow cytometry result	111239459	ARA06_B MEM_101100 WK24.614246.fcs	ARA06_B MEM_101100 WK24.fcs	5300
+614247	Flow cytometry result	67463319	TRAN_101100 WK 24.614247.fcs	TRAN_101100 WK 24.fcs	5300
+614248	Flow cytometry result	45909499	T COMBO_101100 WK 24.614248.fcs	T COMBO_101100 WK 24.fcs	5300
+614249	Flow cytometry result	30405859	KI67_101100 WK 24.614249.fcs	KI67_101100 WK 24.fcs	5300
+614250	Flow cytometry result	39861537	20120103_101122 day 0.614250.fcs	20120103_101122 day 0.fcs	5300
+614251	Flow cytometry compensation or control	27546004	20120103_24888-1147 IC.614251.fcs	20120103_24888-1147 IC.fcs	5300
+614252	Flow cytometry result	43393413	Transitional_101122 Day 0.614252.fcs	Transitional_101122 Day 0.fcs	5300
+614253	Flow cytometry compensation or control	27806807	Transitional_24888 1147 IC.614253.fcs	Transitional_24888 1147 IC.fcs	5300
+614254	Flow cytometry result	25960379	T-helper_101122 Day 0.614254.fcs	T-helper_101122 Day 0.fcs	5300
+614255	Flow cytometry compensation or control	18027518	T-helper_24888 1147 IC.614255.fcs	T-helper_24888 1147 IC.fcs	5300
+614256	Flow cytometry compensation or control	3823351	T-helper_CXCR5 FMO.614256.fcs	T-helper_CXCR5 FMO.fcs	5300
+614257	Flow cytometry compensation or control	2364053	T-helper_ICOS FMO.614257.fcs	T-helper_ICOS FMO.fcs	5300
+614258	Flow cytometry result	91416033	20120103_101122 wk 12.614258.fcs	20120103_101122 wk 12.fcs	5300
+614259	Flow cytometry result	71732661	Transitional_101122 Wk 12.614259.fcs	Transitional_101122 Wk 12.fcs	5300
+614260	Flow cytometry result	47526973	T-helper_101122 Wk 12.614260.fcs	T-helper_101122 Wk 12.fcs	5300
+614261	Flow cytometry result	98240137	20120103_101122 wk 24.614261.fcs	20120103_101122 wk 24.fcs	5300
+614262	Flow cytometry result	77900778	Transitional_101122 Wk 24.614262.fcs	Transitional_101122 Wk 24.fcs	5300
+614263	Flow cytometry result	21923197	T-helper_101122 Wk 24.614263.fcs	T-helper_101122 Wk 24.fcs	5300
+614264	Flow cytometry result	49223889	Specimen_001_101133 DAY 0.614264.fcs	Specimen_001_101133 DAY 0.fcs	5300
+614265	Flow cytometry compensation or control	24507225	Specimen_001_24888-1147 IC.614265.fcs	Specimen_001_24888-1147 IC.fcs	5300
+614266	Flow cytometry result	84111267	Transitional_101133 Day 0.614266.fcs	Transitional_101133 Day 0.fcs	5300
+614267	Flow cytometry compensation or control	30459883	Transitional_24888 1146 IC.614267.fcs	Transitional_24888 1146 IC.fcs	5300
+614268	Flow cytometry result	60030042	T helper_101133 Day 0.614268.fcs	T helper_101133 Day 0.fcs	5300
+614269	Flow cytometry compensation or control	19948492	T helper_24888 1146 IC.614269.fcs	T helper_24888 1146 IC.fcs	5300
+614270	Flow cytometry result	54608185	Specimen_001_101133 WK12.614270.fcs	Specimen_001_101133 WK12.fcs	5300
+614271	Flow cytometry result	98714887	Transitional_101133 Wk 12.614271.fcs	Transitional_101133 Wk 12.fcs	5300
+614272	Flow cytometry result	48780150	T helper_101133 Wk 12.614272.fcs	T helper_101133 Wk 12.fcs	5300
+614273	Flow cytometry result	45725570	Specimen_001_101133 WK 24.614273.fcs	Specimen_001_101133 WK 24.fcs	5300
+614274	Flow cytometry result	76974958	Transitional_101133 Wk 24.614274.fcs	Transitional_101133 Wk 24.fcs	5300
+614275	Flow cytometry result	18471172	T helper_101133 Wk 24.614275.fcs	T helper_101133 Wk 24.fcs	5300
+614276	Flow cytometry result	40806891	Specimen_001_101144 day 0.614276.fcs	Specimen_001_101144 day 0.fcs	5300
+614277	Flow cytometry result	84088673	Transitional_101144 Day 0.614277.fcs	Transitional_101144 Day 0.fcs	5300
+614278	Flow cytometry result	42202929	T helper_101144 Day 0.614278.fcs	T helper_101144 Day 0.fcs	5300
+614279	Flow cytometry compensation or control	5467900	T helper_CCR6 FMO.614279.fcs	T helper_CCR6 FMO.fcs	5300
+614280	Flow cytometry compensation or control	5636511	T helper_CCR7 FMO.614280.fcs	T helper_CCR7 FMO.fcs	5300
+614281	Flow cytometry compensation or control	4633280	T helper_CXCR5 FMO.614281.fcs	T helper_CXCR5 FMO.fcs	5300
+614282	Flow cytometry compensation or control	4427498	T helper_ICOS FMO.614282.fcs	T helper_ICOS FMO.fcs	5300
+614283	Flow cytometry result	45951224	Specimen_001_101144 wk 12.614283.fcs	Specimen_001_101144 wk 12.fcs	5300
+614284	Flow cytometry result	56234388	Transitional_101144 Wk 12.614284.fcs	Transitional_101144 Wk 12.fcs	5300
+614285	Flow cytometry result	59650980	T helper_101144 Wk 12.614285.fcs	T helper_101144 Wk 12.fcs	5300
+614286	Flow cytometry result	52421964	Specimen_001_101144 wk 24.614286.fcs	Specimen_001_101144 wk 24.fcs	5300
+614287	Flow cytometry result	42863546	Transitional_101144 Wk 24.614287.fcs	Transitional_101144 Wk 24.fcs	5300
+614288	Flow cytometry result	72386771	T helper_101144 Wk 24.614288.fcs	T helper_101144 Wk 24.fcs	5300
+614289	Flow cytometry result	42519793	Specimen_001_101158 DAY0.614289.fcs	Specimen_001_101158 DAY0.fcs	5300
+614290	Flow cytometry result	62029601	Transitional_101158 Day 0.614290.fcs	Transitional_101158 Day 0.fcs	5300
+614291	Flow cytometry result	48547161	T-helper_101158 Day 0.614291.fcs	T-helper_101158 Day 0.fcs	5300
+614292	Flow cytometry result	62479829	Specimen_001_101158 WK 12.614292.fcs	Specimen_001_101158 WK 12.fcs	5300
+614293	Flow cytometry result	56531637	Transitional_101158 Wk 12.614293.fcs	Transitional_101158 Wk 12.fcs	5300
+614294	Flow cytometry compensation or control	1198188	Controls_Cells only.614294.fcs	Controls_Cells only.fcs	5300
+614295	Flow cytometry compensation or control	563065	Controls_Peak 6.614295.fcs	Controls_Peak 6.fcs	5300
+614296	Flow cytometry result	46049559	T-helper_101158 Wk 12.614296.fcs	T-helper_101158 Wk 12.fcs	5300
+614297	Flow cytometry result	52864281	Specimen_001_101158 WK 24.614297.fcs	Specimen_001_101158 WK 24.fcs	5300
+614298	Flow cytometry result	85415374	Transitional_101158 Wk 24.614298.fcs	Transitional_101158 Wk 24.fcs	5300
+614299	Flow cytometry result	46558888	T-helper_101158 Wk 24.614299.fcs	T-helper_101158 Wk 24.fcs	5300
+614300	Flow cytometry result	29132918	Specimen_001_101169 day 0.614300.fcs	Specimen_001_101169 day 0.fcs	5300
+614301	Flow cytometry result	73057105	Transitional_101169 Day 0.614301.fcs	Transitional_101169 Day 0.fcs	5300
+614302	Flow cytometry result	21254520	T-helper_101169 Day 0.614302.fcs	T-helper_101169 Day 0.fcs	5300
+614303	Flow cytometry compensation or control	723573	Controls_Cells Only Uncomp.614303.fcs	Controls_Cells Only Uncomp.fcs	5300
+614304	Flow cytometry result	87074038	Specimen_001_101169 wk 12.614304.fcs	Specimen_001_101169 wk 12.fcs	5300
+614305	Flow cytometry result	47978786	Transitional_101169 Wk 12.614305.fcs	Transitional_101169 Wk 12.fcs	5300
+614306	Flow cytometry result	25898088	T-helper_101169 Wk 12.614306.fcs	T-helper_101169 Wk 12.fcs	5300
+614307	Flow cytometry result	57883872	Specimen_001_101169 wk 24.614307.fcs	Specimen_001_101169 wk 24.fcs	5300
+614308	Flow cytometry result	84130196	Transitional_101169 Wk 24.614308.fcs	Transitional_101169 Wk 24.fcs	5300
+614309	Flow cytometry result	18910058	T-helper_101169 Wk24.614309.fcs	T-helper_101169 Wk24.fcs	5300
+614310	Flow cytometry result	111895201	ARA06_B-MEM_101175 DAY 0.614310.fcs	ARA06_B-MEM_101175 DAY 0.fcs	5300
+614311	Flow cytometry result	50898152	TRAN_101175 DAY 0.614311.fcs	TRAN_101175 DAY 0.fcs	5300
+614312	Flow cytometry result	36846159	TCOMBO_101175 DAY 0.614312.fcs	TCOMBO_101175 DAY 0.fcs	5300
+614313	Flow cytometry result	16394015	KI67_101175 DAY 0.614313.fcs	KI67_101175 DAY 0.fcs	5300
+614314	Flow cytometry result	109054871	ARA06_B-MEM_101175 WK12.614314.fcs	ARA06_B-MEM_101175 WK12.fcs	5300
+614315	Flow cytometry result	66784226	TRAN_101175 WK 12.614315.fcs	TRAN_101175 WK 12.fcs	5300
+614316	Flow cytometry result	47644299	TCOMBO_101175 WK 12.614316.fcs	TCOMBO_101175 WK 12.fcs	5300
+614317	Flow cytometry result	18478283	KI67_101175 WK 12.614317.fcs	KI67_101175 WK 12.fcs	5300
+614318	Flow cytometry result	135252361	ARA06_B-MEM_101175 WK24.614318.fcs	ARA06_B-MEM_101175 WK24.fcs	5300
+614319	Flow cytometry result	50448724	TRAN_101175 WK 24.614319.fcs	TRAN_101175 WK 24.fcs	5300
+614320	Flow cytometry result	61644722	TCOMBO_101175 WK 24.614320.fcs	TCOMBO_101175 WK 24.fcs	5300
+614321	Flow cytometry result	18159227	KI67_101175 WK 24.614321.fcs	KI67_101175 WK 24.fcs	5300
+614322	Flow cytometry result	89246245	ARA06_B MEM_101186 DAY 0.614322.fcs	ARA06_B MEM_101186 DAY 0.fcs	5300
+614323	Flow cytometry compensation or control	129011588	ARA06_B MEM_33286-105 IC.614323.fcs	ARA06_B MEM_33286-105 IC.fcs	5300
+614324	Flow cytometry result	61973197	TRAN_101186 DAY 0.614324.fcs	TRAN_101186 DAY 0.fcs	5300
+614325	Flow cytometry compensation or control	79740234	TRAN_33286-105IC.614325.fcs	TRAN_33286-105IC.fcs	5300
+614326	Flow cytometry result	41743824	TCOMBO_101186 DAY 0.614326.fcs	TCOMBO_101186 DAY 0.fcs	5300
+614327	Flow cytometry compensation or control	53965870	TCOMBO_33286-105.614327.fcs	TCOMBO_33286-105.fcs	5300
+614328	Flow cytometry result	57899431	KI67_101186 DAY 0.614328.fcs	KI67_101186 DAY 0.fcs	5300
+614329	Flow cytometry compensation or control	65325533	KI67_33286-105IC.614329.fcs	KI67_33286-105IC.fcs	5300
+614330	Flow cytometry result	51121089	ARA06_B MEM_101186 WK12.614330.fcs	ARA06_B MEM_101186 WK12.fcs	5300
+614331	Flow cytometry result	21520201	TRAN_101186 WK 12.614331.fcs	TRAN_101186 WK 12.fcs	5300
+614332	Flow cytometry result	32736591	TCOMBO_101186 WK 12.614332.fcs	TCOMBO_101186 WK 12.fcs	5300
+614333	Flow cytometry result	35850096	KI67_101186 WK 12.614333.fcs	KI67_101186 WK 12.fcs	5300
+614334	Flow cytometry result	154233379	ARA06_B MEM_101186 WK20 (WITHDRAW).614334.fcs	ARA06_B MEM_101186 WK20 (WITHDRAW).fcs	5300
+614335	Flow cytometry result	70495548	TRAN_101186 WK 20.614335.fcs	TRAN_101186 WK 20.fcs	5300
+614336	Flow cytometry result	62748690	TCOMBO_101186 WK 20.614336.fcs	TCOMBO_101186 WK 20.fcs	5300
+614337	Flow cytometry result	65734255	KI67_101186WK 20.614337.fcs	KI67_101186WK 20.fcs	5300
+614338	Flow cytometry result	74693520	ARA06_B-MEM_101197 DAY 0.614338.fcs	ARA06_B-MEM_101197 DAY 0.fcs	5300
+614339	Flow cytometry result	31176781	TCOMBO_101197 DAY 0.614339.fcs	TCOMBO_101197 DAY 0.fcs	5300
+614340	Flow cytometry result	163967184	ARA06_B-MEM_101197 WK12.614340.fcs	ARA06_B-MEM_101197 WK12.fcs	5300
+614341	Flow cytometry result	107826385	TRAN_101197 WK 12.614341.fcs	TRAN_101197 WK 12.fcs	5300
+614342	Flow cytometry result	61763527	TCOMBO_101197 WK 12.614342.fcs	TCOMBO_101197 WK 12.fcs	5300
+614343	Flow cytometry result	20186851	KI67_101197 WK 12.614343.fcs	KI67_101197 WK 12.fcs	5300
+614344	Flow cytometry result	101164319	ARA06_B-MEM_101197 WK24.614344.fcs	ARA06_B-MEM_101197 WK24.fcs	5300
+614345	Flow cytometry result	50359078	TRAN_101197 WK 24.614345.fcs	TRAN_101197 WK 24.fcs	5300
+614346	Flow cytometry result	50512073	TCOMBO_101197 WK 24.614346.fcs	TCOMBO_101197 WK 24.fcs	5300
+614347	Flow cytometry result	18453531	KI67_101197 WK 24.614347.fcs	KI67_101197 WK 24.fcs	5300
+614348	Flow cytometry result	87149444	ARA06_B MEM_101204 DAY 0.614348.fcs	ARA06_B MEM_101204 DAY 0.fcs	5300
+614349	Flow cytometry result	42119587	TRAN_101204 DAY 0.614349.fcs	TRAN_101204 DAY 0.fcs	5300
+614350	Flow cytometry compensation or control	67172006	TRAN_TONSIL NEW 27.614350.fcs	TRAN_TONSIL NEW 27.fcs	5300
+614351	Flow cytometry compensation or control	34864601	TRAN_TONSIL OLD 27.614351.fcs	TRAN_TONSIL OLD 27.fcs	5300
+614352	Flow cytometry result	33991167	TCOMBO_101204 DAY 0.614352.fcs	TCOMBO_101204 DAY 0.fcs	5300
+614353	Flow cytometry compensation or control	50429424	TCOMBO_22559-182 IC + FMO PD1.614353.fcs	TCOMBO_22559-182 IC + FMO PD1.fcs	5300
+614354	Flow cytometry result	33709956	KI67_101204 DAY 0.614354.fcs	KI67_101204 DAY 0.fcs	5300
+614355	Flow cytometry compensation or control	31091698	KI67_ISOTYPE.614355.fcs	KI67_ISOTYPE.fcs	5300
+614356	Flow cytometry compensation or control	50066569	KI67_225559-182.614356.fcs	KI67_225559-182.fcs	5300
+614357	Flow cytometry result	102030980	ARA06_B MEM_101204 WK12.614357.fcs	ARA06_B MEM_101204 WK12.fcs	5300
+614358	Flow cytometry result	30602534	TRAN_101204 WK 12.614358.fcs	TRAN_101204 WK 12.fcs	5300
+614359	Flow cytometry result	34735353	TCOMBO_101204 WK 12.614359.fcs	TCOMBO_101204 WK 12.fcs	5300
+614360	Flow cytometry result	47692798	KI67_101204 WK 12.614360.fcs	KI67_101204 WK 12.fcs	5300
+614361	Flow cytometry result	82788187	ARA06_B MEM_101204 WK24.614361.fcs	ARA06_B MEM_101204 WK24.fcs	5300
+614362	Flow cytometry result	72921909	TRAN_101204 WK 24.614362.fcs	TRAN_101204 WK 24.fcs	5300
+614363	Flow cytometry result	38971131	TCOMBO_101204 WK 24.614363.fcs	TCOMBO_101204 WK 24.fcs	5300
+614364	Flow cytometry result	55311829	KI67_101204 WK 24.614364.fcs	KI67_101204 WK 24.fcs	5300
+614365	Flow cytometry result	92888100	ARA06_B MEM_101210 DAY 0.614365.fcs	ARA06_B MEM_101210 DAY 0.fcs	5300
+614366	Flow cytometry result	48618829	TRAN_101210 DAY 0.614366.fcs	TRAN_101210 DAY 0.fcs	5300
+614367	Flow cytometry result	56761278	T COMBO_101210 DAY 0.614367.fcs	T COMBO_101210 DAY 0.fcs	5300
+614368	Flow cytometry result	23579475	KI67_101210 day 0.614368.fcs	KI67_101210 day 0.fcs	5300
+614369	Flow cytometry result	127434275	ARA06_B MEM_101210 WK12.614369.fcs	ARA06_B MEM_101210 WK12.fcs	5300
+614370	Flow cytometry result	42247528	TRAN_101210 WK 12.614370.fcs	TRAN_101210 WK 12.fcs	5300
+614371	Flow cytometry result	66705730	T COMBO_101210 WK 12.614371.fcs	T COMBO_101210 WK 12.fcs	5300
+614372	Flow cytometry result	41128920	KI67_101210 WK 12.614372.fcs	KI67_101210 WK 12.fcs	5300
+614373	Flow cytometry result	129505137	ARA06_B MEM_101210 WK24.614373.fcs	ARA06_B MEM_101210 WK24.fcs	5300
+614374	Flow cytometry result	55727446	TRAN_101210 WK 24.614374.fcs	TRAN_101210 WK 24.fcs	5300
+614375	Flow cytometry result	97485948	T COMBO_101210 WK 24.614375.fcs	T COMBO_101210 WK 24.fcs	5300
+614376	Flow cytometry result	63048035	KI67_101210 WK 24.614376.fcs	KI67_101210 WK 24.fcs	5300
+614377	Flow cytometry result	164686474	ARA06_B MEM_101221 DAY 0.614377.fcs	ARA06_B MEM_101221 DAY 0.fcs	5300
+614378	Flow cytometry result	60321598	TRAN_101221 DAY 0.614378.fcs	TRAN_101221 DAY 0.fcs	5300
+614379	Flow cytometry result	47176463	TCOMBO_101221 DAY 0.614379.fcs	TCOMBO_101221 DAY 0.fcs	5300
+614380	Flow cytometry result	56979865	KI67_101221 DAY 0.614380.fcs	KI67_101221 DAY 0.fcs	5300
+614381	Flow cytometry result	155618360	ARA06_B MEM_101221 WK12.614381.fcs	ARA06_B MEM_101221 WK12.fcs	5300
+614382	Flow cytometry result	59756532	TRAN_101221 WK 12.614382.fcs	TRAN_101221 WK 12.fcs	5300
+614383	Flow cytometry result	32654353	TCOMBO_101221 WK 12.614383.fcs	TCOMBO_101221 WK 12.fcs	5300
+614384	Flow cytometry result	50434394	KI67_101221 WK 12.614384.fcs	KI67_101221 WK 12.fcs	5300
+614385	Flow cytometry result	138363416	ARA06_B MEM_101221 WK24.614385.fcs	ARA06_B MEM_101221 WK24.fcs	5300
+614386	Flow cytometry result	67789789	TRAN_101221 WK 24.614386.fcs	TRAN_101221 WK 24.fcs	5300
+614387	Flow cytometry result	40798608	TCOMBO_101221 WK 24.614387.fcs	TCOMBO_101221 WK 24.fcs	5300
+614388	Flow cytometry result	55683999	KI67_101221 WK 24.614388.fcs	KI67_101221 WK 24.fcs	5300
+614389	Flow cytometry result	66429351	ARA06_B MEM_101243 DAY 0.614389.fcs	ARA06_B MEM_101243 DAY 0.fcs	5300
+614390	Flow cytometry result	39352229	TRAN_101243 DAY 0.614390.fcs	TRAN_101243 DAY 0.fcs	5300
+614391	Flow cytometry compensation or control	62026556	TRAN_333286-105 IC.614391.fcs	TRAN_333286-105 IC.fcs	5300
+614392	Flow cytometry result	32523300	TCOMBO_101243 DAY 0.614392.fcs	TCOMBO_101243 DAY 0.fcs	5300
+614393	Flow cytometry compensation or control	34600520	TCOMBO_33286-105 IC.614393.fcs	TCOMBO_33286-105 IC.fcs	5300
+614394	Flow cytometry result	54506273	KI67_101243 DAY 0.614394.fcs	KI67_101243 DAY 0.fcs	5300
+614395	Flow cytometry result	149888870	ARA06_B MEM_101243 WK12.614395.fcs	ARA06_B MEM_101243 WK12.fcs	5300
+614396	Flow cytometry result	64956234	TRAN_101243 WK 12.614396.fcs	TRAN_101243 WK 12.fcs	5300
+614397	Flow cytometry result	47436965	TCOMBO_101243 WK 12.614397.fcs	TCOMBO_101243 WK 12.fcs	5300
+614398	Flow cytometry result	51739013	KI67_101243 WK 12.614398.fcs	KI67_101243 WK 12.fcs	5300
+614399	Flow cytometry result	111150136	ARA06_B MEM_101243 WK24.614399.fcs	ARA06_B MEM_101243 WK24.fcs	5300
+614400	Flow cytometry result	67185500	TRAN_101243 WK 24.614400.fcs	TRAN_101243 WK 24.fcs	5300
+614401	Flow cytometry result	49168227	TCOMBO_101243 WK 24.614401.fcs	TCOMBO_101243 WK 24.fcs	5300
+614402	Flow cytometry result	49318077	KI67_101243 WK 24.614402.fcs	KI67_101243 WK 24.fcs	5300
+614403	Flow cytometry result	103215802	ARA06_B MEM_101259 DAY 0.614403.fcs	ARA06_B MEM_101259 DAY 0.fcs	5300
+614404	Flow cytometry result	58140173	TRAN_101259 DAY 0.614404.fcs	TRAN_101259 DAY 0.fcs	5300
+614405	Flow cytometry compensation or control	49937348	TRAN_33286-105 IC.614405.fcs	TRAN_33286-105 IC.fcs	5300
+614406	Flow cytometry result	48817998	TCOMBO_101259 DAY 0.614406.fcs	TCOMBO_101259 DAY 0.fcs	5300
+614407	Flow cytometry result	30230066	KI67_101259 DAY 0.614407.fcs	KI67_101259 DAY 0.fcs	5300
+614408	Flow cytometry compensation or control	23487343	KI67_33286-105 IC.614408.fcs	KI67_33286-105 IC.fcs	5300
+614409	Flow cytometry result	138645847	ARA06_B MEM_101259 WK12.614409.fcs	ARA06_B MEM_101259 WK12.fcs	5300
+614410	Flow cytometry result	59077685	TRAN_101259 WK 12.614410.fcs	TRAN_101259 WK 12.fcs	5300
+614411	Flow cytometry result	45945420	TCOMBO_101259 WK 12.614411.fcs	TCOMBO_101259 WK 12.fcs	5300
+614412	Flow cytometry result	50378730	KI67_101259 WK 12.614412.fcs	KI67_101259 WK 12.fcs	5300
+614413	Flow cytometry result	188333192	ARA06_B MEM_101259 WK24.614413.fcs	ARA06_B MEM_101259 WK24.fcs	5300
+614414	Flow cytometry result	67467847	TRAN_101259 WK 24.614414.fcs	TRAN_101259 WK 24.fcs	5300
+614415	Flow cytometry result	49802892	TCOMBO_101259 WK 24.614415.fcs	TCOMBO_101259 WK 24.fcs	5300
+614416	Flow cytometry result	49870906	KI67_101259 WK 24.614416.fcs	KI67_101259 WK 24.fcs	5300
+614417	Flow cytometry result	108865289	ARA06_B MEM_101276 DAY 0.614417.fcs	ARA06_B MEM_101276 DAY 0.fcs	5300
+614418	Flow cytometry result	60180334	TRAN_101276 DAY 0.614418.fcs	TRAN_101276 DAY 0.fcs	5300
+614419	Flow cytometry result	37559907	TCOMBO_101276 DAY 0.614419.fcs	TCOMBO_101276 DAY 0.fcs	5300
+614420	Flow cytometry result	52958934	KI67_101276 DAY 0.614420.fcs	KI67_101276 DAY 0.fcs	5300
+614421	Flow cytometry result	141737967	ARA06_B MEM_101276 WK12.614421.fcs	ARA06_B MEM_101276 WK12.fcs	5300
+614422	Flow cytometry result	67621308	TRAN_101276 WK 12.614422.fcs	TRAN_101276 WK 12.fcs	5300
+614423	Flow cytometry result	45562850	TCOMBO_101276 WK 12.614423.fcs	TCOMBO_101276 WK 12.fcs	5300
+614424	Flow cytometry result	49623057	KI67_101276 WK 12.614424.fcs	KI67_101276 WK 12.fcs	5300
+614425	Flow cytometry result	145458280	ARA06_B MEM_101276 WK24.614425.fcs	ARA06_B MEM_101276 WK24.fcs	5300
+614426	Flow cytometry result	65647144	TRAN_101276 WK 24.614426.fcs	TRAN_101276 WK 24.fcs	5300
+614427	Flow cytometry result	43605603	TCOMBO_101276 WK 24.614427.fcs	TCOMBO_101276 WK 24.fcs	5300
+614428	Flow cytometry result	47394765	KI67_101276 WK 24.614428.fcs	KI67_101276 WK 24.fcs	5300
+614429	Flow cytometry result	99056936	ARA06_B MEM_101287 DAY 0.614429.fcs	ARA06_B MEM_101287 DAY 0.fcs	5300
+614430	Flow cytometry result	72576970	TRAN_101287 DAY 0.614430.fcs	TRAN_101287 DAY 0.fcs	5300
+614431	Flow cytometry result	44153039	TCOMBO_101287 DAY 0.614431.fcs	TCOMBO_101287 DAY 0.fcs	5300
+614432	Flow cytometry result	59092185	KI67_101287 DAY 0.614432.fcs	KI67_101287 DAY 0.fcs	5300
+614433	Flow cytometry result	179801624	ARA06_B MEM_101287 WK12.614433.fcs	ARA06_B MEM_101287 WK12.fcs	5300
+614434	Flow cytometry result	70081808	TRAN_101287 WK 12.614434.fcs	TRAN_101287 WK 12.fcs	5300
+614435	Flow cytometry result	47732304	TCOMBO_101287 WK 12.614435.fcs	TCOMBO_101287 WK 12.fcs	5300
+614436	Flow cytometry result	54081871	KI67_101287 WK 12.614436.fcs	KI67_101287 WK 12.fcs	5300
+614437	Flow cytometry result	136596512	ARA06_B MEM_101287 WK24.614437.fcs	ARA06_B MEM_101287 WK24.fcs	5300
+614438	Flow cytometry result	64736383	TRAN_101287 WK 24.614438.fcs	TRAN_101287 WK 24.fcs	5300
+614439	Flow cytometry result	42930767	TCOMBO_101287 WK 24.614439.fcs	TCOMBO_101287 WK 24.fcs	5300
+614440	Flow cytometry result	51843176	KI67_101287 WK 24.614440.fcs	KI67_101287 WK 24.fcs	5300
+614441	Flow cytometry result	170421400	ARA06_B MEM_101298 DAY 0.614441.fcs	ARA06_B MEM_101298 DAY 0.fcs	5300
+614442	Flow cytometry result	61950372	TRAN_101298 DAY 0.614442.fcs	TRAN_101298 DAY 0.fcs	5300
+614443	Flow cytometry result	47174946	TCOMBO_101298 DAY 0.614443.fcs	TCOMBO_101298 DAY 0.fcs	5300
+614444	Flow cytometry result	50290818	KI67_101298 DAY 0.614444.fcs	KI67_101298 DAY 0.fcs	5300
+614445	Flow cytometry result	168447589	ARA06_B MEM_101298 WK12.614445.fcs	ARA06_B MEM_101298 WK12.fcs	5300
+614446	Flow cytometry result	58470331	TRAN_101298 WK 12.614446.fcs	TRAN_101298 WK 12.fcs	5300
+614447	Flow cytometry result	42714211	TCOMBO_101298 WK 12.614447.fcs	TCOMBO_101298 WK 12.fcs	5300
+614448	Flow cytometry result	44635869	KI67_101298 WK 12.614448.fcs	KI67_101298 WK 12.fcs	5300
+614449	Flow cytometry result	160864045	ARA06_B MEM_101298 WK24.614449.fcs	ARA06_B MEM_101298 WK24.fcs	5300
+614450	Flow cytometry result	56069059	TRAN_101298 WK 24.614450.fcs	TRAN_101298 WK 24.fcs	5300
+614451	Flow cytometry result	45669027	TCOMBO_101298 WK 24.614451.fcs	TCOMBO_101298 WK 24.fcs	5300
+614452	Flow cytometry result	44666131	KI67_101298 WK 24.614452.fcs	KI67_101298 WK 24.fcs	5300
+614453	Flow cytometry result	100370773	ARA06_B MEM_101314 DAY 0.614453.fcs	ARA06_B MEM_101314 DAY 0.fcs	5300
+614454	Flow cytometry result	68912171	TRAN_101314 DAY 0.614454.fcs	TRAN_101314 DAY 0.fcs	5300
+614455	Flow cytometry result	37226825	T COMBO_101314 DAY 0.614455.fcs	T COMBO_101314 DAY 0.fcs	5300
+614456	Flow cytometry result	49114502	KI67_101314 DAY 0.614456.fcs	KI67_101314 DAY 0.fcs	5300
+614457	Flow cytometry result	171576033	ARA06_B MEM_101314 WK12.614457.fcs	ARA06_B MEM_101314 WK12.fcs	5300
+614458	Flow cytometry result	62576312	TRAN_101314 WK 12.614458.fcs	TRAN_101314 WK 12.fcs	5300
+614459	Flow cytometry result	36858424	T COMBO_101314 WK 12.614459.fcs	T COMBO_101314 WK 12.fcs	5300
+614460	Flow cytometry result	46447542	KI67_101314 WK 12.614460.fcs	KI67_101314 WK 12.fcs	5300
+614461	Flow cytometry result	79842133	ARA06_B MEM_101314 WK24.614461.fcs	ARA06_B MEM_101314 WK24.fcs	5300
+614462	Flow cytometry result	57889039	TRAN_101314 WK 24.614462.fcs	TRAN_101314 WK 24.fcs	5300
+614463	Flow cytometry result	44053179	T COMBO_101314 WK 24.614463.fcs	T COMBO_101314 WK 24.fcs	5300
+614464	Flow cytometry result	42595679	KI67_101314 WK 24.614464.fcs	KI67_101314 WK 24.fcs	5300
+614465	Flow cytometry result	149273049	ARA06_B MEM_101331 DAY 0.614465.fcs	ARA06_B MEM_101331 DAY 0.fcs	5300
+614466	Flow cytometry result	69685951	TRAN_101331 DAY 0.614466.fcs	TRAN_101331 DAY 0.fcs	5300
+614467	Flow cytometry result	56713165	TCOMBO_101331 DAY 0.614467.fcs	TCOMBO_101331 DAY 0.fcs	5300
+614468	Flow cytometry result	54754055	KI67_101331 DAY 0.614468.fcs	KI67_101331 DAY 0.fcs	5300
+614469	Flow cytometry result	171555174	ARA06_B MEM_101331 WK12.614469.fcs	ARA06_B MEM_101331 WK12.fcs	5300
+614470	Flow cytometry result	62349654	TRAN_101331 WK 12.614470.fcs	TRAN_101331 WK 12.fcs	5300
+614471	Flow cytometry result	42572172	TCOMBO_101331 WK 12.614471.fcs	TCOMBO_101331 WK 12.fcs	5300
+614472	Flow cytometry result	50275914	KI67_101331 WK 12.614472.fcs	KI67_101331 WK 12.fcs	5300
+614473	Flow cytometry result	181631574	ARA06_B MEM_101331 WK24.614473.fcs	ARA06_B MEM_101331 WK24.fcs	5300
+614474	Flow cytometry result	61649022	TRAN_101331 WK 24.614474.fcs	TRAN_101331 WK 24.fcs	5300
+614475	Flow cytometry result	45337551	TCOMBO_101331 WK 24.614475.fcs	TCOMBO_101331 WK 24.fcs	5300
+614476	Flow cytometry result	48200757	KI67_101331 WK 24.614476.fcs	KI67_101331 WK 24.fcs	5300
+614477	Flow cytometry result	78835390	ARA06_B MEM_101342 DAY 0.614477.fcs	ARA06_B MEM_101342 DAY 0.fcs	5300
+614478	Flow cytometry result	41385259	TRAN_101342 DAY 0.614478.fcs	TRAN_101342 DAY 0.fcs	5300
+614479	Flow cytometry result	19710967	TCOMBO_101342 DAY 0.614479.fcs	TCOMBO_101342 DAY 0.fcs	5300
+614480	Flow cytometry result	50350037	KI67_101342 DAY 0.614480.fcs	KI67_101342 DAY 0.fcs	5300
+614481	Flow cytometry result	61106468	ARA06_B MEM_101342 WK12.614481.fcs	ARA06_B MEM_101342 WK12.fcs	5300
+614482	Flow cytometry result	35031036	TRAN_101342 WK 12.614482.fcs	TRAN_101342 WK 12.fcs	5300
+614483	Flow cytometry result	15476219	TCOMBO_101342 WK 12.614483.fcs	TCOMBO_101342 WK 12.fcs	5300
+614484	Flow cytometry result	25503987	KI67_101342 WK 12.614484.fcs	KI67_101342 WK 12.fcs	5300
+614485	Flow cytometry result	108628052	ARA06_B MEM_101342 WK24.614485.fcs	ARA06_B MEM_101342 WK24.fcs	5300
+614486	Flow cytometry result	64028964	TRAN_101342 WK 24.614486.fcs	TRAN_101342 WK 24.fcs	5300
+614487	Flow cytometry result	25462905	TCOMBO_101342 WK 24.614487.fcs	TCOMBO_101342 WK 24.fcs	5300
+614488	Flow cytometry result	49884986	KI67_101342 WK 24.614488.fcs	KI67_101342 WK 24.fcs	5300
+614489	Flow cytometry result	122195876	ARA06_B MEM_101355 DAY 0.614489.fcs	ARA06_B MEM_101355 DAY 0.fcs	5300
+614490	Flow cytometry result	61307291	TRAN_101355 DAY 0.614490.fcs	TRAN_101355 DAY 0.fcs	5300
+614491	Flow cytometry result	55948793	TCOMBO_101355 DAY 0.614491.fcs	TCOMBO_101355 DAY 0.fcs	5300
+614492	Flow cytometry result	44453349	KI67_101355 DAY 0.614492.fcs	KI67_101355 DAY 0.fcs	5300
+614493	Flow cytometry result	85651255	ARA06_B MEM_101355 WK12.614493.fcs	ARA06_B MEM_101355 WK12.fcs	5300
+614494	Flow cytometry result	77590452	TRAN_101355 WK 12.614494.fcs	TRAN_101355 WK 12.fcs	5300
+614495	Flow cytometry result	53601658	TCOMBO_101355 WK 12.614495.fcs	TCOMBO_101355 WK 12.fcs	5300
+614496	Flow cytometry result	54075894	KI67_1013355 WK 12.614496.fcs	KI67_1013355 WK 12.fcs	5300
+614497	Flow cytometry result	103713475	ARA06_B MEM_101355 WK24.614497.fcs	ARA06_B MEM_101355 WK24.fcs	5300
+614498	Flow cytometry result	71935289	TRAN_101355 WK 24.614498.fcs	TRAN_101355 WK 24.fcs	5300
+614499	Flow cytometry result	65835320	TCOMBO_101355 WK 24.614499.fcs	TCOMBO_101355 WK 24.fcs	5300
+614500	Flow cytometry result	51601850	KI67_101355 WK 24.614500.fcs	KI67_101355 WK 24.fcs	5300
+614501	Flow cytometry result	102092769	ARA06_B MEM_101377 DAY 0.614501.fcs	ARA06_B MEM_101377 DAY 0.fcs	5300
+614502	Flow cytometry result	50269447	TRAN_101377 DAY 0.614502.fcs	TRAN_101377 DAY 0.fcs	5300
+614503	Flow cytometry result	28804437	TCOMBO_101377 DAY 0.614503.fcs	TCOMBO_101377 DAY 0.fcs	5300
+614504	Flow cytometry result	79892536	KI67_101377 DAY 0.614504.fcs	KI67_101377 DAY 0.fcs	5300
+614505	Flow cytometry result	194366169	ARA06_B MEM_101377 WK12.614505.fcs	ARA06_B MEM_101377 WK12.fcs	5300
+614506	Flow cytometry result	84215135	TRAN_101377 WK 12.614506.fcs	TRAN_101377 WK 12.fcs	5300
+614507	Flow cytometry result	104084240	TCOMBO_101377 WK 12.614507.fcs	TCOMBO_101377 WK 12.fcs	5300
+614508	Flow cytometry result	84527413	KI67_101377WK 12.614508.fcs	KI67_101377WK 12.fcs	5300
+614509	Flow cytometry result	208545704	ARA06_B MEM_101377 WK24.614509.fcs	ARA06_B MEM_101377 WK24.fcs	5300
+614510	Flow cytometry result	75609275	TRAN_101377 WK 24.614510.fcs	TRAN_101377 WK 24.fcs	5300
+614511	Flow cytometry result	57291985	TCOMBO_101377 WK 24.614511.fcs	TCOMBO_101377 WK 24.fcs	5300
+614512	Flow cytometry result	58598945	KI67_101377WK 24.614512.fcs	KI67_101377WK 24.fcs	5300
+614513	Flow cytometry result	22266103	20120112_120014 DAY 0.614513.fcs	20120112_120014 DAY 0.fcs	5300
+614514	Flow cytometry result	15918034	Transitional_120014 Day 0.614514.fcs	Transitional_120014 Day 0.fcs	5300
+614515	Flow cytometry result	13895956	T-helper_120014 Day 0.614515.fcs	T-helper_120014 Day 0.fcs	5300
+614516	Flow cytometry result	55812955	20120112_120014 WK 12.614516.fcs	20120112_120014 WK 12.fcs	5300
+614517	Flow cytometry result	70696460	Transitional_120014 Wk 12.614517.fcs	Transitional_120014 Wk 12.fcs	5300
+614518	Flow cytometry result	38789233	T-helper_120014 Wk 12.614518.fcs	T-helper_120014 Wk 12.fcs	5300
+614519	Flow cytometry result	60309583	20120112_120014 WK 24.614519.fcs	20120112_120014 WK 24.fcs	5300
+614520	Flow cytometry result	56159924	Transitional_120014 Wk 24.614520.fcs	Transitional_120014 Wk 24.fcs	5300
+614521	Flow cytometry result	44118386	T-helper_120014 Wk 24.614521.fcs	T-helper_120014 Wk 24.fcs	5300
+614522	Flow cytometry result	59458703	ARA06_B MEMORY_650022 DAY 0.614522.fcs	ARA06_B MEMORY_650022 DAY 0.fcs	5300
+614523	Flow cytometry compensation or control	85510063	ARA06_B MEMORY_33286-04 IC.614523.fcs	ARA06_B MEMORY_33286-04 IC.fcs	5300
+614524	Flow cytometry compensation or control	36138937	ARA06_B MEMORY_B220 FMO.614524.fcs	ARA06_B MEMORY_B220 FMO.fcs	5300
+614525	Flow cytometry result	11832458	ARA06_TRAN_650022 DAY0 FSCSSC2.614525.fcs	ARA06_TRAN_650022 DAY0 FSCSSC2.fcs	5300
+614526	Flow cytometry compensation or control	42261545	ARA06_TRAN_33286-04 IC.614526.fcs	ARA06_TRAN_33286-04 IC.fcs	5300
+614527	Flow cytometry result	8638009	T COMBO_650022 DAY 0.614527.fcs	T COMBO_650022 DAY 0.fcs	5300
+614528	Flow cytometry compensation or control	643484	Specimen_001_PK6.614528.fcs	Specimen_001_PK6.fcs	5300
+614529	Flow cytometry compensation or control	32297686	T COMBO_TONSIL NEW.614529.fcs	T COMBO_TONSIL NEW.fcs	5300
+614530	Flow cytometry compensation or control	23805140	T COMBO_TONSIL OLD.614530.fcs	T COMBO_TONSIL OLD.fcs	5300
+614531	Flow cytometry result	66564669	ARA06_B MEMORY_650022 WK12.614531.fcs	ARA06_B MEMORY_650022 WK12.fcs	5300
+614532	Flow cytometry result	34237700	ARA06_TRAN_650022 WK 12 FSCSSC2.614532.fcs	ARA06_TRAN_650022 WK 12 FSCSSC2.fcs	5300
+614533	Flow cytometry result	31933555	T COMBO_650022 WK 12.614533.fcs	T COMBO_650022 WK 12.fcs	5300
+614534	Flow cytometry result	74690517	ARA06_B MEMORY_650022 WK24.614534.fcs	ARA06_B MEMORY_650022 WK24.fcs	5300
+614535	Flow cytometry result	50644405	ARA06_TRAN_650022 WK 24.614535.fcs	ARA06_TRAN_650022 WK 24.fcs	5300
+614536	Flow cytometry result	50234361	T COMBO_650022 WK 24.614536.fcs	T COMBO_650022 WK 24.fcs	5300
+614537	Flow cytometry result	98462182	ARA06_B MEMORY_650033 DAY 0.614537.fcs	ARA06_B MEMORY_650033 DAY 0.fcs	5300
+614538	Flow cytometry result	42130332	ARA06_TRAN_650033 DAY 0.614538.fcs	ARA06_TRAN_650033 DAY 0.fcs	5300
+614539	Flow cytometry result	36307126	T COMBO_650033 DAY 0.614539.fcs	T COMBO_650033 DAY 0.fcs	5300
+614540	Flow cytometry result	110911487	ARA06_B MEMORY_650033 WK12.614540.fcs	ARA06_B MEMORY_650033 WK12.fcs	5300
+614541	Flow cytometry result	54544154	ARA06_TRAN_650033 WK12 FSCSSC2.614541.fcs	ARA06_TRAN_650033 WK12 FSCSSC2.fcs	5300
+614542	Flow cytometry result	43725682	T COMBO_650033 WK 12.614542.fcs	T COMBO_650033 WK 12.fcs	5300
+614543	Flow cytometry result	95661523	ARA06_B MEMORY_650033 WK24.614543.fcs	ARA06_B MEMORY_650033 WK24.fcs	5300
+614544	Flow cytometry result	88373125	ARA06_TRAN_650033 WK 24.614544.fcs	ARA06_TRAN_650033 WK 24.fcs	5300
+614545	Flow cytometry result	41896306	T COMBO_650033 WK 24.614545.fcs	T COMBO_650033 WK 24.fcs	5300
+614546	Flow cytometry result	86837062	ARA06_B MEMORY_650069 DAY 0.614546.fcs	ARA06_B MEMORY_650069 DAY 0.fcs	5300
+614547	Flow cytometry result	46249382	ARA06_TRAN_650069 DAY 0.614547.fcs	ARA06_TRAN_650069 DAY 0.fcs	5300
+614548	Flow cytometry result	19415923	T COMBO_650069 DAY 0.614548.fcs	T COMBO_650069 DAY 0.fcs	5300
+614549	Flow cytometry result	87853125	ARA06_B MEMORY_650069 WK12.614549.fcs	ARA06_B MEMORY_650069 WK12.fcs	5300
+614550	Flow cytometry result	40296060	ARA06_TRAN_650069 WK 12.614550.fcs	ARA06_TRAN_650069 WK 12.fcs	5300
+614551	Flow cytometry result	19772786	T COMBO_650069 WK 12.614551.fcs	T COMBO_650069 WK 12.fcs	5300
+614552	Flow cytometry result	46287813	ARA06_B MEMORY_650069 WK24.614552.fcs	ARA06_B MEMORY_650069 WK24.fcs	5300
+614553	Flow cytometry result	13766512	T COMBO_650069 WK24.614553.fcs	T COMBO_650069 WK24.fcs	5300
+614555	Flow cytometry workspace	8	dummy.614555.jo	dummy.jo	5300
+614556	Flow cytometry workspace	1651409	NM_101023_101057.614556.jo	NM_101023_101057.jo	5300
+614557	Flow cytometry workspace	861142	JHOSS 101023 -101057 ARA06 THELP.614557.jo	JHOSS 101023 -101057 ARA06 THELP.jo	5300
+614558	Flow cytometry workspace	1652621	NM_101034_101085.614558.jo	NM_101034_101085.jo	5300
+614559	Flow cytometry workspace	844405	JHOSS 20120109 ARA06 TEHLP .614559.jo	JHOSS 20120109 ARA06 TEHLP .jo	5300
+614560	Flow cytometry workspace	1654708	NM_101040_101096.614560.jo	NM_101040_101096.jo	5300
+614561	Flow cytometry workspace	844530	JHOSS 20120105 ARA06 THELP .614561.jo	JHOSS 20120105 ARA06 THELP .jo	5300
+614562	Flow cytometry workspace	1946141	NM_101079_101175_101197.614562.jo	NM_101079_101175_101197.jo	5300
+614563	Flow cytometry workspace	3958217	NM_KI67_101079_197_175 #2.614563.jo	NM_KI67_101079_197_175 #2.jo	5300
+614564	Flow cytometry workspace	1381282	JHOSS 20141024 ARA06 TCOMBO.614564.jo	JHOSS 20141024 ARA06 TCOMBO.jo	5300
+614565	Flow cytometry workspace	2104842	NM_101100_101210_101314.614565.jo	NM_101100_101210_101314.jo	5300
+614566	Flow cytometry workspace	4319498	NM_KI67_101314_210_100.614566.jo	NM_KI67_101314_210_100.jo	5300
+614567	Flow cytometry workspace	1807784	JHOSS 20141028 ARA06 TCOMBO.614567.jo	JHOSS 20141028 ARA06 TCOMBO.jo	5300
+614568	Flow cytometry workspace	1171170	NM_101122.614568.jo	NM_101122.jo	5300
+614569	Flow cytometry workspace	674893	JHOSS 101122 ARA06 THELP.614569.jo	JHOSS 101122 ARA06 THELP.jo	5300
+614570	Flow cytometry workspace	1168765	NM_101133.614570.jo	NM_101133.jo	5300
+614571	Flow cytometry workspace	513543	JHOSS 101133 ARA06 THELP.614571.jo	JHOSS 101133 ARA06 THELP.jo	5300
+614572	Flow cytometry workspace	1160834	NM_101144.614572.jo	NM_101144.jo	5300
+614573	Flow cytometry workspace	766890	JHOSS 101144 ARA06 THELP.614573.jo	JHOSS 101144 ARA06 THELP.jo	5300
+614574	Flow cytometry workspace	1169542	NM_101158.614574.jo	NM_101158.jo	5300
+614575	Flow cytometry workspace	780292	JHOSS 101158 ARA06 THELP .614575.jo	JHOSS 101158 ARA06 THELP .jo	5300
+614576	Flow cytometry workspace	1166272	NM_101169.614576.jo	NM_101169.jo	5300
+614577	Flow cytometry workspace	768032	JHOSS 101169 ARA06 THELP.614577.jo	JHOSS 101169 ARA06 THELP.jo	5300
+614578	Flow cytometry workspace	2072965	NM_101186_101221_101377.614578.jo	NM_101186_101221_101377.jo	5300
+614579	Flow cytometry workspace	4317341	NM_KI67_101377_221_186.614579.jo	NM_KI67_101377_221_186.jo	5300
+614580	Flow cytometry workspace	2236234	JHOSS 20141107 ARA06 TCOMBO.614580.jo	JHOSS 20141107 ARA06 TCOMBO.jo	5300
+614581	Flow cytometry workspace	2072818	NM_101204_101342_101355.614581.jo	NM_101204_101342_101355.jo	5300
+614582	Flow cytometry workspace	4674698	NM_KI67_101335_342_204.614582.jo	NM_KI67_101335_342_204.jo	5300
+614583	Flow cytometry workspace	1356048	JHOSS 20141021 ARA06 TCOMBO.614583.jo	JHOSS 20141021 ARA06 TCOMBO.jo	5300
+614584	Flow cytometry workspace	2085104	NM_101298_101276_101243.614584.jo	NM_101298_101276_101243.jo	5300
+614585	Flow cytometry workspace	4319375	NM_KI67_101298_276_243.614585.jo	NM_KI67_101298_276_243.jo	5300
+614586	Flow cytometry workspace	1378466	JHOSS 20141104 ARA06 TCOMBO.614586.jo	JHOSS 20141104 ARA06 TCOMBO.jo	5300
+614587	Flow cytometry workspace	2071757	NM_101331_101259_101287.614587.jo	NM_101331_101259_101287.jo	5300
+614588	Flow cytometry workspace	4262214	NM_KI67_101287_259_331b.614588.jo	NM_KI67_101287_259_331b.jo	5300
+614589	Flow cytometry workspace	1381410	JHOSS 20141031 ARA06 TCOMBO.614589.jo	JHOSS 20141031 ARA06 TCOMBO.jo	5300
+614590	Flow cytometry workspace	1653624	NM_074015_120014.614590.jo	NM_074015_120014.jo	5300
+614591	Flow cytometry workspace	898097	JHOSS 074015-120014 ARA06 THELP.614591.jo	JHOSS 074015-120014 ARA06 THELP.jo	5300
+614592	Flow cytometry workspace	1240009	JHOSS 074015+120014 ARA06.614592.jo	JHOSS 074015+120014 ARA06.jo	5300
+614593	Flow cytometry workspace	2185797	NM_052126_052064_052070_052049.614593.jo	NM_052126_052064_052070_052049.jo	5300
+614594	Flow cytometry workspace	1524624	JHOSS 20140930 ARA06 TCOMBO.614594.jo	JHOSS 20140930 ARA06 TCOMBO.jo	5300
+614595	Flow cytometry workspace	1115489	NM_052053.614595.jo	NM_052053.jo	5300
+614596	Flow cytometry workspace	504313	JHOSS 052053 ARA06 THELP.614596.jo	JHOSS 052053 ARA06 THELP.jo	5300
+614597	Flow cytometry workspace	2230183	NM_052109_052115_052081.614597.jo	NM_052109_052115_052081.jo	5300
+614598	Flow cytometry workspace	1435952	JHOSS 20140926 ARA06 TCOMBO.614598.jo	JHOSS 20140926 ARA06 TCOMBO.jo	5300
+614599	Flow cytometry workspace	1383598	JHOSS 20140923ARA06 TCOMBO.614599.jo	JHOSS 20140923ARA06 TCOMBO.jo	5300
+614600	Flow cytometry workspace	2073513	NM_060015_060026_074119.614600.jo	NM_060015_060026_074119.jo	5300
+614601	Flow cytometry workspace	1380100	JHOSS 20141003 ARA06 TCOMBO.614601.jo	JHOSS 20141003 ARA06 TCOMBO.jo	5300
+614602	Flow cytometry workspace	1917187	NM_060037_060048_060054.614602.jo	NM_060037_060048_060054.jo	5300
+614603	Flow cytometry workspace	1897925	NM_650022_650033_650069.614603.jo	NM_650022_650033_650069.jo	5300
+614604	Flow cytometry workspace	1363533	JHOSS 20140917ARA06 TCOMBO.614604.jo	JHOSS 20140917ARA06 TCOMBO.jo	5300
+614605	Flow cytometry workspace	1938167	NM_074054_074026_074060.614605.jo	NM_074054_074026_074060.jo	5300
+614606	Flow cytometry workspace	1384580	JHOSS 20140918 ARA06 TCOMBO.614606.jo	JHOSS 20140918 ARA06 TCOMBO.jo	5300
+614607	Flow cytometry workspace	1168263	NM_074048.614607.jo	NM_074048.jo	5300
+614608	Flow cytometry workspace	624404	JHOSS 074048 ARA06 T HRLP.614608.jo	JHOSS 074048 ARA06 T HRLP.jo	5300
+614609	Flow cytometry workspace	1928867	NM_074071_074082_074093.614609.jo	NM_074071_074082_074093.jo	5300
+614610	Flow cytometry workspace	1298956	JHOSS 20140919 ARA06 TCOMBO.614610.jo	JHOSS 20140919 ARA06 TCOMBO.jo	5300

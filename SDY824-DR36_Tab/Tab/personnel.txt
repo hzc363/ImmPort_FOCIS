@@ -1,0 +1,7 @@
+PERSONNEL_ID	EMAIL	FIRST_NAME	LAST_NAME	ORGANIZATION
+278	henry.schaefer@nih.gov	Henry	Schaefer	ESAC Inc
+2119	hall0009@mc.duke.edu_1	Russell	Hall	Duke University Medical Center
+2780	caranow@nshs.edu	Cynthia	Aranow	North Shore-Long Island Jewish Health System
+3400	bisc_helpdesk@nih.gov	Robert	Eisenberg	UNIVERSITY OF PENNSYLVANIA
+3881	Jennifer_Anolik@URMC.Rochester.edu	Jennifer	Anolik	U. Rochester
+4452	skhoury@partners.org	Samia	Khoury	Brigham and Women?s Hospital

@@ -1,0 +1,7 @@
+LAB_TEST_PANEL_ACCESSION	NAME_PREFERRED	NAME_REPORTED	STUDY_ACCESSION	WORKSPACE_ID
+LP29980	Chemistry Test	Chemistry Test	SDY824	5300
+LP29981	Chemistry Test	Chemistry Test	SDY824	5300
+LP29982	Protein or Enzyme Type Measurement	Protein or Enzyme Type Measurement	SDY824	5300
+LP29983	Blood Cell Count with Differential	Blood Cell Count with Differential	SDY824	5300
+LP29987	Immunology Test	Autoantibodies	SDY824	5300
+LP29988	Immunology Test	Antibody Titers	SDY824	5300

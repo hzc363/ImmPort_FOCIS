@@ -1,0 +1,63 @@
+STUDY_FILE_ACCESSION	DESCRIPTION	FILE_NAME	STUDY_ACCESSION	STUDY_FILE_TYPE	WORKSPACE_ID
+SFL10304	Mechanistic Results	admech2_r_ARA06.txt	SDY824	Study Data	5300
+SFL10305	Adverse event data	aexp_r_ARA06.txt	SDY824	Adverse Events	5300
+SFL10306	Antibody Titers	aner_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10307	Antibody Titers	anr2_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10308	Antibody Titers	anr3_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10309	Antibody Titers	anr4_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10310	Autoantibodies	auts_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10311	Blind Break	blbr_r_ARA06.txt	SDY824	Study Data	5300
+SFL10312	Call Record	call_r_ARA06.txt	SDY824	Study Data	5300
+SFL10313	Blood for B Cell and/or T Cell Panel	cell_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10314	Chemistry	chem_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10315	Chemistry	chms_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10316	Chest X-Ray	chst_r_ARA06.txt	SDY824	Study Data	5300
+SFL10317	Concomitant Medications	cmed_r_ARA06.txt	SDY824	Concomitant Medications	5300
+SFL10318	Initiation/Termination of Concurrent Therapy ? MTX	cmtx_r_ARA06.txt	SDY824	Study Data	5300
+SFL10319	Coagulation	coag_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10320	CRP	crpt_r_ARA06.txt	SDY824	Study Data	5300
+SFL10321	Demographics	demo_r_ARA06.txt	SDY824	Demographics	5300
+SFL10322	Protocol Deviations	devi_r_ARA06.txt	SDY824	Study Data	5300
+SFL10323	Initiation/Termination of Study Drug	disc_r_ARA06.txt	SDY824	Study Data	5300
+SFL10324	Exclusion Criteria	excl_r_ARA06.txt	SDY824	Study Data	5300
+SFL10325	Vaccine Sub-Study Exclusion Criteria	exs1_r_ARA06.txt	SDY824	Study Data	5300
+SFL10326	Biopsy Sub-Stdy Exclusion Criteria	exs2_r_ARA06.txt	SDY824	Study Data	5300
+SFL10327	B-Cell Sub-Study Exclusion Criteria	exs3_r_ARA06.txt	SDY824	Study Data	5300
+SFL10328	Family History of Autoimmune Disease	fmhx_r_ARA06.txt	SDY824	Study Data	5300
+SFL10329	Family History of Autoimmune Disease	fmyn_r_ARA06.txt	SDY824	Study Data	5300
+SFL10330	Global Assessments	glob_r_ARA06.txt	SDY824	Assessment Results	5300
+SFL10331	Hematology	hema_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10332	Hematology	hems_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10333	Inclusion Criteria	incl_r_ARA06.txt	SDY824	Study Data	5300
+SFL10334	Infectious Disease Testing	inds_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10335	Tender & Swollen Joint Assessment	jnts_r_ARA06.txt	SDY824	Assessment Results	5300
+SFL10336	Tender & Swollen Joint Assessment	jtct_r_ARA06.txt	SDY824	Assessment Results	5300
+SFL10337	Medical History	mdhx_r_ARA06.txt	SDY824	Study Data	5300
+SFL10338	Medical History	mhvs_r_ARA06.txt	SDY824	Study Data	5300
+SFL10339	Physical Examination	phx1_r_ARA06.txt	SDY824	Study Data	5300
+SFL10340	Physical Examination	phx2_r_ARA06.txt	SDY824	Study Data	5300
+SFL10341	TB Testing	ppdt_r_ARA06.txt	SDY824	Lab Test Results	5300
+SFL10342	Pregnancy Test Data	preg_r_ARA06.txt	SDY824	Study Data	5300
+SFL10343	Reproductive Status	repr_r_ARA06.txt	SDY824	Study Data	5300
+SFL10344	Serious Adverse Event Information	saev_r_ARA06.txt	SDY824	Adverse Events	5300
+SFL10345	Synovial Biopsy	sbio_r_ARA06.txt	SDY824	Study Data	5300
+SFL10346	Screening Status and Demographics	scrs_r_ARA06.txt	SDY824	Demographics	5300
+SFL10347	Study Drug Administration	sdrb_r_ARA06.txt	SDY824	Study Medication	5300
+SFL10348	Health Assessment Questionnaire	shaq_r_ARA06.txt	SDY824	Assessment Results	5300
+SFL10349	Tonsil Biopsy	tbio_r_ARA06.txt	SDY824	Study Data	5300
+SFL10350	T Cell Response	tcel_r_ARA06.txt	SDY824	Study Data	5300
+SFL10351	Study Completion/Early Termination	term_r_ARA06.txt	SDY824	Study Data	5300
+SFL10352	Concurrent Therapy Log	tlog_r_ARA06.txt	SDY824	Study Data	5300
+SFL10353	SAE Concurrent Therapy	tpro_r_ARA06.txt	SDY824	Adverse Events	5300
+SFL10354	Vaccinations	vac2_r_ARA06.txt	SDY824	Study Data	5300
+SFL10355	Vaccinations	vac3_r_ARA06.txt	SDY824	Study Data	5300
+SFL10356	Vaccinations	vacc_r_ARA06.txt	SDY824	Study Data	5300
+SFL10357	New Protocol Version	vers_r_ARA06.txt	SDY824	Study Data	5300
+SFL10358	Visit Record	vist_r_ARA06.txt	SDY824	Study Data	5300
+SFL10359	Vital Signs	vit2_r_ARA06.txt	SDY824	Study Data	5300
+SFL10360	Vital Signs	vitl_r_ARA06.txt	SDY824	Study Data	5300
+SFL10361	Protocol Deviations	ARA06_Protocol_Deviations.pdf	SDY824	Case Report Form	5300
+SFL10362	Data Dictionary	printSpecs_ADMECH2_2016_05_31_09_22.PDF	SDY824	Data Dictionary	5300
+SFL10363	CRF	ARA06_aCRF_Version3.0_22MAR2011.pdf	SDY824	Case Report Form	5300
+SFL10364	Appendix	ARA06_DatasetConversions.docx	SDY824	Data Dictionary	5300
+SFL10365	Data Dictionary	ARA06_metadata_report_20100329.pdf	SDY824	Data Dictionary	5300

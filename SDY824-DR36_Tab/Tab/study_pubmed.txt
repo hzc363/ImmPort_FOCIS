@@ -1,0 +1,2 @@
+STUDY_ACCESSION	PUBMED_ID	AUTHORS	DOI	ISSUE	JOURNAL	MONTH	PAGES	TITLE	YEAR	WORKSPACE_ID
+SDY824	18937634	Bingham CO 3rd		66(3)	Bulletin of the NYU hospital for joint diseases	Jan	210-5	Emerging therapeutics for rheumatoid arthritis.	2008	5300

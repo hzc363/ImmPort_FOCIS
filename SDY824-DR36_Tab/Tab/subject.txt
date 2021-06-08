@@ -1,0 +1,64 @@
+SUBJECT_ACCESSION	ANCESTRAL_POPULATION	DESCRIPTION	ETHNICITY	GENDER	RACE	RACE_SPECIFY	SPECIES	STRAIN	STRAIN_CHARACTERISTICS	WORKSPACE_ID
+SUB169152	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169153	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169154	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169155	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169156	Other		Not Hispanic or Latino	Male	Black or African American		Homo sapiens			5300
+SUB169157	Other		Not Hispanic or Latino	Male	Black or African American		Homo sapiens			5300
+SUB169158	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169159	Other		Not Hispanic or Latino	Female	Black or African American		Homo sapiens			5300
+SUB169160	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169161	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169162	Other		Not Hispanic or Latino	Female	Black or African American		Homo sapiens			5300
+SUB169163	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169164	Other		Not Hispanic or Latino	Female	Black or African American		Homo sapiens			5300
+SUB169165	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169166	Other		Not Hispanic or Latino	Female	Black or African American		Homo sapiens			5300
+SUB169167	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169168	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169169	Other		Not Hispanic or Latino	Female	Black or African American		Homo sapiens			5300
+SUB169170	Other		Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169171	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169172	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169173	Other		Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169174	Other		Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169175	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169176	Other		Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169177	Other		Hispanic or Latino	Female	Unknown		Homo sapiens			5300
+SUB169178	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169179	Other		Hispanic or Latino	Male	Unknown		Homo sapiens			5300
+SUB169180	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169181	Other		Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169182	Other		Not Hispanic or Latino	Female	American Indian or Alaska Native		Homo sapiens			5300
+SUB169183	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169184	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169185	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169186	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169187	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169188	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169189	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169190	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169191	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169192	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169193	Other		Hispanic or Latino	Female	Other	Puerto Rican	Homo sapiens			5300
+SUB169194	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169195	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169196	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169197	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169198	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169199	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169200	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169201	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169202	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169203	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169204	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169205	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169206	Other		Not Hispanic or Latino	Male	White		Homo sapiens			5300
+SUB169207	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169208	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169209	Other		Not Hispanic or Latino	Female	Black or African American		Homo sapiens			5300
+SUB169210	Other		Hispanic or Latino	Female	Other	Latino	Homo sapiens			5300
+SUB169211	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169212	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169213	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300
+SUB169214	Other		Not Hispanic or Latino	Female	White		Homo sapiens			5300

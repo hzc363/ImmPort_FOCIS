@@ -1,0 +1,3 @@
+ARM_ACCESSION	DESCRIPTION	NAME	STUDY_ACCESSION	TYPE	WORKSPACE_ID
+ARM3215	Participants receive a subcutaneous injection of etanercept once every week for 24 weeks	Etanercept Experimental	SDY824	Experimental	5300
+ARM3216	Participants receive a subcutaneous injection of adalimumab once every 2 weeks for 24 weeks	Adalimumab Experimental	SDY824	Experimental	5300
